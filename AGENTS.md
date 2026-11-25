@@ -60,7 +60,8 @@ do the data work; Power BI (browser) does the model and report; GitHub publishes
 
 ```
 data/raw/          original downloads (read-only) + MANIFEST.csv
-data/reference/    small hand-made lookup tables (LGA list, regions, name mappings)
+data/reference/    small lookup tables (LGA list, regions, ABS codes)
+data/interim/      cleaned intermediate tables (input to SQL in T05), committed
 data/processed/    clean CSVs that feed Power BI
 notebooks/         01_explore, 02_clean, 03_analysis
 sql/               transform.sql and other DuckDB queries
