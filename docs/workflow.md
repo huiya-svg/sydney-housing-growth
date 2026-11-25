@@ -24,8 +24,8 @@ codex -c sandbox_workspace_write.network_access=true
 | T01 | Python environment + core DCJ sales data: download and first look | 0–1 | Codex | Accepted 2026-11-25 |
 | T02 | Candidate "why" factors: find, download, screen (rent, population, income, distance, supply, CPI) | 1 | Codex | Accepted 2026-11-25 |
 | T03 | Greater Sydney LGA lookup + regions; reshape and clean core sales to long format; measure revisions | 2 | Codex | Accepted 2026-11-25 |
-| T04 | Clean the D07 factors into `lga_factors.csv`; distance as SQL; add change columns to sales | 2 | Codex | Ready |
-| T05 | `sql/transform.sql` (joins, CTE, window functions incl. revised-estimate series), `dim_lga`, `dim_date`, validation, export 4 CSVs | 2 | Codex | — |
+| T04 | Clean the D07 factors into `lga_factors.csv`; distance as SQL; add change columns to sales | 2 | Codex | Accepted 2026-11-25 |
+| T05 | `sql/transform.sql` (joins, CTE, window functions incl. revised-estimate series), `dim_lga`, `dim_date`, `lga_growth`, validation, export 4 CSVs | 2 | Codex | Ready |
 | T06 | `docs/data_dictionary.md` for every column | 2 | Codex | — |
 | T07 | Growth measurement: nominal + real, ranking, annualised rate (Phase 3A) | 3 | Codex | — |
 | T08 | Factor tests: scatter, Spearman, correlation matrix, optional regression; draft findings | 3 | Codex + Kang | — |
