@@ -1,0 +1,23 @@
+# Python / Jupyter
+.venv/
+.uv-cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local databases and scratch
+*.duckdb
+*.duckdb.wal
+scratch/
+
+# Address-level data must never be committed (see AGENTS.md rule 3)
+data/raw/private/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
