@@ -20,16 +20,16 @@ codex -c sandbox_workspace_write.network_access=true
 
 | ID | Task | Phase | Who | Status |
 |---|---|---|---|---|
-| P0 | Power BI account (before T05), GitHub account + repo ✅, LinkedIn URL ✅ | 0 | Kang | Power BI pending |
+| P0 | Power BI Desktop on Windows PC ✅ (no online account needed), GitHub account + repo ✅, LinkedIn URL ✅ | 0 | Kang | Done |
 | T01 | Python environment + core DCJ sales data: download and first look | 0–1 | Codex | Accepted 2026-11-25 |
 | T02 | Candidate "why" factors: find, download, screen (rent, population, income, distance, supply, CPI) | 1 | Codex | Accepted 2026-11-25 |
 | T03 | Greater Sydney LGA lookup + regions; reshape and clean core sales to long format; measure revisions | 2 | Codex | Accepted 2026-11-25 |
 | T04 | Clean the D07 factors into `lga_factors.csv`; distance as SQL; add change columns to sales | 2 | Codex | Accepted 2026-11-25 |
-| T05 | `sql/transform.sql` (joins, CTE, window functions incl. revised-estimate series), `dim_lga`, `dim_date`, `lga_growth`, validation, export 4 CSVs | 2 | Codex | Ready |
-| T06 | `docs/data_dictionary.md` for every column | 2 | Codex | — |
-| T07 | Growth measurement: nominal + real, ranking, annualised rate (Phase 3A) | 3 | Codex | — |
+| T05 | `sql/transform.sql` (joins, CTE, window functions incl. revised-estimate series), `dim_lga`, `dim_date`, `lga_growth`, validation, export 4 CSVs | 2 | Codex | Accepted 2026-11-26 |
+| T06 | `docs/data_dictionary.md` for every column (moved: runs after T08 so it documents final columns) | 2 | Codex | — |
+| T07 | Growth analysis: CPI real growth, rankings, D08 sensitivity, first charts (Phase 3A) | 3 | Codex | Ready |
 | T08 | Factor tests: scatter, Spearman, correlation matrix, optional regression; draft findings | 3 | Codex + Kang | — |
-| T09 | Power BI semantic model, star schema, DAX measures, cross-check vs Python | 4 | **Kang** (Claude guides) | — |
+| T09 | Power BI Desktop (Windows): model, star schema, DAX measures, cross-check vs Python — guide in `tasks/T09_powerbi_model_guide.md` | 4 | **Kang** (Claude guides) | Ready (parallel with T07) |
 | T10 | Power BI report pages 1–4, screenshots, PDF export | 4 | **Kang** (Claude reviews) | — |
 | T11 | README write-up, limitations, reproduce steps, final checklist | 5 | Kang + Codex | — |
 | T12 | LinkedIn post draft | 5 | Kang | — |

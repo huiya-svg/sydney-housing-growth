@@ -1,0 +1,2205 @@
+lga,quarter_date,dwelling_type,median_price,sales_count,price_status,low_sales_flag,yoy_change,median_price_revised_est,revised_source
+Bayside,2019-01-01,house,1138000,98,published,false,,1150000,annual
+Bayside,2019-01-01,unit,675000,265,published,false,,685000,annual
+Bayside,2019-04-01,house,1127000,174,published,false,,1160000,annual
+Bayside,2019-04-01,unit,690000,442,published,false,,700000,annual
+Bayside,2019-07-01,house,1250000,162,published,false,,1251000,annual
+Bayside,2019-07-01,unit,720000,494,published,false,,720000,annual
+Bayside,2019-10-01,house,1366000,191,published,false,,1368000,annual
+Bayside,2019-10-01,unit,725000,540,published,false,,725000,annual
+Bayside,2020-01-01,house,1390000,149,published,false,0.2214411247803163,1400000,annual
+Bayside,2020-01-01,unit,730000,439,published,false,0.08148148148148149,730000,annual
+Bayside,2020-04-01,house,1301000,128,published,false,0.15439219165927232,1350000,annual
+Bayside,2020-04-01,unit,679000,290,published,false,-0.01594202898550723,700000,annual
+Bayside,2020-07-01,house,1373000,180,published,false,0.09840000000000004,1400000,annual
+Bayside,2020-07-01,unit,730000,499,published,false,0.01388888888888884,735000,annual
+Bayside,2020-10-01,house,1375000,265,published,false,0.0065885797950220315,1400000,annual
+Bayside,2020-10-01,unit,775000,711,published,false,0.06896551724137923,775000,annual
+Bayside,2021-01-01,house,1505000,177,published,false,0.08273381294964022,1513000,annual
+Bayside,2021-01-01,unit,745000,676,published,false,0.020547945205479534,745000,annual
+Bayside,2021-04-01,house,1670000,277,published,false,0.28362797847809373,1680000,annual
+Bayside,2021-04-01,unit,733000,674,published,false,0.07952871870397638,740000,annual
+Bayside,2021-07-01,house,1815000,230,published,false,0.32192279679533864,1830000,annual
+Bayside,2021-07-01,unit,750000,625,published,false,0.027397260273972712,750000,annual
+Bayside,2021-10-01,house,1800000,287,published,false,0.3090909090909091,1817000,annual
+Bayside,2021-10-01,unit,750000,645,published,false,-0.032258064516129004,750000,annual
+Bayside,2022-01-01,house,1838000,202,published,false,0.22126245847176085,1849000,annual
+Bayside,2022-01-01,unit,749000,477,published,false,0.005369127516778427,745000,annual
+Bayside,2022-04-01,house,1800000,206,published,false,0.07784431137724557,1800000,annual
+Bayside,2022-04-01,unit,750000,594,published,false,0.023192360163710735,750000,annual
+Bayside,2022-07-01,house,1700000,198,published,false,-0.0633608815426997,1750000,annual
+Bayside,2022-07-01,unit,734000,456,published,false,-0.021333333333333315,732000,annual
+Bayside,2022-10-01,house,1593000,196,published,false,-0.11499999999999999,1600000,annual
+Bayside,2022-10-01,unit,730000,468,published,false,-0.026666666666666616,730000,annual
+Bayside,2023-01-01,house,1582000,147,published,false,-0.13928182807399347,1595000,annual
+Bayside,2023-01-01,unit,739000,516,published,false,-0.013351134846461998,740000,annual
+Bayside,2023-04-01,house,1655000,170,published,false,-0.0805555555555556,1700000,annual
+Bayside,2023-04-01,unit,735000,561,published,false,-0.020000000000000018,750000,annual
+Bayside,2023-07-01,house,1768000,206,published,false,0.040000000000000036,1800000,annual
+Bayside,2023-07-01,unit,750000,637,published,false,0.021798365122615904,750000,annual
+Bayside,2023-10-01,house,1840000,216,published,false,0.15505335844318902,1859000,annual
+Bayside,2023-10-01,unit,770000,592,published,false,0.0547945205479452,780000,annual
+Bayside,2024-01-01,house,1925000,201,published,false,0.2168141592920354,1950000,annual
+Bayside,2024-01-01,unit,725000,669,published,false,-0.018944519621109657,726000,annual
+Bayside,2024-04-01,house,1900000,216,published,false,0.14803625377643503,1900000,annual
+Bayside,2024-04-01,unit,797000,651,published,false,0.08435374149659869,800000,annual
+Bayside,2024-07-01,house,1926000,201,published,false,0.08936651583710398,1962000,annual
+Bayside,2024-07-01,unit,800000,667,published,false,0.06666666666666665,800000,annual
+Bayside,2024-10-01,house,1840000,190,published,false,0.0,1851000,annual
+Bayside,2024-10-01,unit,780000,619,published,false,0.01298701298701288,790000,annual
+Bayside,2025-01-01,house,1955000,144,published,false,0.01558441558441559,1989000,annual
+Bayside,2025-01-01,unit,800000,513,published,false,0.10344827586206895,805000,annual
+Bayside,2025-04-01,house,1930000,222,published,false,0.015789473684210575,1930000,quarterly
+Bayside,2025-04-01,unit,795000,620,published,false,-0.0025094102885822034,795000,quarterly
+Bayside,2025-07-01,house,1975000,225,published,false,0.02544132917964692,2000000,quarterly
+Bayside,2025-07-01,unit,825000,687,published,false,0.03125,825000,quarterly
+Bayside,2025-10-01,house,2033000,230,published,false,0.10489130434782612,2053000,quarterly
+Bayside,2025-10-01,unit,820000,674,published,false,0.05128205128205132,822000,quarterly
+Bayside,2026-01-01,house,2006000,179,published,false,0.026086956521739202,2006000,first_published
+Bayside,2026-01-01,unit,835000,538,published,false,0.043749999999999956,835000,first_published
+Blacktown,2019-01-01,house,684000,564,published,false,,685000,annual
+Blacktown,2019-01-01,unit,525000,123,published,false,,545000,annual
+Blacktown,2019-04-01,house,705000,747,published,false,,710000,annual
+Blacktown,2019-04-01,unit,538000,150,published,false,,535000,annual
+Blacktown,2019-07-01,house,720000,890,published,false,,715000,annual
+Blacktown,2019-07-01,unit,550000,220,published,false,,550000,annual
+Blacktown,2019-10-01,house,755000,883,published,false,,750000,annual
+Blacktown,2019-10-01,unit,520000,221,published,false,,530000,annual
+Blacktown,2020-01-01,house,761000,733,published,false,0.11257309941520477,760000,annual
+Blacktown,2020-01-01,unit,570000,206,published,false,0.08571428571428563,570000,annual
+Blacktown,2020-04-01,house,755000,682,published,false,0.07092198581560294,750000,annual
+Blacktown,2020-04-01,unit,540000,113,published,false,0.0037174721189590088,562000,annual
+Blacktown,2020-07-01,house,775000,991,published,false,0.07638888888888884,768000,annual
+Blacktown,2020-07-01,unit,540000,231,published,false,-0.018181818181818188,560000,annual
+Blacktown,2020-10-01,house,795000,1168,published,false,0.052980132450331174,792000,annual
+Blacktown,2020-10-01,unit,545000,338,published,false,0.04807692307692313,555000,annual
+Blacktown,2021-01-01,house,850000,1189,published,false,0.11695137976346914,850000,annual
+Blacktown,2021-01-01,unit,570000,400,published,false,0.0,570000,annual
+Blacktown,2021-04-01,house,920000,1283,published,false,0.2185430463576159,920000,annual
+Blacktown,2021-04-01,unit,580000,549,published,false,0.07407407407407418,585000,annual
+Blacktown,2021-07-01,house,965000,1153,published,false,0.2451612903225806,962000,annual
+Blacktown,2021-07-01,unit,624000,389,published,false,0.15555555555555545,600000,annual
+Blacktown,2021-10-01,house,980000,1225,published,false,0.23270440251572322,990000,annual
+Blacktown,2021-10-01,unit,605000,484,published,false,0.11009174311926606,600000,annual
+Blacktown,2022-01-01,house,1041000,985,published,false,0.2247058823529411,1050000,annual
+Blacktown,2022-01-01,unit,590000,414,published,false,0.03508771929824572,591000,annual
+Blacktown,2022-04-01,house,1020000,883,published,false,0.10869565217391308,1020000,annual
+Blacktown,2022-04-01,unit,600000,433,published,false,0.034482758620689724,600000,annual
+Blacktown,2022-07-01,house,960000,825,published,false,-0.005181347150259086,960000,annual
+Blacktown,2022-07-01,unit,589000,386,published,false,-0.05608974358974361,590000,annual
+Blacktown,2022-10-01,house,980000,834,published,false,0.0,987000,annual
+Blacktown,2022-10-01,unit,601000,317,published,false,-0.006611570247933907,600000,annual
+Blacktown,2023-01-01,house,970000,817,published,false,-0.06820365033621523,970000,annual
+Blacktown,2023-01-01,unit,612000,332,published,false,0.03728813559322042,615000,annual
+Blacktown,2023-04-01,house,1080000,1040,published,false,0.05882352941176472,1097000,annual
+Blacktown,2023-04-01,unit,632000,417,published,false,0.05333333333333323,640000,annual
+Blacktown,2023-07-01,house,1050000,1055,published,false,0.09375,1050000,annual
+Blacktown,2023-07-01,unit,628000,459,published,false,0.06621392190152808,630000,annual
+Blacktown,2023-10-01,house,1048000,953,published,false,0.06938775510204076,1050000,annual
+Blacktown,2023-10-01,unit,630000,394,published,false,0.048252911813643884,634000,annual
+Blacktown,2024-01-01,house,1085000,936,published,false,0.11855670103092786,1091000,annual
+Blacktown,2024-01-01,unit,630000,453,published,false,0.02941176470588225,630000,annual
+Blacktown,2024-04-01,house,1160000,1060,published,false,0.07407407407407418,1160000,annual
+Blacktown,2024-04-01,unit,638000,531,published,false,0.009493670886076,650000,annual
+Blacktown,2024-07-01,house,1152000,1107,published,false,0.0971428571428572,1150000,annual
+Blacktown,2024-07-01,unit,638000,543,published,false,0.015923566878981,642000,annual
+Blacktown,2024-10-01,house,1175000,1009,published,false,0.12118320610687028,1170000,annual
+Blacktown,2024-10-01,unit,664000,414,published,false,0.053968253968254,670000,annual
+Blacktown,2025-01-01,house,1169000,898,published,false,0.07741935483870965,1177000,annual
+Blacktown,2025-01-01,unit,651000,415,published,false,0.03333333333333344,660000,annual
+Blacktown,2025-04-01,house,1185000,1028,published,false,0.02155172413793105,1185000,quarterly
+Blacktown,2025-04-01,unit,664000,470,published,false,0.040752351097178785,665000,quarterly
+Blacktown,2025-07-01,house,1250000,1174,published,false,0.08506944444444442,1244000,quarterly
+Blacktown,2025-07-01,unit,659000,471,published,false,0.03291536050156729,660000,quarterly
+Blacktown,2025-10-01,house,1260000,1086,published,false,0.07234042553191489,1261000,quarterly
+Blacktown,2025-10-01,unit,675000,475,published,false,0.016566265060240948,699000,quarterly
+Blacktown,2026-01-01,house,1250000,816,published,false,0.06928999144568015,1250000,first_published
+Blacktown,2026-01-01,unit,696000,448,published,false,0.06912442396313367,696000,first_published
+Blue Mountains,2019-01-01,house,650000,219,published,false,,650000,annual
+Blue Mountains,2019-01-01,unit,551000,,published,true,,563000,annual
+Blue Mountains,2019-04-01,house,650000,278,published,false,,650000,annual
+Blue Mountains,2019-04-01,unit,565000,,published,true,,596000,annual
+Blue Mountains,2019-07-01,house,650000,308,published,false,,650000,annual
+Blue Mountains,2019-07-01,unit,600000,40,published,false,,600000,annual
+Blue Mountains,2019-10-01,house,660000,296,published,false,,660000,annual
+Blue Mountains,2019-10-01,unit,525000,,published,true,,525000,annual
+Blue Mountains,2020-01-01,house,665000,277,published,false,0.023076923076922995,665000,annual
+Blue Mountains,2020-01-01,unit,475000,,published,true,-0.13793103448275867,475000,annual
+Blue Mountains,2020-04-01,house,670000,251,published,false,0.03076923076923066,670000,annual
+Blue Mountains,2020-04-01,unit,565000,,published,true,0.0,565000,annual
+Blue Mountains,2020-07-01,house,695000,383,published,false,0.0692307692307692,695000,annual
+Blue Mountains,2020-07-01,unit,550000,,published,true,-0.08333333333333337,550000,annual
+Blue Mountains,2020-10-01,house,720000,439,published,false,0.09090909090909083,720000,annual
+Blue Mountains,2020-10-01,unit,515000,,published,true,-0.01904761904761909,515000,annual
+Blue Mountains,2021-01-01,house,767000,358,published,false,0.1533834586466165,769000,annual
+Blue Mountains,2021-01-01,unit,600000,,published,true,0.26315789473684204,600000,annual
+Blue Mountains,2021-04-01,house,805000,407,published,false,0.20149253731343286,810000,annual
+Blue Mountains,2021-04-01,unit,555000,,published,true,-0.017699115044247815,555000,annual
+Blue Mountains,2021-07-01,house,860000,365,published,false,0.23741007194244612,863000,annual
+Blue Mountains,2021-07-01,unit,679000,,published,true,0.2345454545454546,679000,annual
+Blue Mountains,2021-10-01,house,940000,473,published,false,0.3055555555555556,940000,annual
+Blue Mountains,2021-10-01,unit,625000,,published,true,0.21359223300970864,612000,annual
+Blue Mountains,2022-01-01,house,983000,338,published,false,0.28161668839634935,984000,annual
+Blue Mountains,2022-01-01,unit,603000,,published,true,0.004999999999999893,603000,annual
+Blue Mountains,2022-04-01,house,938000,296,published,false,0.16521739130434776,935000,annual
+Blue Mountains,2022-04-01,unit,700000,,published,true,0.26126126126126126,700000,annual
+Blue Mountains,2022-07-01,house,900000,307,published,false,0.04651162790697683,901000,annual
+Blue Mountains,2022-07-01,unit,718000,,published,true,0.05743740795287189,710000,annual
+Blue Mountains,2022-10-01,house,880000,289,published,false,-0.06382978723404253,878000,annual
+Blue Mountains,2022-10-01,unit,648000,,published,true,0.036799999999999944,648000,annual
+Blue Mountains,2023-01-01,house,870000,233,published,false,-0.11495422177009151,871000,annual
+Blue Mountains,2023-01-01,unit,630000,,published,true,0.04477611940298498,630000,annual
+Blue Mountains,2023-04-01,house,860000,290,published,false,-0.08315565031982941,860000,annual
+Blue Mountains,2023-04-01,unit,639000,,published,true,-0.08714285714285719,639000,annual
+Blue Mountains,2023-07-01,house,873000,296,published,false,-0.030000000000000027,875000,annual
+Blue Mountains,2023-07-01,unit,700000,,published,true,-0.02506963788300831,700000,annual
+Blue Mountains,2023-10-01,house,862000,294,published,false,-0.020454545454545503,870000,annual
+Blue Mountains,2023-10-01,unit,670000,,published,true,0.033950617283950546,670000,annual
+Blue Mountains,2024-01-01,house,920000,265,published,false,0.05747126436781613,930000,annual
+Blue Mountains,2024-01-01,unit,720000,,published,true,0.1428571428571428,720000,annual
+Blue Mountains,2024-04-01,house,910000,324,published,false,0.058139534883721034,912000,annual
+Blue Mountains,2024-04-01,unit,740000,,published,true,0.1580594679186229,770000,annual
+Blue Mountains,2024-07-01,house,946000,316,published,false,0.08361970217640313,946000,annual
+Blue Mountains,2024-07-01,unit,715000,,published,true,0.021428571428571352,715000,annual
+Blue Mountains,2024-10-01,house,920000,297,published,false,0.06728538283062635,920000,annual
+Blue Mountains,2024-10-01,unit,668000,,published,true,-0.0029850746268657025,720000,annual
+Blue Mountains,2025-01-01,house,940000,284,published,false,0.021739130434782705,950000,annual
+Blue Mountains,2025-01-01,unit,705000,,published,true,-0.02083333333333337,710000,annual
+Blue Mountains,2025-04-01,house,976000,326,published,false,0.07252747252747249,980000,quarterly
+Blue Mountains,2025-04-01,unit,745000,,published,true,0.006756756756756799,810000,quarterly
+Blue Mountains,2025-07-01,house,1028000,360,published,false,0.08668076109936584,1010000,quarterly
+Blue Mountains,2025-07-01,unit,785000,34,published,false,0.09790209790209792,790000,quarterly
+Blue Mountains,2025-10-01,house,1060000,366,published,false,0.15217391304347827,1062000,quarterly
+Blue Mountains,2025-10-01,unit,795000,,published,true,0.1901197604790419,795000,quarterly
+Blue Mountains,2026-01-01,house,1090000,280,published,false,0.15957446808510634,1090000,first_published
+Blue Mountains,2026-01-01,unit,780000,31,published,false,0.1063829787234043,780000,first_published
+Burwood,2019-01-01,house,1249000,,published,true,,1198000,annual
+Burwood,2019-01-01,unit,695000,36,published,false,,729000,annual
+Burwood,2019-04-01,house,1265000,,published,true,,1278000,annual
+Burwood,2019-04-01,unit,728000,72,published,false,,760000,annual
+Burwood,2019-07-01,house,1685000,,published,true,,1832000,annual
+Burwood,2019-07-01,unit,735000,73,published,false,,735000,annual
+Burwood,2019-10-01,house,1610000,33,published,false,,1610000,annual
+Burwood,2019-10-01,unit,800000,90,published,false,,792000,annual
+Burwood,2020-01-01,house,1500000,31,published,false,0.20096076861489198,1502000,annual
+Burwood,2020-01-01,unit,830000,75,published,false,0.19424460431654667,830000,annual
+Burwood,2020-04-01,house,1845000,,published,true,0.45849802371541504,1848000,annual
+Burwood,2020-04-01,unit,690000,31,published,false,-0.052197802197802234,695000,annual
+Burwood,2020-07-01,house,1610000,,published,true,-0.04451038575667654,1640000,annual
+Burwood,2020-07-01,unit,820000,64,published,false,0.11564625850340127,820000,annual
+Burwood,2020-10-01,house,1720000,60,published,false,0.06832298136645965,1730000,annual
+Burwood,2020-10-01,unit,715000,78,published,false,-0.10624999999999996,725000,annual
+Burwood,2021-01-01,house,1860000,49,published,false,0.24,1959000,annual
+Burwood,2021-01-01,unit,769000,84,published,false,-0.0734939759036145,810000,annual
+Burwood,2021-04-01,house,2048000,50,published,false,0.11002710027100271,2013000,annual
+Burwood,2021-04-01,unit,860000,105,published,false,0.24637681159420288,890000,annual
+Burwood,2021-07-01,house,2000000,45,published,false,0.2422360248447204,2001000,annual
+Burwood,2021-07-01,unit,750000,55,published,false,-0.08536585365853655,785000,annual
+Burwood,2021-10-01,house,2201000,74,published,false,0.2796511627906977,2276000,annual
+Burwood,2021-10-01,unit,840000,108,published,false,0.1748251748251748,875000,annual
+Burwood,2022-01-01,house,2470000,42,published,false,0.32795698924731176,2460000,annual
+Burwood,2022-01-01,unit,772000,69,published,false,0.0039011703511053764,850000,annual
+Burwood,2022-04-01,house,1975000,53,published,false,-0.03564453125,1975000,annual
+Burwood,2022-04-01,unit,880000,102,published,false,0.023255813953488413,888000,annual
+Burwood,2022-07-01,house,1997000,36,published,false,-0.0014999999999999458,1997000,annual
+Burwood,2022-07-01,unit,830000,95,published,false,0.10666666666666669,860000,annual
+Burwood,2022-10-01,house,1916000,36,published,false,-0.129486597001363,2006000,annual
+Burwood,2022-10-01,unit,895000,81,published,false,0.06547619047619047,897000,annual
+Burwood,2023-01-01,house,2275000,,published,true,-0.07894736842105265,2250000,annual
+Burwood,2023-01-01,unit,850000,93,published,false,0.10103626943005173,850000,annual
+Burwood,2023-04-01,house,2128000,42,published,false,0.0774683544303798,2170000,annual
+Burwood,2023-04-01,unit,900000,119,published,false,0.022727272727272707,921000,annual
+Burwood,2023-07-01,house,2454000,48,published,false,0.22884326489734597,2494000,annual
+Burwood,2023-07-01,unit,870000,126,published,false,0.04819277108433728,886000,annual
+Burwood,2023-10-01,house,2608000,58,published,false,0.36116910229645094,2615000,annual
+Burwood,2023-10-01,unit,800000,114,published,false,-0.1061452513966481,800000,annual
+Burwood,2024-01-01,house,2675000,,published,true,0.17582417582417587,2675000,annual
+Burwood,2024-01-01,unit,850000,97,published,false,0.0,850000,annual
+Burwood,2024-04-01,house,2715000,40,published,false,0.27584586466165417,2756000,annual
+Burwood,2024-04-01,unit,872000,120,published,false,-0.03111111111111109,890000,annual
+Burwood,2024-07-01,house,2656000,53,published,false,0.08231458842705797,2718000,annual
+Burwood,2024-07-01,unit,800000,123,published,false,-0.08045977011494254,805000,annual
+Burwood,2024-10-01,house,2325000,50,published,false,-0.10851226993865026,2493000,annual
+Burwood,2024-10-01,unit,885000,103,published,false,0.10624999999999996,890000,annual
+Burwood,2025-01-01,house,2894000,,published,true,0.08186915887850477,2894000,annual
+Burwood,2025-01-01,unit,800000,96,published,false,-0.05882352941176472,830000,annual
+Burwood,2025-04-01,house,2863000,62,published,false,0.054511970534069976,2900000,quarterly
+Burwood,2025-04-01,unit,913000,108,published,false,0.04701834862385312,916000,quarterly
+Burwood,2025-07-01,house,2430000,61,published,false,-0.08509036144578308,2578000,quarterly
+Burwood,2025-07-01,unit,875000,114,published,false,0.09375,881000,quarterly
+Burwood,2025-10-01,house,2692000,56,published,false,0.1578494623655915,2703000,quarterly
+Burwood,2025-10-01,unit,850000,107,published,false,-0.039548022598870025,850000,quarterly
+Burwood,2026-01-01,house,2500000,36,published,false,-0.13614374568071874,2500000,first_published
+Burwood,2026-01-01,unit,860000,75,published,false,0.07499999999999996,860000,first_published
+Camden,2019-01-01,house,700000,242,published,false,,705000,annual
+Camden,2019-01-01,unit,489000,,published,true,,482000,annual
+Camden,2019-04-01,house,695000,299,published,false,,700000,annual
+Camden,2019-04-01,unit,549000,,published,true,,500000,annual
+Camden,2019-07-01,house,715000,366,published,false,,715000,annual
+Camden,2019-07-01,unit,561000,32,published,false,,569000,annual
+Camden,2019-10-01,house,727000,318,published,false,,727000,annual
+Camden,2019-10-01,unit,572000,,published,true,,572000,annual
+Camden,2020-01-01,house,735000,300,published,false,0.050000000000000044,736000,annual
+Camden,2020-01-01,unit,608000,,published,true,0.24335378323108392,600000,annual
+Camden,2020-04-01,house,730000,261,published,false,0.050359712230215736,730000,annual
+Camden,2020-04-01,unit,465000,,published,true,-0.15300546448087426,465000,annual
+Camden,2020-07-01,house,740000,451,published,false,0.034965034965035,727000,annual
+Camden,2020-07-01,unit,600000,,published,true,0.06951871657754016,600000,annual
+Camden,2020-10-01,house,785000,524,published,false,0.079779917469051,750000,annual
+Camden,2020-10-01,unit,613000,34,published,false,0.07167832167832167,640000,annual
+Camden,2021-01-01,house,831000,414,published,false,0.1306122448979592,799000,annual
+Camden,2021-01-01,unit,610000,,published,true,0.00328947368421062,624000,annual
+Camden,2021-04-01,house,865000,496,published,false,0.18493150684931514,855000,annual
+Camden,2021-04-01,unit,519000,39,published,false,0.11612903225806459,590000,annual
+Camden,2021-07-01,house,940000,426,published,false,0.2702702702702702,940000,annual
+Camden,2021-07-01,unit,641000,,published,true,0.06833333333333336,585000,annual
+Camden,2021-10-01,house,1000000,537,published,false,0.2738853503184713,983000,annual
+Camden,2021-10-01,unit,728000,32,published,false,0.18760195758564446,632000,annual
+Camden,2022-01-01,house,1080000,382,published,false,0.29963898916967513,1068000,annual
+Camden,2022-01-01,unit,687000,,published,true,0.1262295081967213,679000,annual
+Camden,2022-04-01,house,1050000,367,published,false,0.21387283236994215,1050000,annual
+Camden,2022-04-01,unit,691000,31,published,false,0.33140655105973016,691000,annual
+Camden,2022-07-01,house,1020000,383,published,false,0.0851063829787233,1020000,annual
+Camden,2022-07-01,unit,768000,,published,true,0.19812792511700472,776000,annual
+Camden,2022-10-01,house,1046000,308,published,false,0.04600000000000004,1050000,annual
+Camden,2022-10-01,unit,670000,,published,true,-0.07967032967032972,670000,annual
+Camden,2023-01-01,house,999000,301,published,false,-0.07499999999999996,996000,annual
+Camden,2023-01-01,unit,705000,,published,true,0.026200873362445476,710000,annual
+Camden,2023-04-01,house,1050000,363,published,false,0.0,1050000,annual
+Camden,2023-04-01,unit,695000,,published,true,0.005788712011577379,750000,annual
+Camden,2023-07-01,house,1035000,377,published,false,0.014705882352941124,1035000,annual
+Camden,2023-07-01,unit,710000,,published,true,-0.07552083333333337,710000,annual
+Camden,2023-10-01,house,1059000,360,published,false,0.01242829827915859,1060000,annual
+Camden,2023-10-01,unit,780000,36,published,false,0.16417910447761197,780000,annual
+Camden,2024-01-01,house,1060000,395,published,false,0.06106106106106113,1071000,annual
+Camden,2024-01-01,unit,800000,31,published,false,0.13475177304964547,800000,annual
+Camden,2024-04-01,house,1072000,443,published,false,0.020952380952381056,1075000,annual
+Camden,2024-04-01,unit,790000,43,published,false,0.13669064748201443,798000,annual
+Camden,2024-07-01,house,1070000,443,published,false,0.033816425120772875,1070000,annual
+Camden,2024-07-01,unit,761000,48,published,false,0.07183098591549286,766000,annual
+Camden,2024-10-01,house,1100000,429,published,false,0.03871576959395662,1085000,annual
+Camden,2024-10-01,unit,795000,,published,true,0.019230769230769162,795000,annual
+Camden,2025-01-01,house,1125000,389,published,false,0.061320754716981174,1114000,annual
+Camden,2025-01-01,unit,675000,,published,true,-0.15625,699000,annual
+Camden,2025-04-01,house,1130000,429,published,false,0.05410447761194037,1130000,quarterly
+Camden,2025-04-01,unit,773000,38,published,false,-0.021518987341772156,773000,quarterly
+Camden,2025-07-01,house,1175000,500,published,false,0.0981308411214954,1170000,quarterly
+Camden,2025-07-01,unit,793000,36,published,false,0.042049934296977565,778000,quarterly
+Camden,2025-10-01,house,1180000,412,published,false,0.07272727272727275,1180000,quarterly
+Camden,2025-10-01,unit,811000,34,published,false,0.020125786163522008,811000,quarterly
+Camden,2026-01-01,house,1225000,374,published,false,0.0888888888888888,1225000,first_published
+Camden,2026-01-01,unit,805000,,published,true,0.19259259259259265,805000,first_published
+Campbelltown,2019-01-01,house,571000,284,published,false,,577000,annual
+Campbelltown,2019-01-01,unit,420000,63,published,false,,420000,annual
+Campbelltown,2019-04-01,house,575000,323,published,false,,575000,annual
+Campbelltown,2019-04-01,unit,404000,78,published,false,,410000,annual
+Campbelltown,2019-07-01,house,605000,362,published,false,,600000,annual
+Campbelltown,2019-07-01,unit,420000,88,published,false,,430000,annual
+Campbelltown,2019-10-01,house,606000,350,published,false,,605000,annual
+Campbelltown,2019-10-01,unit,433000,96,published,false,,440000,annual
+Campbelltown,2020-01-01,house,628000,335,published,false,0.09982486865148865,630000,annual
+Campbelltown,2020-01-01,unit,441000,86,published,false,0.050000000000000044,447000,annual
+Campbelltown,2020-04-01,house,640000,301,published,false,0.11304347826086958,640000,annual
+Campbelltown,2020-04-01,unit,430000,82,published,false,0.06435643564356441,430000,annual
+Campbelltown,2020-07-01,house,640000,421,published,false,0.05785123966942152,640000,annual
+Campbelltown,2020-07-01,unit,453000,111,published,false,0.07857142857142851,453000,annual
+Campbelltown,2020-10-01,house,650000,497,published,false,0.0726072607260726,650000,annual
+Campbelltown,2020-10-01,unit,440000,99,published,false,0.01616628175519641,444000,annual
+Campbelltown,2021-01-01,house,700000,498,published,false,0.1146496815286624,700000,annual
+Campbelltown,2021-01-01,unit,465000,123,published,false,0.054421768707483054,475000,annual
+Campbelltown,2021-04-01,house,730000,549,published,false,0.140625,730000,annual
+Campbelltown,2021-04-01,unit,477000,179,published,false,0.10930232558139541,485000,annual
+Campbelltown,2021-07-01,house,770000,516,published,false,0.203125,774000,annual
+Campbelltown,2021-07-01,unit,494000,126,published,false,0.09050772626931569,495000,annual
+Campbelltown,2021-10-01,house,815000,575,published,false,0.25384615384615383,820000,annual
+Campbelltown,2021-10-01,unit,518000,188,published,false,0.17727272727272725,515000,annual
+Campbelltown,2022-01-01,house,830000,421,published,false,0.18571428571428572,835000,annual
+Campbelltown,2022-01-01,unit,536000,142,published,false,0.15268817204301066,536000,annual
+Campbelltown,2022-04-01,house,847000,450,published,false,0.1602739726027398,847000,annual
+Campbelltown,2022-04-01,unit,533000,131,published,false,0.11740041928721179,532000,annual
+Campbelltown,2022-07-01,house,800000,405,published,false,0.03896103896103886,800000,annual
+Campbelltown,2022-07-01,unit,515000,149,published,false,0.04251012145748989,515000,annual
+Campbelltown,2022-10-01,house,810000,351,published,false,-0.006134969325153339,810000,annual
+Campbelltown,2022-10-01,unit,530000,106,published,false,0.02316602316602312,530000,annual
+Campbelltown,2023-01-01,house,795000,338,published,false,-0.04216867469879515,800000,annual
+Campbelltown,2023-01-01,unit,559000,126,published,false,0.042910447761194126,557000,annual
+Campbelltown,2023-04-01,house,835000,396,published,false,-0.01416765053128688,835000,annual
+Campbelltown,2023-04-01,unit,535000,129,published,false,0.0037523452157599557,535000,annual
+Campbelltown,2023-07-01,house,830000,495,published,false,0.03750000000000009,827000,annual
+Campbelltown,2023-07-01,unit,588000,192,published,false,0.14174757281553396,587000,annual
+Campbelltown,2023-10-01,house,866000,423,published,false,0.06913580246913575,870000,annual
+Campbelltown,2023-10-01,unit,560000,156,published,false,0.05660377358490565,560000,annual
+Campbelltown,2024-01-01,house,875000,444,published,false,0.10062893081761004,871000,annual
+Campbelltown,2024-01-01,unit,580000,155,published,false,0.0375670840787119,580000,annual
+Campbelltown,2024-04-01,house,900000,451,published,false,0.07784431137724557,900000,annual
+Campbelltown,2024-04-01,unit,570000,166,published,false,0.06542056074766345,577000,annual
+Campbelltown,2024-07-01,house,910000,524,published,false,0.09638554216867479,910000,annual
+Campbelltown,2024-07-01,unit,610000,188,published,false,0.03741496598639449,610000,annual
+Campbelltown,2024-10-01,house,917000,445,published,false,0.05889145496535786,920000,annual
+Campbelltown,2024-10-01,unit,598000,144,published,false,0.06785714285714284,596000,annual
+Campbelltown,2025-01-01,house,925000,387,published,false,0.05714285714285716,930000,annual
+Campbelltown,2025-01-01,unit,615000,117,published,false,0.06034482758620685,612000,annual
+Campbelltown,2025-04-01,house,950000,453,published,false,0.05555555555555558,950000,quarterly
+Campbelltown,2025-04-01,unit,606000,140,published,false,0.06315789473684208,605000,quarterly
+Campbelltown,2025-07-01,house,980000,513,published,false,0.07692307692307687,970000,quarterly
+Campbelltown,2025-07-01,unit,660000,151,published,false,0.08196721311475419,660000,quarterly
+Campbelltown,2025-10-01,house,1050000,476,published,false,0.1450381679389312,1055000,quarterly
+Campbelltown,2025-10-01,unit,668000,149,published,false,0.11705685618729089,669000,quarterly
+Campbelltown,2026-01-01,house,1060000,385,published,false,0.145945945945946,1060000,first_published
+Campbelltown,2026-01-01,unit,710000,135,published,false,0.15447154471544722,710000,first_published
+Canada Bay,2019-01-01,house,1688000,56,published,false,,1761000,annual
+Canada Bay,2019-01-01,unit,854000,120,published,false,,852000,annual
+Canada Bay,2019-04-01,house,1650000,108,published,false,,1642000,annual
+Canada Bay,2019-04-01,unit,860000,211,published,false,,865000,annual
+Canada Bay,2019-07-01,house,1721000,105,published,false,,1740000,annual
+Canada Bay,2019-07-01,unit,900000,234,published,false,,900000,annual
+Canada Bay,2019-10-01,house,2080000,119,published,false,,2158000,annual
+Canada Bay,2019-10-01,unit,875000,227,published,false,,887000,annual
+Canada Bay,2020-01-01,house,1973000,100,published,false,0.16883886255924163,2000000,annual
+Canada Bay,2020-01-01,unit,925000,190,published,false,0.08313817330210771,940000,annual
+Canada Bay,2020-04-01,house,1866000,88,published,false,0.13090909090909086,1875000,annual
+Canada Bay,2020-04-01,unit,900000,154,published,false,0.04651162790697683,905000,annual
+Canada Bay,2020-07-01,house,2075000,98,published,false,0.20569436374201056,2088000,annual
+Canada Bay,2020-07-01,unit,930000,233,published,false,0.03333333333333344,935000,annual
+Canada Bay,2020-10-01,house,2150000,146,published,false,0.033653846153846256,2150000,annual
+Canada Bay,2020-10-01,unit,885000,264,published,false,0.011428571428571344,905000,annual
+Canada Bay,2021-01-01,house,2430000,126,published,false,0.2316269640141917,2449000,annual
+Canada Bay,2021-01-01,unit,1013000,297,published,false,0.09513513513513505,1013000,annual
+Canada Bay,2021-04-01,house,2568000,144,published,false,0.3762057877813505,2680000,annual
+Canada Bay,2021-04-01,unit,1044000,346,published,false,0.15999999999999992,1050000,annual
+Canada Bay,2021-07-01,house,2619000,121,published,false,0.26216867469879523,2655000,annual
+Canada Bay,2021-07-01,unit,1020000,305,published,false,0.09677419354838701,1040000,annual
+Canada Bay,2021-10-01,house,2950000,174,published,false,0.37209302325581395,2981000,annual
+Canada Bay,2021-10-01,unit,1000000,356,published,false,0.12994350282485878,1038000,annual
+Canada Bay,2022-01-01,house,2832000,105,published,false,0.16543209876543208,2926000,annual
+Canada Bay,2022-01-01,unit,995000,243,published,false,-0.017769002961500524,1100000,annual
+Canada Bay,2022-04-01,house,2800000,126,published,false,0.09034267912772576,2801000,annual
+Canada Bay,2022-04-01,unit,1050000,259,published,false,0.005747126436781658,1050000,annual
+Canada Bay,2022-07-01,house,2738000,120,published,false,0.04543718976708666,2750000,annual
+Canada Bay,2022-07-01,unit,975000,229,published,false,-0.044117647058823484,980000,annual
+Canada Bay,2022-10-01,house,2533000,108,published,false,-0.14135593220338982,2620000,annual
+Canada Bay,2022-10-01,unit,980000,221,published,false,-0.020000000000000018,997000,annual
+Canada Bay,2023-01-01,house,2715000,78,published,false,-0.041313559322033844,2775000,annual
+Canada Bay,2023-01-01,unit,980000,216,published,false,-0.015075376884422065,1000000,annual
+Canada Bay,2023-04-01,house,2613000,124,published,false,-0.06678571428571434,2650000,annual
+Canada Bay,2023-04-01,unit,1050000,256,published,false,0.0,1050000,annual
+Canada Bay,2023-07-01,house,2785000,134,published,false,0.017165814463111717,2803000,annual
+Canada Bay,2023-07-01,unit,920000,342,published,false,-0.05641025641025643,955000,annual
+Canada Bay,2023-10-01,house,2800000,127,published,false,0.10540860639557836,2837000,annual
+Canada Bay,2023-10-01,unit,1035000,281,published,false,0.05612244897959173,1080000,annual
+Canada Bay,2024-01-01,house,2840000,99,published,false,0.046040515653775316,2951000,annual
+Canada Bay,2024-01-01,unit,1050000,275,published,false,0.0714285714285714,1100000,annual
+Canada Bay,2024-04-01,house,2925000,129,published,false,0.11940298507462677,2915000,annual
+Canada Bay,2024-04-01,unit,1100000,314,published,false,0.04761904761904767,1120000,annual
+Canada Bay,2024-07-01,house,2915000,132,published,false,0.04667863554757634,2918000,annual
+Canada Bay,2024-07-01,unit,1028000,341,published,false,0.11739130434782608,1050000,annual
+Canada Bay,2024-10-01,house,2800000,126,published,false,0.0,2850000,annual
+Canada Bay,2024-10-01,unit,1060000,334,published,false,0.024154589371980784,1056000,annual
+Canada Bay,2025-01-01,house,3068000,104,published,false,0.08028169014084496,3223000,annual
+Canada Bay,2025-01-01,unit,1090000,264,published,false,0.03809523809523818,1100000,annual
+Canada Bay,2025-04-01,house,3030000,110,published,false,0.03589743589743599,3195000,quarterly
+Canada Bay,2025-04-01,unit,1063000,313,published,false,-0.033636363636363686,1069000,quarterly
+Canada Bay,2025-07-01,house,3106000,129,published,false,0.06552315608919379,3106000,quarterly
+Canada Bay,2025-07-01,unit,1120000,396,published,false,0.08949416342412442,1110000,quarterly
+Canada Bay,2025-10-01,house,3300000,143,published,false,0.1785714285714286,3325000,quarterly
+Canada Bay,2025-10-01,unit,1150000,316,published,false,0.08490566037735858,1150000,quarterly
+Canada Bay,2026-01-01,house,3365000,85,published,false,0.09680573663624514,3365000,first_published
+Canada Bay,2026-01-01,unit,1110000,261,published,false,0.0183486238532109,1110000,first_published
+Canterbury-Bankstown,2019-01-01,house,855000,351,published,false,,870000,annual
+Canterbury-Bankstown,2019-01-01,unit,547000,255,published,false,,570000,annual
+Canterbury-Bankstown,2019-04-01,house,867000,504,published,false,,865000,annual
+Canterbury-Bankstown,2019-04-01,unit,536000,358,published,false,,545000,annual
+Canterbury-Bankstown,2019-07-01,house,920000,538,published,false,,928000,annual
+Canterbury-Bankstown,2019-07-01,unit,535000,419,published,false,,540000,annual
+Canterbury-Bankstown,2019-10-01,house,950000,644,published,false,,950000,annual
+Canterbury-Bankstown,2019-10-01,unit,550000,429,published,false,,556000,annual
+Canterbury-Bankstown,2020-01-01,house,985000,412,published,false,0.1520467836257311,988000,annual
+Canterbury-Bankstown,2020-01-01,unit,565000,382,published,false,0.03290676416819016,565000,annual
+Canterbury-Bankstown,2020-04-01,house,943000,428,published,false,0.0876585928489042,943000,annual
+Canterbury-Bankstown,2020-04-01,unit,564000,227,published,false,0.052238805970149294,567000,annual
+Canterbury-Bankstown,2020-07-01,house,977000,630,published,false,0.061956521739130466,980000,annual
+Canterbury-Bankstown,2020-07-01,unit,560000,421,published,false,0.04672897196261672,565000,annual
+Canterbury-Bankstown,2020-10-01,house,1000000,678,published,false,0.05263157894736836,1000000,annual
+Canterbury-Bankstown,2020-10-01,unit,585000,502,published,false,0.06363636363636371,580000,annual
+Canterbury-Bankstown,2021-01-01,house,1100000,665,published,false,0.11675126903553301,1111000,annual
+Canterbury-Bankstown,2021-01-01,unit,573000,558,published,false,0.014159292035398341,575000,annual
+Canterbury-Bankstown,2021-04-01,house,1221000,916,published,false,0.29480381760339336,1230000,annual
+Canterbury-Bankstown,2021-04-01,unit,582000,625,published,false,0.03191489361702127,585000,annual
+Canterbury-Bankstown,2021-07-01,house,1230000,708,published,false,0.2589559877175025,1250000,annual
+Canterbury-Bankstown,2021-07-01,unit,588000,436,published,false,0.050000000000000044,615000,annual
+Canterbury-Bankstown,2021-10-01,house,1294000,908,published,false,0.29400000000000004,1300000,annual
+Canterbury-Bankstown,2021-10-01,unit,582000,532,published,false,-0.00512820512820511,585000,annual
+Canterbury-Bankstown,2022-01-01,house,1311000,596,published,false,0.1918181818181819,1321000,annual
+Canterbury-Bankstown,2022-01-01,unit,590000,434,published,false,0.029668411867364686,590000,annual
+Canterbury-Bankstown,2022-04-01,house,1300000,682,published,false,0.06470106470106463,1300000,annual
+Canterbury-Bankstown,2022-04-01,unit,595000,469,published,false,0.022336769759450092,600000,annual
+Canterbury-Bankstown,2022-07-01,house,1211000,593,published,false,-0.015447154471544766,1217000,annual
+Canterbury-Bankstown,2022-07-01,unit,545000,465,published,false,-0.0731292517006803,545000,annual
+Canterbury-Bankstown,2022-10-01,house,1200000,540,published,false,-0.07264296754250388,1201000,annual
+Canterbury-Bankstown,2022-10-01,unit,580000,391,published,false,-0.0034364261168384758,580000,annual
+Canterbury-Bankstown,2023-01-01,house,1203000,440,published,false,-0.08237986270022879,1206000,annual
+Canterbury-Bankstown,2023-01-01,unit,555000,398,published,false,-0.05932203389830504,553000,annual
+Canterbury-Bankstown,2023-04-01,house,1325000,682,published,false,0.019230769230769162,1328000,annual
+Canterbury-Bankstown,2023-04-01,unit,560000,514,published,false,-0.05882352941176472,558000,annual
+Canterbury-Bankstown,2023-07-01,house,1320000,721,published,false,0.09000825763831544,1327000,annual
+Canterbury-Bankstown,2023-07-01,unit,550000,574,published,false,0.00917431192660545,560000,annual
+Canterbury-Bankstown,2023-10-01,house,1350000,668,published,false,0.125,1360000,annual
+Canterbury-Bankstown,2023-10-01,unit,554000,648,published,false,-0.04482758620689653,557000,annual
+Canterbury-Bankstown,2024-01-01,house,1423000,560,published,false,0.1828761429758936,1430000,annual
+Canterbury-Bankstown,2024-01-01,unit,570000,607,published,false,0.027027027027026973,573000,annual
+Canterbury-Bankstown,2024-04-01,house,1495000,705,published,false,0.1283018867924528,1500000,annual
+Canterbury-Bankstown,2024-04-01,unit,582000,722,published,false,0.03928571428571437,585000,annual
+Canterbury-Bankstown,2024-07-01,house,1489000,724,published,false,0.12803030303030294,1500000,annual
+Canterbury-Bankstown,2024-07-01,unit,620000,686,published,false,0.1272727272727272,622000,annual
+Canterbury-Bankstown,2024-10-01,house,1510000,696,published,false,0.11851851851851847,1520000,annual
+Canterbury-Bankstown,2024-10-01,unit,610000,590,published,false,0.10108303249097483,615000,annual
+Canterbury-Bankstown,2025-01-01,house,1500000,505,published,false,0.05411103302881237,1535000,annual
+Canterbury-Bankstown,2025-01-01,unit,600000,482,published,false,0.05263157894736836,610000,annual
+Canterbury-Bankstown,2025-04-01,house,1571000,705,published,false,0.05083612040133789,1585000,quarterly
+Canterbury-Bankstown,2025-04-01,unit,635000,617,published,false,0.09106529209621983,635000,quarterly
+Canterbury-Bankstown,2025-07-01,house,1620000,772,published,false,0.08797850906648752,1620000,quarterly
+Canterbury-Bankstown,2025-07-01,unit,645000,590,published,false,0.040322580645161255,650000,quarterly
+Canterbury-Bankstown,2025-10-01,house,1630000,733,published,false,0.07947019867549665,1639000,quarterly
+Canterbury-Bankstown,2025-10-01,unit,665000,593,published,false,0.0901639344262295,665000,quarterly
+Canterbury-Bankstown,2026-01-01,house,1660000,467,published,false,0.10666666666666669,1660000,first_published
+Canterbury-Bankstown,2026-01-01,unit,665000,420,published,false,0.10833333333333339,665000,first_published
+Central Coast,2019-01-01,house,620000,845,published,false,,620000,annual
+Central Coast,2019-01-01,unit,490000,230,published,false,,490000,annual
+Central Coast,2019-04-01,house,620000,967,published,false,,620000,annual
+Central Coast,2019-04-01,unit,450000,276,published,false,,460000,annual
+Central Coast,2019-07-01,house,630000,1079,published,false,,634000,annual
+Central Coast,2019-07-01,unit,470000,313,published,false,,470000,annual
+Central Coast,2019-10-01,house,650000,1153,published,false,,650000,annual
+Central Coast,2019-10-01,unit,485000,299,published,false,,500000,annual
+Central Coast,2020-01-01,house,663000,1006,published,false,0.0693548387096774,665000,annual
+Central Coast,2020-01-01,unit,500000,287,published,false,0.020408163265306145,506000,annual
+Central Coast,2020-04-01,house,665000,967,published,false,0.07258064516129026,666000,annual
+Central Coast,2020-04-01,unit,490000,225,published,false,0.0888888888888888,494000,annual
+Central Coast,2020-07-01,house,700000,1478,published,false,0.11111111111111116,701000,annual
+Central Coast,2020-07-01,unit,530000,386,published,false,0.12765957446808507,535000,annual
+Central Coast,2020-10-01,house,730000,1683,published,false,0.12307692307692308,735000,annual
+Central Coast,2020-10-01,unit,565000,469,published,false,0.1649484536082475,565000,annual
+Central Coast,2021-01-01,house,796000,1513,published,false,0.20060331825037703,800000,annual
+Central Coast,2021-01-01,unit,555000,487,published,false,0.1100000000000001,580000,annual
+Central Coast,2021-04-01,house,855000,1619,published,false,0.2857142857142858,855000,annual
+Central Coast,2021-04-01,unit,615000,442,published,false,0.2551020408163265,622000,annual
+Central Coast,2021-07-01,house,910000,1533,published,false,0.30000000000000004,920000,annual
+Central Coast,2021-07-01,unit,605000,432,published,false,0.14150943396226423,617000,annual
+Central Coast,2021-10-01,house,970000,1608,published,false,0.3287671232876712,980000,annual
+Central Coast,2021-10-01,unit,625000,428,published,false,0.10619469026548667,635000,annual
+Central Coast,2022-01-01,house,995000,1227,published,false,0.25,1000000,annual
+Central Coast,2022-01-01,unit,685000,347,published,false,0.23423423423423428,700000,annual
+Central Coast,2022-04-01,house,996000,1071,published,false,0.16491228070175445,1000000,annual
+Central Coast,2022-04-01,unit,665000,324,published,false,0.08130081300813008,665000,annual
+Central Coast,2022-07-01,house,900000,1027,published,false,-0.01098901098901095,900000,annual
+Central Coast,2022-07-01,unit,650000,296,published,false,0.07438016528925617,650000,annual
+Central Coast,2022-10-01,house,915000,991,published,false,-0.05670103092783507,920000,annual
+Central Coast,2022-10-01,unit,655000,270,published,false,0.04800000000000004,670000,annual
+Central Coast,2023-01-01,house,875000,994,published,false,-0.12060301507537685,880000,annual
+Central Coast,2023-01-01,unit,625000,279,published,false,-0.08759124087591241,635000,annual
+Central Coast,2023-04-01,house,920000,1021,published,false,-0.07630522088353409,925000,annual
+Central Coast,2023-04-01,unit,655000,331,published,false,-0.015037593984962405,655000,annual
+Central Coast,2023-07-01,house,900000,1161,published,false,0.0,900000,annual
+Central Coast,2023-07-01,unit,670000,374,published,false,0.03076923076923066,672000,annual
+Central Coast,2023-10-01,house,965000,1140,published,false,0.05464480874316946,970000,annual
+Central Coast,2023-10-01,unit,665000,332,published,false,0.01526717557251911,670000,annual
+Central Coast,2024-01-01,house,952000,1113,published,false,0.08800000000000008,955000,annual
+Central Coast,2024-01-01,unit,653000,357,published,false,0.04479999999999995,660000,annual
+Central Coast,2024-04-01,house,959000,1115,published,false,0.04239130434782612,965000,annual
+Central Coast,2024-04-01,unit,673000,370,published,false,0.027480916030534264,681000,annual
+Central Coast,2024-07-01,house,938000,1215,published,false,0.04222222222222216,948000,annual
+Central Coast,2024-07-01,unit,675000,392,published,false,0.00746268656716409,680000,annual
+Central Coast,2024-10-01,house,980000,1219,published,false,0.015544041450777257,995000,annual
+Central Coast,2024-10-01,unit,690000,352,published,false,0.03759398496240607,690000,annual
+Central Coast,2025-01-01,house,990000,1159,published,false,0.0399159663865547,1003000,annual
+Central Coast,2025-01-01,unit,680000,360,published,false,0.04134762633996947,689000,annual
+Central Coast,2025-04-01,house,1020000,1218,published,false,0.06360792492179357,1025000,quarterly
+Central Coast,2025-04-01,unit,715000,393,published,false,0.06240713224368499,721000,quarterly
+Central Coast,2025-07-01,house,1000000,1288,published,false,0.06609808102345416,1000000,quarterly
+Central Coast,2025-07-01,unit,707000,420,published,false,0.04740740740740734,715000,quarterly
+Central Coast,2025-10-01,house,1070000,1409,published,false,0.09183673469387754,1080000,quarterly
+Central Coast,2025-10-01,unit,750000,444,published,false,0.08695652173913038,750000,quarterly
+Central Coast,2026-01-01,house,1089000,1170,published,false,0.10000000000000009,1089000,first_published
+Central Coast,2026-01-01,unit,750000,398,published,false,0.10294117647058831,750000,first_published
+Cumberland,2019-01-01,house,770000,183,published,false,,775000,annual
+Cumberland,2019-01-01,unit,538000,144,published,false,,550000,annual
+Cumberland,2019-04-01,house,780000,275,published,false,,780000,annual
+Cumberland,2019-04-01,unit,570000,284,published,false,,575000,annual
+Cumberland,2019-07-01,house,800000,286,published,false,,801000,annual
+Cumberland,2019-07-01,unit,553000,298,published,false,,560000,annual
+Cumberland,2019-10-01,house,833000,317,published,false,,834000,annual
+Cumberland,2019-10-01,unit,550000,288,published,false,,556000,annual
+Cumberland,2020-01-01,house,893000,266,published,false,0.15974025974025974,900000,annual
+Cumberland,2020-01-01,unit,570000,274,published,false,0.059479553903345694,573000,annual
+Cumberland,2020-04-01,house,860000,226,published,false,0.10256410256410264,860000,annual
+Cumberland,2020-04-01,unit,530000,153,published,false,-0.07017543859649122,550000,annual
+Cumberland,2020-07-01,house,870000,300,published,false,0.08749999999999991,870000,annual
+Cumberland,2020-07-01,unit,530000,250,published,false,-0.04159132007233268,540000,annual
+Cumberland,2020-10-01,house,910000,387,published,false,0.09243697478991586,910000,annual
+Cumberland,2020-10-01,unit,565000,366,published,false,0.027272727272727337,571000,annual
+Cumberland,2021-01-01,house,940000,339,published,false,0.05263157894736836,950000,annual
+Cumberland,2021-01-01,unit,550000,378,published,false,-0.03508771929824561,560000,annual
+Cumberland,2021-04-01,house,1010000,511,published,false,0.17441860465116288,1011000,annual
+Cumberland,2021-04-01,unit,576000,468,published,false,0.08679245283018866,581000,annual
+Cumberland,2021-07-01,house,1051000,342,published,false,0.2080459770114942,1051000,annual
+Cumberland,2021-07-01,unit,595000,336,published,false,0.12264150943396235,601000,annual
+Cumberland,2021-10-01,house,1150000,488,published,false,0.2637362637362637,1150000,annual
+Cumberland,2021-10-01,unit,566000,404,published,false,0.001769911504424737,565000,annual
+Cumberland,2022-01-01,house,1105000,356,published,false,0.17553191489361697,1106000,annual
+Cumberland,2022-01-01,unit,553000,364,published,false,0.005454545454545379,557000,annual
+Cumberland,2022-04-01,house,1121000,374,published,false,0.10990099009901,1122000,annual
+Cumberland,2022-04-01,unit,554000,372,published,false,-0.03819444444444442,557000,annual
+Cumberland,2022-07-01,house,1095000,308,published,false,0.04186489058039955,1100000,annual
+Cumberland,2022-07-01,unit,560000,314,published,false,-0.05882352941176472,565000,annual
+Cumberland,2022-10-01,house,1050000,282,published,false,-0.08695652173913049,1050000,annual
+Cumberland,2022-10-01,unit,535000,305,published,false,-0.05477031802120136,555000,annual
+Cumberland,2023-01-01,house,1079000,270,published,false,-0.02352941176470591,1100000,annual
+Cumberland,2023-01-01,unit,537000,326,published,false,-0.02893309222423146,562000,annual
+Cumberland,2023-04-01,house,1180000,379,published,false,0.05263157894736836,1181000,annual
+Cumberland,2023-04-01,unit,560000,424,published,false,0.010830324909747224,600000,annual
+Cumberland,2023-07-01,house,1190000,420,published,false,0.08675799086757996,1198000,annual
+Cumberland,2023-07-01,unit,555000,504,published,false,-0.008928571428571397,586000,annual
+Cumberland,2023-10-01,house,1250000,381,published,false,0.19047619047619047,1260000,annual
+Cumberland,2023-10-01,unit,580000,516,published,false,0.08411214953271018,591000,annual
+Cumberland,2024-01-01,house,1230000,333,published,false,0.13994439295644123,1232000,annual
+Cumberland,2024-01-01,unit,577000,591,published,false,0.07448789571694592,580000,annual
+Cumberland,2024-04-01,house,1315000,401,published,false,0.11440677966101687,1324000,annual
+Cumberland,2024-04-01,unit,585000,705,published,false,0.044642857142857206,585000,annual
+Cumberland,2024-07-01,house,1310000,382,published,false,0.10084033613445387,1318000,annual
+Cumberland,2024-07-01,unit,573000,588,published,false,0.03243243243243232,580000,annual
+Cumberland,2024-10-01,house,1288000,365,published,false,0.030399999999999983,1300000,annual
+Cumberland,2024-10-01,unit,620000,558,published,false,0.06896551724137923,620000,annual
+Cumberland,2025-01-01,house,1325000,311,published,false,0.0772357723577235,1330000,annual
+Cumberland,2025-01-01,unit,580000,414,published,false,0.005199306759098743,585000,annual
+Cumberland,2025-04-01,house,1400000,380,published,false,0.06463878326996197,1401000,quarterly
+Cumberland,2025-04-01,unit,576000,510,published,false,-0.01538461538461533,575000,quarterly
+Cumberland,2025-07-01,house,1470000,436,published,false,0.12213740458015265,1466000,quarterly
+Cumberland,2025-07-01,unit,620000,653,published,false,0.08202443280977323,643000,quarterly
+Cumberland,2025-10-01,house,1455000,402,published,false,0.12965838509316763,1461000,quarterly
+Cumberland,2025-10-01,unit,582000,569,published,false,-0.06129032258064515,583000,quarterly
+Cumberland,2026-01-01,house,1450000,291,published,false,0.09433962264150941,1450000,first_published
+Cumberland,2026-01-01,unit,600000,453,published,false,0.034482758620689724,600000,first_published
+Fairfield,2019-01-01,house,719000,166,published,false,,716000,annual
+Fairfield,2019-01-01,unit,421000,45,published,false,,420000,annual
+Fairfield,2019-04-01,house,700000,267,published,false,,700000,annual
+Fairfield,2019-04-01,unit,408000,72,published,false,,410000,annual
+Fairfield,2019-07-01,house,743000,284,published,false,,750000,annual
+Fairfield,2019-07-01,unit,460000,95,published,false,,470000,annual
+Fairfield,2019-10-01,house,770000,302,published,false,,770000,annual
+Fairfield,2019-10-01,unit,434000,92,published,false,,448000,annual
+Fairfield,2020-01-01,house,770000,218,published,false,0.0709318497913769,772000,annual
+Fairfield,2020-01-01,unit,405000,65,published,false,-0.038004750593824244,410000,annual
+Fairfield,2020-04-01,house,770000,215,published,false,0.10000000000000009,770000,annual
+Fairfield,2020-04-01,unit,420000,72,published,false,0.02941176470588225,420000,annual
+Fairfield,2020-07-01,house,801000,302,published,false,0.07806191117092864,804000,annual
+Fairfield,2020-07-01,unit,445000,84,published,false,-0.03260869565217395,445000,annual
+Fairfield,2020-10-01,house,815000,387,published,false,0.05844155844155852,818000,annual
+Fairfield,2020-10-01,unit,436000,131,published,false,0.004608294930875667,436000,annual
+Fairfield,2021-01-01,house,855000,315,published,false,0.11038961038961048,855000,annual
+Fairfield,2021-01-01,unit,470000,101,published,false,0.16049382716049387,470000,annual
+Fairfield,2021-04-01,house,920000,445,published,false,0.19480519480519476,925000,annual
+Fairfield,2021-04-01,unit,429000,110,published,false,0.021428571428571352,453000,annual
+Fairfield,2021-07-01,house,916000,307,published,false,0.1435705368289637,925000,annual
+Fairfield,2021-07-01,unit,486000,82,published,false,0.09213483146067425,520000,annual
+Fairfield,2021-10-01,house,990000,411,published,false,0.2147239263803682,996000,annual
+Fairfield,2021-10-01,unit,520000,133,published,false,0.19266055045871555,547000,annual
+Fairfield,2022-01-01,house,1018000,331,published,false,0.19064327485380117,1040000,annual
+Fairfield,2022-01-01,unit,450000,107,published,false,-0.04255319148936165,490000,annual
+Fairfield,2022-04-01,house,1018000,370,published,false,0.10652173913043472,1020000,annual
+Fairfield,2022-04-01,unit,497000,129,published,false,0.15850815850815847,499000,annual
+Fairfield,2022-07-01,house,988000,331,published,false,0.0786026200873362,990000,annual
+Fairfield,2022-07-01,unit,440000,103,published,false,-0.09465020576131689,440000,annual
+Fairfield,2022-10-01,house,980000,311,published,false,-0.010101010101010055,995000,annual
+Fairfield,2022-10-01,unit,430000,107,published,false,-0.17307692307692313,430000,annual
+Fairfield,2023-01-01,house,980000,252,published,false,-0.037328094302554016,980000,annual
+Fairfield,2023-01-01,unit,482000,99,published,false,0.07111111111111112,482000,annual
+Fairfield,2023-04-01,house,1021000,360,published,false,0.0029469548133596035,1028000,annual
+Fairfield,2023-04-01,unit,482000,176,published,false,-0.030181086519114664,482000,annual
+Fairfield,2023-07-01,house,1035000,379,published,false,0.04757085020242924,1043000,annual
+Fairfield,2023-07-01,unit,448000,163,published,false,0.018181818181818077,448000,annual
+Fairfield,2023-10-01,house,1100000,370,published,false,0.12244897959183665,1100000,annual
+Fairfield,2023-10-01,unit,435000,142,published,false,0.011627906976744207,430000,annual
+Fairfield,2024-01-01,house,1157000,288,published,false,0.18061224489795924,1161000,annual
+Fairfield,2024-01-01,unit,450000,136,published,false,-0.06639004149377592,450000,annual
+Fairfield,2024-04-01,house,1218000,379,published,false,0.1929480901077376,1220000,annual
+Fairfield,2024-04-01,unit,450000,158,published,false,-0.06639004149377592,457000,annual
+Fairfield,2024-07-01,house,1220000,376,published,false,0.1787439613526569,1221000,annual
+Fairfield,2024-07-01,unit,520000,173,published,false,0.1607142857142858,525000,annual
+Fairfield,2024-10-01,house,1255000,385,published,false,0.14090909090909087,1260000,annual
+Fairfield,2024-10-01,unit,475000,125,published,false,0.09195402298850586,478000,annual
+Fairfield,2025-01-01,house,1250000,284,published,false,0.08038029386343992,1270000,annual
+Fairfield,2025-01-01,unit,468000,115,published,false,0.040000000000000036,474000,annual
+Fairfield,2025-04-01,house,1280000,354,published,false,0.05090311986863716,1290000,quarterly
+Fairfield,2025-04-01,unit,495000,155,published,false,0.10000000000000009,485000,quarterly
+Fairfield,2025-07-01,house,1340000,448,published,false,0.09836065573770503,1340000,quarterly
+Fairfield,2025-07-01,unit,490000,167,published,false,-0.05769230769230771,490000,quarterly
+Fairfield,2025-10-01,house,1380000,385,published,false,0.09960159362549792,1380000,quarterly
+Fairfield,2025-10-01,unit,550000,148,published,false,0.1578947368421053,551000,quarterly
+Fairfield,2026-01-01,house,1365000,286,published,false,0.09200000000000008,1365000,first_published
+Fairfield,2026-01-01,unit,500000,117,published,false,0.06837606837606836,500000,first_published
+Georges River,2019-01-01,house,1200000,125,published,false,,1205000,annual
+Georges River,2019-01-01,unit,650000,144,published,false,,650000,annual
+Georges River,2019-04-01,house,1125000,186,published,false,,1148000,annual
+Georges River,2019-04-01,unit,633000,200,published,false,,643000,annual
+Georges River,2019-07-01,house,1250000,216,published,false,,1250000,annual
+Georges River,2019-07-01,unit,661000,246,published,false,,681000,annual
+Georges River,2019-10-01,house,1281000,270,published,false,,1297000,annual
+Georges River,2019-10-01,unit,680000,271,published,false,,680000,annual
+Georges River,2020-01-01,house,1350000,174,published,false,0.125,1360000,annual
+Georges River,2020-01-01,unit,680000,237,published,false,0.04615384615384621,680000,annual
+Georges River,2020-04-01,house,1285000,163,published,false,0.14222222222222225,1294000,annual
+Georges River,2020-04-01,unit,693000,162,published,false,0.09478672985782,697000,annual
+Georges River,2020-07-01,house,1306000,205,published,false,0.04479999999999995,1325000,annual
+Georges River,2020-07-01,unit,680000,226,published,false,0.02874432677760974,682000,annual
+Georges River,2020-10-01,house,1390000,289,published,false,0.08508977361436387,1400000,annual
+Georges River,2020-10-01,unit,665000,301,published,false,-0.022058823529411797,675000,annual
+Georges River,2021-01-01,house,1495000,251,published,false,0.1074074074074074,1550000,annual
+Georges River,2021-01-01,unit,710000,335,published,false,0.044117647058823595,713000,annual
+Georges River,2021-04-01,house,1622000,301,published,false,0.26225680933852136,1630000,annual
+Georges River,2021-04-01,unit,690000,369,published,false,-0.0043290043290042934,697000,annual
+Georges River,2021-07-01,house,1705000,240,published,false,0.3055130168453293,1710000,annual
+Georges River,2021-07-01,unit,713000,315,published,false,0.04852941176470593,720000,annual
+Georges River,2021-10-01,house,1800000,342,published,false,0.29496402877697836,1845000,annual
+Georges River,2021-10-01,unit,715000,365,published,false,0.07518796992481214,720000,annual
+Georges River,2022-01-01,house,1795000,188,published,false,0.20066889632107032,1810000,annual
+Georges River,2022-01-01,unit,693000,282,published,false,-0.023943661971830954,700000,annual
+Georges River,2022-04-01,house,1831000,244,published,false,0.1288532675709002,1832000,annual
+Georges River,2022-04-01,unit,700000,324,published,false,0.01449275362318847,700000,annual
+Georges River,2022-07-01,house,1700000,221,published,false,-0.0029325513196480912,1700000,annual
+Georges River,2022-07-01,unit,700000,310,published,false,-0.018232819074333828,702000,annual
+Georges River,2022-10-01,house,1600000,207,published,false,-0.11111111111111116,1650000,annual
+Georges River,2022-10-01,unit,710000,261,published,false,-0.006993006993006978,720000,annual
+Georges River,2023-01-01,house,1700000,157,published,false,-0.05292479108635095,1730000,annual
+Georges River,2023-01-01,unit,723000,274,published,false,0.04329004329004338,731000,annual
+Georges River,2023-04-01,house,1818000,228,published,false,-0.007099945385035444,1842000,annual
+Georges River,2023-04-01,unit,723000,377,published,false,0.03285714285714292,730000,annual
+Georges River,2023-07-01,house,1678000,244,published,false,-0.012941176470588234,1695000,annual
+Georges River,2023-07-01,unit,745000,420,published,false,0.06428571428571428,750000,annual
+Georges River,2023-10-01,house,1846000,241,published,false,0.15375000000000005,1846000,annual
+Georges River,2023-10-01,unit,742000,338,published,false,0.04507042253521121,744000,annual
+Georges River,2024-01-01,house,1883000,216,published,false,0.10764705882352943,1900000,annual
+Georges River,2024-01-01,unit,755000,309,published,false,0.044260027662517354,755000,annual
+Georges River,2024-04-01,house,1925000,260,published,false,0.05885588558855881,1951000,annual
+Georges River,2024-04-01,unit,765000,420,published,false,0.05809128630705396,765000,annual
+Georges River,2024-07-01,house,1900000,237,published,false,0.13230035756853398,1915000,annual
+Georges River,2024-07-01,unit,769000,400,published,false,0.03221476510067123,771000,annual
+Georges River,2024-10-01,house,1893000,256,published,false,0.025460455037919827,1901000,annual
+Georges River,2024-10-01,unit,770000,360,published,false,0.037735849056603765,770000,annual
+Georges River,2025-01-01,house,1900000,202,published,false,0.009028146574614926,1901000,annual
+Georges River,2025-01-01,unit,760000,325,published,false,0.0066225165562914245,761000,annual
+Georges River,2025-04-01,house,1981000,278,published,false,0.029090909090909056,2012000,quarterly
+Georges River,2025-04-01,unit,800000,377,published,false,0.045751633986928164,801000,quarterly
+Georges River,2025-07-01,house,2051000,270,published,false,0.07947368421052636,2066000,quarterly
+Georges River,2025-07-01,unit,791000,404,published,false,0.02860858257477239,788000,quarterly
+Georges River,2025-10-01,house,2023000,270,published,false,0.06867406233491802,2050000,quarterly
+Georges River,2025-10-01,unit,816000,356,published,false,0.05974025974025965,820000,quarterly
+Georges River,2026-01-01,house,2098000,165,published,false,0.10421052631578953,2098000,first_published
+Georges River,2026-01-01,unit,800000,335,published,false,0.05263157894736836,800000,first_published
+Greater Sydney,2019-01-01,house,865000,6339,published,false,,895000,annual
+Greater Sydney,2019-01-01,unit,695000,4652,published,false,,700000,annual
+Greater Sydney,2019-04-01,house,900000,8657,published,false,,907000,annual
+Greater Sydney,2019-04-01,unit,700000,6945,published,false,,705000,annual
+Greater Sydney,2019-07-01,house,915000,9314,published,false,,922000,annual
+Greater Sydney,2019-07-01,unit,720000,8191,published,false,,720000,annual
+Greater Sydney,2019-10-01,house,1015000,10226,published,false,,1035000,annual
+Greater Sydney,2019-10-01,unit,740000,8461,published,false,,742000,annual
+Greater Sydney,2020-01-01,house,981000,8131,published,false,0.1341040462427745,996000,annual
+Greater Sydney,2020-01-01,unit,730000,7217,published,false,0.050359712230215736,736000,annual
+Greater Sydney,2020-04-01,house,980000,7821,published,false,0.0888888888888888,1000000,annual
+Greater Sydney,2020-04-01,unit,735000,5074,published,false,0.050000000000000044,745000,annual
+Greater Sydney,2020-07-01,house,1000000,11230,published,false,0.09289617486338808,1000000,annual
+Greater Sydney,2020-07-01,unit,730000,8057,published,false,0.01388888888888884,732000,annual
+Greater Sydney,2020-10-01,house,1070000,13386,published,false,0.054187192118226646,1070000,annual
+Greater Sydney,2020-10-01,unit,750000,10047,published,false,0.013513513513513598,751000,annual
+Greater Sydney,2021-01-01,house,1110000,11614,published,false,0.13149847094801226,1130000,annual
+Greater Sydney,2021-01-01,unit,750000,10326,published,false,0.027397260273972712,750000,annual
+Greater Sydney,2021-04-01,house,1260000,13997,published,false,0.2857142857142858,1260000,annual
+Greater Sydney,2021-04-01,unit,780000,12300,published,false,0.061224489795918435,785000,annual
+Greater Sydney,2021-07-01,house,1320000,12282,published,false,0.32000000000000006,1347000,annual
+Greater Sydney,2021-07-01,unit,800000,10558,published,false,0.09589041095890405,800000,annual
+Greater Sydney,2021-10-01,house,1400000,14208,published,false,0.30841121495327095,1410000,annual
+Greater Sydney,2021-10-01,unit,805000,11809,published,false,0.07333333333333325,805000,annual
+Greater Sydney,2022-01-01,house,1340000,9938,published,false,0.2072072072072073,1355000,annual
+Greater Sydney,2022-01-01,unit,781000,8893,published,false,0.041333333333333444,780000,annual
+Greater Sydney,2022-04-01,house,1390000,10393,published,false,0.10317460317460325,1390000,annual
+Greater Sydney,2022-04-01,unit,779000,9382,published,false,-0.0012820512820512775,780000,annual
+Greater Sydney,2022-07-01,house,1300000,9674,published,false,-0.015151515151515138,1305000,annual
+Greater Sydney,2022-07-01,unit,750000,8654,published,false,-0.0625,750000,annual
+Greater Sydney,2022-10-01,house,1300000,9109,published,false,-0.0714285714285714,1325000,annual
+Greater Sydney,2022-10-01,unit,760000,7965,published,false,-0.05590062111801242,770000,annual
+Greater Sydney,2023-01-01,house,1250000,8050,published,false,-0.06716417910447758,1280000,annual
+Greater Sydney,2023-01-01,unit,751000,8025,published,false,-0.03841229193341866,760000,annual
+Greater Sydney,2023-04-01,house,1360000,10220,published,false,-0.021582733812949617,1385000,annual
+Greater Sydney,2023-04-01,unit,780000,10255,published,false,0.0012836970474967568,796000,annual
+Greater Sydney,2023-07-01,house,1380000,11138,published,false,0.06153846153846154,1400000,annual
+Greater Sydney,2023-07-01,unit,790000,11422,published,false,0.05333333333333323,793000,annual
+Greater Sydney,2023-10-01,house,1420000,10660,published,false,0.0923076923076922,1453000,annual
+Greater Sydney,2023-10-01,unit,790000,10532,published,false,0.03947368421052633,800000,annual
+Greater Sydney,2024-01-01,house,1400000,9676,published,false,0.1200000000000001,1430000,annual
+Greater Sydney,2024-01-01,unit,778000,10526,published,false,0.03595206391478034,785000,annual
+Greater Sydney,2024-04-01,house,1460000,11130,published,false,0.07352941176470584,1500000,annual
+Greater Sydney,2024-04-01,unit,798000,12137,published,false,0.023076923076922995,800000,annual
+Greater Sydney,2024-07-01,house,1414000,11200,published,false,0.02463768115942022,1450000,annual
+Greater Sydney,2024-07-01,unit,802000,12137,published,false,0.0151898734177216,810000,annual
+Greater Sydney,2024-10-01,house,1452000,11039,published,false,0.022535211267605604,1500000,annual
+Greater Sydney,2024-10-01,unit,820000,10741,published,false,0.03797468354430378,825000,annual
+Greater Sydney,2025-01-01,house,1430000,9394,published,false,0.021428571428571352,1515000,annual
+Greater Sydney,2025-01-01,unit,810000,9633,published,false,0.041131105398457546,825000,annual
+Greater Sydney,2025-04-01,house,1525000,11295,published,false,0.044520547945205546,1560000,quarterly
+Greater Sydney,2025-04-01,unit,825000,11107,published,false,0.03383458646616533,831000,quarterly
+Greater Sydney,2025-07-01,house,1533000,12453,published,false,0.08415841584158423,1545000,quarterly
+Greater Sydney,2025-07-01,unit,838000,12192,published,false,0.04488778054862852,841000,quarterly
+Greater Sydney,2025-10-01,house,1580000,12127,published,false,0.0881542699724518,1612000,quarterly
+Greater Sydney,2025-10-01,unit,855000,11751,published,false,0.04268292682926833,860000,quarterly
+Greater Sydney,2026-01-01,house,1550000,9021,published,false,0.08391608391608396,1550000,first_published
+Greater Sydney,2026-01-01,unit,855000,9742,published,false,0.05555555555555558,855000,first_published
+Hawkesbury,2019-01-01,house,750000,112,published,false,,750000,annual
+Hawkesbury,2019-01-01,unit,470000,,published,true,,485000,annual
+Hawkesbury,2019-04-01,house,720000,166,published,false,,730000,annual
+Hawkesbury,2019-04-01,unit,515000,,published,true,,492000,annual
+Hawkesbury,2019-07-01,house,714000,200,published,false,,718000,annual
+Hawkesbury,2019-07-01,unit,445000,33,published,false,,440000,annual
+Hawkesbury,2019-10-01,house,690000,205,published,false,,785000,annual
+Hawkesbury,2019-10-01,unit,499000,,published,true,,499000,annual
+Hawkesbury,2020-01-01,house,718000,155,published,false,-0.04266666666666663,720000,annual
+Hawkesbury,2020-01-01,unit,515000,41,published,false,0.0957446808510638,515000,annual
+Hawkesbury,2020-04-01,house,720000,177,published,false,0.0,736000,annual
+Hawkesbury,2020-04-01,unit,485000,,published,true,-0.058252427184465994,485000,annual
+Hawkesbury,2020-07-01,house,818000,242,published,false,0.14565826330532206,835000,annual
+Hawkesbury,2020-07-01,unit,493000,42,published,false,0.10786516853932593,492000,annual
+Hawkesbury,2020-10-01,house,820000,267,published,false,0.18840579710144922,876000,annual
+Hawkesbury,2020-10-01,unit,505000,40,published,false,0.012024048096192397,505000,annual
+Hawkesbury,2021-01-01,house,796000,260,published,false,0.10863509749303613,800000,annual
+Hawkesbury,2021-01-01,unit,573000,,published,true,0.11262135922330097,567000,annual
+Hawkesbury,2021-04-01,house,870000,261,published,false,0.20833333333333326,875000,annual
+Hawkesbury,2021-04-01,unit,585000,33,published,false,0.2061855670103092,585000,annual
+Hawkesbury,2021-07-01,house,945000,255,published,false,0.15525672371638133,956000,annual
+Hawkesbury,2021-07-01,unit,560000,31,published,false,0.13590263691683568,560000,annual
+Hawkesbury,2021-10-01,house,1020000,268,published,false,0.24390243902439024,1070000,annual
+Hawkesbury,2021-10-01,unit,651000,42,published,false,0.28910891089108914,652000,annual
+Hawkesbury,2022-01-01,house,968000,214,published,false,0.2160804020100502,1000000,annual
+Hawkesbury,2022-01-01,unit,650000,33,published,false,0.13438045375218155,650000,annual
+Hawkesbury,2022-04-01,house,1200000,186,published,false,0.3793103448275863,1200000,annual
+Hawkesbury,2022-04-01,unit,683000,36,published,false,0.1675213675213676,683000,annual
+Hawkesbury,2022-07-01,house,1000000,194,published,false,0.05820105820105814,1000000,annual
+Hawkesbury,2022-07-01,unit,600000,,published,true,0.0714285714285714,600000,annual
+Hawkesbury,2022-10-01,house,880000,183,published,false,-0.13725490196078427,881000,annual
+Hawkesbury,2022-10-01,unit,596000,,published,true,-0.08448540706605223,586000,annual
+Hawkesbury,2023-01-01,house,920000,157,published,false,-0.04958677685950408,935000,annual
+Hawkesbury,2023-01-01,unit,625000,,published,true,-0.038461538461538436,625000,annual
+Hawkesbury,2023-04-01,house,950000,180,published,false,-0.20833333333333337,981000,annual
+Hawkesbury,2023-04-01,unit,640000,,published,true,-0.06295754026354317,640000,annual
+Hawkesbury,2023-07-01,house,950000,209,published,false,-0.050000000000000044,990000,annual
+Hawkesbury,2023-07-01,unit,655000,38,published,false,0.09166666666666656,655000,annual
+Hawkesbury,2023-10-01,house,1000000,195,published,false,0.13636363636363646,1015000,annual
+Hawkesbury,2023-10-01,unit,580000,32,published,false,-0.02684563758389258,545000,annual
+Hawkesbury,2024-01-01,house,925000,163,published,false,0.005434782608695565,945000,annual
+Hawkesbury,2024-01-01,unit,710000,33,published,false,0.1359999999999999,688000,annual
+Hawkesbury,2024-04-01,house,962000,198,published,false,0.012631578947368327,985000,annual
+Hawkesbury,2024-04-01,unit,710000,,published,true,0.109375,705000,annual
+Hawkesbury,2024-07-01,house,1000000,238,published,false,0.05263157894736836,1005000,annual
+Hawkesbury,2024-07-01,unit,683000,36,published,false,0.04274809160305337,703000,annual
+Hawkesbury,2024-10-01,house,998000,226,published,false,-0.0020000000000000018,1018000,annual
+Hawkesbury,2024-10-01,unit,700000,32,published,false,0.2068965517241379,700000,annual
+Hawkesbury,2025-01-01,house,1018000,206,published,false,0.10054054054054062,1065000,annual
+Hawkesbury,2025-01-01,unit,753000,44,published,false,0.06056338028169006,753000,annual
+Hawkesbury,2025-04-01,house,1075000,231,published,false,0.11746361746361744,1100000,quarterly
+Hawkesbury,2025-04-01,unit,755000,36,published,false,0.06338028169014076,745000,quarterly
+Hawkesbury,2025-07-01,house,1075000,245,published,false,0.07499999999999996,1089000,quarterly
+Hawkesbury,2025-07-01,unit,700000,35,published,false,0.02489019033674955,720000,quarterly
+Hawkesbury,2025-10-01,house,1153000,273,published,false,0.15531062124248507,1160000,quarterly
+Hawkesbury,2025-10-01,unit,800000,32,published,false,0.1428571428571428,800000,quarterly
+Hawkesbury,2026-01-01,house,1215000,198,published,false,0.193516699410609,1215000,first_published
+Hawkesbury,2026-01-01,unit,808000,,published,true,0.07304116865869847,808000,first_published
+Hornsby,2019-01-01,house,1175000,180,published,false,,1175000,annual
+Hornsby,2019-01-01,unit,646000,104,published,false,,646000,annual
+Hornsby,2019-04-01,house,1140000,250,published,false,,1145000,annual
+Hornsby,2019-04-01,unit,660000,151,published,false,,655000,annual
+Hornsby,2019-07-01,house,1226000,281,published,false,,1227000,annual
+Hornsby,2019-07-01,unit,690000,271,published,false,,690000,annual
+Hornsby,2019-10-01,house,1330000,318,published,false,,1342000,annual
+Hornsby,2019-10-01,unit,661000,193,published,false,,663000,annual
+Hornsby,2020-01-01,house,1400000,235,published,false,0.1914893617021276,1400000,annual
+Hornsby,2020-01-01,unit,673000,178,published,false,0.04179566563467496,681000,annual
+Hornsby,2020-04-01,house,1305000,251,published,false,0.14473684210526305,1320000,annual
+Hornsby,2020-04-01,unit,665000,108,published,false,0.007575757575757569,685000,annual
+Hornsby,2020-07-01,house,1329000,314,published,false,0.08401305057096242,1343000,annual
+Hornsby,2020-07-01,unit,697000,178,published,false,0.010144927536231974,690000,annual
+Hornsby,2020-10-01,house,1450000,403,published,false,0.09022556390977443,1450000,annual
+Hornsby,2020-10-01,unit,695000,185,published,false,0.05143721633888054,695000,annual
+Hornsby,2021-01-01,house,1630000,340,published,false,0.16428571428571437,1650000,annual
+Hornsby,2021-01-01,unit,701000,248,published,false,0.0416047548291234,710000,annual
+Hornsby,2021-04-01,house,1780000,410,published,false,0.3639846743295019,1785000,annual
+Hornsby,2021-04-01,unit,705000,263,published,false,0.06015037593984962,710000,annual
+Hornsby,2021-07-01,house,1800000,359,published,false,0.35440180586907455,1800000,annual
+Hornsby,2021-07-01,unit,720000,210,published,false,0.03299856527977041,720000,annual
+Hornsby,2021-10-01,house,2000000,457,published,false,0.3793103448275863,2000000,annual
+Hornsby,2021-10-01,unit,744000,229,published,false,0.07050359712230225,744000,annual
+Hornsby,2022-01-01,house,1918000,282,published,false,0.17668711656441727,1924000,annual
+Hornsby,2022-01-01,unit,715000,195,published,false,0.0199714693295292,723000,annual
+Hornsby,2022-04-01,house,1820000,297,published,false,0.022471910112359605,1820000,annual
+Hornsby,2022-04-01,unit,720000,202,published,false,0.02127659574468077,720000,annual
+Hornsby,2022-07-01,house,1680000,283,published,false,-0.06666666666666665,1690000,annual
+Hornsby,2022-07-01,unit,700000,182,published,false,-0.02777777777777779,700000,annual
+Hornsby,2022-10-01,house,1718000,320,published,false,-0.14100000000000001,1720000,annual
+Hornsby,2022-10-01,unit,680000,144,published,false,-0.08602150537634412,680000,annual
+Hornsby,2023-01-01,house,1800000,246,published,false,-0.0615224191866528,1810000,annual
+Hornsby,2023-01-01,unit,714000,168,published,false,-0.0013986013986013734,715000,annual
+Hornsby,2023-04-01,house,1900000,317,published,false,0.04395604395604402,1900000,annual
+Hornsby,2023-04-01,unit,745000,229,published,false,0.03472222222222232,745000,annual
+Hornsby,2023-07-01,house,1930000,345,published,false,0.14880952380952372,1950000,annual
+Hornsby,2023-07-01,unit,725000,256,published,false,0.03571428571428581,728000,annual
+Hornsby,2023-10-01,house,1930000,309,published,false,0.12339930151338763,1945000,annual
+Hornsby,2023-10-01,unit,719000,225,published,false,0.057352941176470607,715000,annual
+Hornsby,2024-01-01,house,2000000,261,published,false,0.11111111111111116,2000000,annual
+Hornsby,2024-01-01,unit,735000,215,published,false,0.02941176470588225,735000,annual
+Hornsby,2024-04-01,house,2078000,316,published,false,0.09368421052631581,2090000,annual
+Hornsby,2024-04-01,unit,740000,278,published,false,-0.006711409395973145,742000,annual
+Hornsby,2024-07-01,house,2000000,290,published,false,0.03626943005181338,2010000,annual
+Hornsby,2024-07-01,unit,742000,293,published,false,0.02344827586206888,740000,annual
+Hornsby,2024-10-01,house,1945000,306,published,false,0.007772020725388629,1972000,annual
+Hornsby,2024-10-01,unit,730000,243,published,false,0.015299026425591,738000,annual
+Hornsby,2025-01-01,house,2078000,242,published,false,0.038999999999999924,2138000,annual
+Hornsby,2025-01-01,unit,745000,205,published,false,0.013605442176870763,745000,annual
+Hornsby,2025-04-01,house,1950000,305,published,false,-0.06159769008662175,1956000,quarterly
+Hornsby,2025-04-01,unit,775000,251,published,false,0.04729729729729737,775000,quarterly
+Hornsby,2025-07-01,house,2100000,356,published,false,0.050000000000000044,2100000,quarterly
+Hornsby,2025-07-01,unit,760000,269,published,false,0.0242587601078168,761000,quarterly
+Hornsby,2025-10-01,house,2100000,367,published,false,0.07969151670951158,2100000,quarterly
+Hornsby,2025-10-01,unit,753000,216,published,false,0.03150684931506853,758000,quarterly
+Hornsby,2026-01-01,house,2070000,240,published,false,-0.0038498556304138454,2070000,first_published
+Hornsby,2026-01-01,unit,785000,241,published,false,0.05369127516778516,785000,first_published
+Hunters Hill,2019-01-01,house,2500000,,published,true,,2650000,annual
+Hunters Hill,2019-01-01,unit,1620000,,published,true,,1536000,annual
+Hunters Hill,2019-04-01,house,2534000,,published,true,,2450000,annual
+Hunters Hill,2019-04-01,unit,755000,,published,true,,755000,annual
+Hunters Hill,2019-07-01,house,2620000,,published,true,,2750000,annual
+Hunters Hill,2019-07-01,unit,1290000,,published,true,,1290000,annual
+Hunters Hill,2019-10-01,house,2780000,32,published,false,,2860000,annual
+Hunters Hill,2019-10-01,unit,1170000,,published,true,,1210000,annual
+Hunters Hill,2020-01-01,house,3540000,,published,true,0.4159999999999999,3700000,annual
+Hunters Hill,2020-01-01,unit,853000,,published,true,-0.47345679012345676,853000,annual
+Hunters Hill,2020-04-01,house,2425000,,published,true,-0.043014996053670096,2425000,annual
+Hunters Hill,2020-04-01,unit,880000,,published,true,0.16556291390728473,975000,annual
+Hunters Hill,2020-07-01,house,3100000,41,published,false,0.1832061068702291,3450000,annual
+Hunters Hill,2020-07-01,unit,1125000,,published,true,-0.12790697674418605,1125000,annual
+Hunters Hill,2020-10-01,house,2978000,42,published,false,0.07122302158273386,2980000,annual
+Hunters Hill,2020-10-01,unit,1263000,,published,true,0.07948717948717943,1205000,annual
+Hunters Hill,2021-01-01,house,2855000,,published,true,-0.19350282485875703,2995000,annual
+Hunters Hill,2021-01-01,unit,1100000,,published,true,0.2895662368112544,1147000,annual
+Hunters Hill,2021-04-01,house,3288000,,published,true,0.3558762886597937,3800000,annual
+Hunters Hill,2021-04-01,unit,1600000,,published,true,0.8181818181818181,1600000,annual
+Hunters Hill,2021-07-01,house,3976000,36,published,false,0.2825806451612902,3950000,annual
+Hunters Hill,2021-07-01,unit,1230000,,published,true,0.09333333333333327,1230000,annual
+Hunters Hill,2021-10-01,house,4055000,34,published,false,0.3616521155137675,4550000,annual
+Hunters Hill,2021-10-01,unit,1008000,36,published,false,-0.20190023752969122,1008000,annual
+Hunters Hill,2022-01-01,house,4115000,,published,true,0.4413309982486866,4100000,annual
+Hunters Hill,2022-01-01,unit,1560000,,published,true,0.4181818181818182,1381000,annual
+Hunters Hill,2022-04-01,house,3950000,,published,true,0.20133819951338205,3950000,annual
+Hunters Hill,2022-04-01,unit,925000,,published,true,-0.421875,925000,annual
+Hunters Hill,2022-07-01,house,3850000,,published,true,-0.03169014084507038,3530000,annual
+Hunters Hill,2022-07-01,unit,1280000,,published,true,0.04065040650406515,1280000,annual
+Hunters Hill,2022-10-01,house,4002000,,published,true,-0.013070283600493227,3975000,annual
+Hunters Hill,2022-10-01,unit,1065000,,published,true,0.05654761904761907,1065000,annual
+Hunters Hill,2023-01-01,house,3410000,,published,true,-0.17132442284325633,3775000,annual
+Hunters Hill,2023-01-01,unit,865000,,published,true,-0.4455128205128205,915000,annual
+Hunters Hill,2023-04-01,house,3325000,,published,true,-0.15822784810126578,3380000,annual
+Hunters Hill,2023-04-01,unit,949000,,published,true,0.025945945945945903,960000,annual
+Hunters Hill,2023-07-01,house,3700000,,published,true,-0.038961038961038974,3700000,annual
+Hunters Hill,2023-07-01,unit,1125000,35,published,false,-0.12109375,1125000,annual
+Hunters Hill,2023-10-01,house,3300000,,published,true,-0.17541229385307344,3800000,annual
+Hunters Hill,2023-10-01,unit,1420000,,published,true,0.33333333333333326,1420000,annual
+Hunters Hill,2024-01-01,house,3900000,,published,true,0.1436950146627567,4000000,annual
+Hunters Hill,2024-01-01,unit,1305000,,published,true,0.5086705202312138,1060000,annual
+Hunters Hill,2024-04-01,house,4120000,,published,true,0.23909774436090236,4350000,annual
+Hunters Hill,2024-04-01,unit,1188000,,published,true,0.25184404636459434,1312000,annual
+Hunters Hill,2024-07-01,house,4050000,,published,true,0.09459459459459452,4350000,annual
+Hunters Hill,2024-07-01,unit,1300000,,published,true,0.15555555555555545,1100000,annual
+Hunters Hill,2024-10-01,house,4350000,,published,true,0.3181818181818181,4915000,annual
+Hunters Hill,2024-10-01,unit,1100000,,published,true,-0.22535211267605637,1100000,annual
+Hunters Hill,2025-01-01,house,4120000,,published,true,0.05641025641025643,4460000,annual
+Hunters Hill,2025-01-01,unit,1137000,,published,true,-0.12873563218390804,1118000,annual
+Hunters Hill,2025-04-01,house,4000000,,published,true,-0.029126213592232997,4010000,quarterly
+Hunters Hill,2025-04-01,unit,1500000,,published,true,0.26262626262626254,1335000,quarterly
+Hunters Hill,2025-07-01,house,4333000,,published,true,0.06987654320987646,4650000,quarterly
+Hunters Hill,2025-07-01,unit,970000,,published,true,-0.25384615384615383,1035000,quarterly
+Hunters Hill,2025-10-01,house,3900000,,published,true,-0.10344827586206895,4160000,quarterly
+Hunters Hill,2025-10-01,unit,1438000,34,published,false,0.30727272727272736,1438000,quarterly
+Hunters Hill,2026-01-01,house,3925000,,published,true,-0.047330097087378675,3925000,first_published
+Hunters Hill,2026-01-01,unit,962000,,published,true,-0.15391380826737022,962000,first_published
+Inner Ring,2019-01-01,house,1810000,678,published,false,,1870000,annual
+Inner Ring,2019-01-01,unit,883000,1468,published,false,,900000,annual
+Inner Ring,2019-04-01,house,1850000,980,published,false,,1900000,annual
+Inner Ring,2019-04-01,unit,880000,2085,published,false,,900000,annual
+Inner Ring,2019-07-01,house,1873000,942,published,false,,1898000,annual
+Inner Ring,2019-07-01,unit,950000,2462,published,false,,945000,annual
+Inner Ring,2019-10-01,house,2073000,1214,published,false,,2101000,annual
+Inner Ring,2019-10-01,unit,984000,2577,published,false,,990000,annual
+Inner Ring,2020-01-01,house,2054000,890,published,false,0.13480662983425407,2110000,annual
+Inner Ring,2020-01-01,unit,1000000,2080,published,false,0.13250283125707818,1005000,annual
+Inner Ring,2020-04-01,house,2000000,931,published,false,0.08108108108108114,2050000,annual
+Inner Ring,2020-04-01,unit,960000,1654,published,false,0.09090909090909083,965000,annual
+Inner Ring,2020-07-01,house,2007000,1215,published,false,0.07154297917778973,2100000,annual
+Inner Ring,2020-07-01,unit,930000,2399,published,false,-0.021052631578947323,935000,annual
+Inner Ring,2020-10-01,house,2100000,1452,published,false,0.013024602026049159,2150000,annual
+Inner Ring,2020-10-01,unit,956000,2888,published,false,-0.028455284552845517,995000,annual
+Inner Ring,2021-01-01,house,2300000,1221,published,false,0.11976630963972745,2443000,annual
+Inner Ring,2021-01-01,unit,968000,2826,published,false,-0.03200000000000003,985000,annual
+Inner Ring,2021-04-01,house,2690000,1452,published,false,0.345,2775000,annual
+Inner Ring,2021-04-01,unit,1085000,3658,published,false,0.13020833333333326,1100000,annual
+Inner Ring,2021-07-01,house,2670000,1341,published,false,0.3303437967115097,2810000,annual
+Inner Ring,2021-07-01,unit,1100000,3217,published,false,0.18279569892473124,1105000,annual
+Inner Ring,2021-10-01,house,2720000,1517,published,false,0.2952380952380953,2800000,annual
+Inner Ring,2021-10-01,unit,1125000,3634,published,false,0.17677824267782416,1170000,annual
+Inner Ring,2022-01-01,house,2575000,970,published,false,0.11956521739130443,2745000,annual
+Inner Ring,2022-01-01,unit,1060000,2605,published,false,0.0950413223140496,1100000,annual
+Inner Ring,2022-04-01,house,2600000,1151,published,false,-0.03345724907063197,2600000,annual
+Inner Ring,2022-04-01,unit,1060000,2639,published,false,-0.02304147465437789,1070000,annual
+Inner Ring,2022-07-01,house,2410000,1047,published,false,-0.09737827715355807,2450000,annual
+Inner Ring,2022-07-01,unit,1000000,2471,published,false,-0.09090909090909094,1021000,annual
+Inner Ring,2022-10-01,house,2380000,1007,published,false,-0.125,2450000,annual
+Inner Ring,2022-10-01,unit,975000,2329,published,false,-0.1333333333333333,1000000,annual
+Inner Ring,2023-01-01,house,2500000,816,published,false,-0.029126213592232997,2650000,annual
+Inner Ring,2023-01-01,unit,999000,2289,published,false,-0.0575471698113208,1010000,annual
+Inner Ring,2023-04-01,house,2500000,1015,published,false,-0.038461538461538436,2600000,annual
+Inner Ring,2023-04-01,unit,1050000,2935,published,false,-0.009433962264150941,1072000,annual
+Inner Ring,2023-07-01,house,2700000,1133,published,false,0.1203319502074689,2760000,annual
+Inner Ring,2023-07-01,unit,1040000,3158,published,false,0.040000000000000036,1050000,annual
+Inner Ring,2023-10-01,house,2650000,1136,published,false,0.11344537815126055,2773000,annual
+Inner Ring,2023-10-01,unit,1050000,2995,published,false,0.07692307692307687,1080000,annual
+Inner Ring,2024-01-01,house,2838000,1018,published,false,0.1352,3000000,annual
+Inner Ring,2024-01-01,unit,1080000,2810,published,false,0.08108108108108114,1100000,annual
+Inner Ring,2024-04-01,house,2650000,1173,published,false,0.06000000000000005,2778000,annual
+Inner Ring,2024-04-01,unit,1100000,3263,published,false,0.04761904761904767,1130000,annual
+Inner Ring,2024-07-01,house,2700000,1089,published,false,0.0,2800000,annual
+Inner Ring,2024-07-01,unit,1100000,3327,published,false,0.05769230769230771,1125000,annual
+Inner Ring,2024-10-01,house,2612000,1090,published,false,-0.014339622641509453,2725000,annual
+Inner Ring,2024-10-01,unit,1090000,2985,published,false,0.03809523809523818,1100000,annual
+Inner Ring,2025-01-01,house,2880000,944,published,false,0.014799154334038,3119000,annual
+Inner Ring,2025-01-01,unit,1100000,2695,published,false,0.0185185185185186,1160000,annual
+Inner Ring,2025-04-01,house,2800000,1155,published,false,0.05660377358490565,2900000,quarterly
+Inner Ring,2025-04-01,unit,1095000,2998,published,false,-0.004545454545454519,1100000,quarterly
+Inner Ring,2025-07-01,house,2900000,1204,published,false,0.07407407407407418,2950000,quarterly
+Inner Ring,2025-07-01,unit,1125000,3265,published,false,0.022727272727272707,1130000,quarterly
+Inner Ring,2025-10-01,house,2850000,1233,published,false,0.09111791730474739,2950000,quarterly
+Inner Ring,2025-10-01,unit,1132000,3332,published,false,0.038532110091743066,1150000,quarterly
+Inner Ring,2026-01-01,house,3000000,948,published,false,0.04166666666666674,3000000,first_published
+Inner Ring,2026-01-01,unit,1185000,2748,published,false,0.07727272727272738,1185000,first_published
+Inner West,2019-01-01,house,1353000,244,published,false,,1380000,annual
+Inner West,2019-01-01,unit,699000,187,published,false,,700000,annual
+Inner West,2019-04-01,house,1400000,365,published,false,,1400000,annual
+Inner West,2019-04-01,unit,768000,348,published,false,,765000,annual
+Inner West,2019-07-01,house,1500000,330,published,false,,1502000,annual
+Inner West,2019-07-01,unit,750000,335,published,false,,750000,annual
+Inner West,2019-10-01,house,1614000,442,published,false,,1620000,annual
+Inner West,2019-10-01,unit,792000,340,published,false,,791000,annual
+Inner West,2020-01-01,house,1700000,322,published,false,0.2564671101256466,1700000,annual
+Inner West,2020-01-01,unit,820000,260,published,false,0.1731044349070101,820000,annual
+Inner West,2020-04-01,house,1565000,319,published,false,0.11785714285714288,1573000,annual
+Inner West,2020-04-01,unit,772000,216,published,false,0.005208333333333259,772000,annual
+Inner West,2020-07-01,house,1550000,453,published,false,0.03333333333333344,1565000,annual
+Inner West,2020-07-01,unit,742000,350,published,false,-0.010666666666666713,743000,annual
+Inner West,2020-10-01,house,1678000,530,published,false,0.039653035935563796,1685000,annual
+Inner West,2020-10-01,unit,810000,404,published,false,0.022727272727272707,815000,annual
+Inner West,2021-01-01,house,1798000,410,published,false,0.057647058823529385,1810000,annual
+Inner West,2021-01-01,unit,770000,375,published,false,-0.060975609756097615,779000,annual
+Inner West,2021-04-01,house,1910000,494,published,false,0.220447284345048,1927000,annual
+Inner West,2021-04-01,unit,829000,512,published,false,0.07383419689119175,850000,annual
+Inner West,2021-07-01,house,2054000,464,published,false,0.3251612903225807,2101000,annual
+Inner West,2021-07-01,unit,855000,443,published,false,0.15229110512129385,863000,annual
+Inner West,2021-10-01,house,2140000,569,published,false,0.27532777115613816,2161000,annual
+Inner West,2021-10-01,unit,865000,470,published,false,0.06790123456790131,875000,annual
+Inner West,2022-01-01,house,2100000,361,published,false,0.16796440489432696,2125000,annual
+Inner West,2022-01-01,unit,839000,371,published,false,0.0896103896103897,839000,annual
+Inner West,2022-04-01,house,1929000,418,published,false,0.009947643979057563,1929000,annual
+Inner West,2022-04-01,unit,830000,342,published,false,0.0012062726176116367,837000,annual
+Inner West,2022-07-01,house,1803000,384,published,false,-0.12220058422590063,1808000,annual
+Inner West,2022-07-01,unit,776000,342,published,false,-0.09239766081871348,779000,annual
+Inner West,2022-10-01,house,1788000,360,published,false,-0.1644859813084112,1800000,annual
+Inner West,2022-10-01,unit,810000,306,published,false,-0.06358381502890176,810000,annual
+Inner West,2023-01-01,house,1919000,306,published,false,-0.08619047619047615,1925000,annual
+Inner West,2023-01-01,unit,805000,271,published,false,-0.040524433849821184,821000,annual
+Inner West,2023-04-01,house,2040000,392,published,false,0.05754276827371685,2017000,annual
+Inner West,2023-04-01,unit,875000,394,published,false,0.054216867469879526,882000,annual
+Inner West,2023-07-01,house,2100000,420,published,false,0.16472545757071555,2120000,annual
+Inner West,2023-07-01,unit,830000,454,published,false,0.06958762886597936,830000,annual
+Inner West,2023-10-01,house,2078000,392,published,false,0.1621923937360179,2100000,annual
+Inner West,2023-10-01,unit,870000,418,published,false,0.07407407407407418,875000,annual
+Inner West,2024-01-01,house,2195000,339,published,false,0.1438249088066701,2225000,annual
+Inner West,2024-01-01,unit,887000,400,published,false,0.1018633540372671,890000,annual
+Inner West,2024-04-01,house,2160000,458,published,false,0.05882352941176472,2200000,annual
+Inner West,2024-04-01,unit,900000,474,published,false,0.02857142857142847,910000,annual
+Inner West,2024-07-01,house,2133000,396,published,false,0.01571428571428579,2180000,annual
+Inner West,2024-07-01,unit,948000,488,published,false,0.14216867469879513,945000,annual
+Inner West,2024-10-01,house,2120000,447,published,false,0.0202117420596728,2150000,annual
+Inner West,2024-10-01,unit,902000,404,published,false,0.0367816091954023,907000,annual
+Inner West,2025-01-01,house,2165000,335,published,false,-0.013667425968109326,2200000,annual
+Inner West,2025-01-01,unit,940000,365,published,false,0.059751972942502896,940000,annual
+Inner West,2025-04-01,house,2233000,414,published,false,0.033796296296296324,2250000,quarterly
+Inner West,2025-04-01,unit,910000,429,published,false,0.011111111111111072,911000,quarterly
+Inner West,2025-07-01,house,2350000,441,published,false,0.1017346460384434,2350000,quarterly
+Inner West,2025-07-01,unit,954000,448,published,false,0.006329113924050667,955000,quarterly
+Inner West,2025-10-01,house,2333000,468,published,false,0.10047169811320744,2350000,quarterly
+Inner West,2025-10-01,unit,970000,443,published,false,0.07538802660753885,970000,quarterly
+Inner West,2026-01-01,house,2360000,311,published,false,0.09006928406466508,2360000,first_published
+Inner West,2026-01-01,unit,1025000,340,published,false,0.09042553191489366,1025000,first_published
+Ku-Ring-Gai,2019-01-01,house,1910000,168,published,false,,1925000,annual
+Ku-Ring-Gai,2019-01-01,unit,880000,106,published,false,,892000,annual
+Ku-Ring-Gai,2019-04-01,house,1894000,264,published,false,,1900000,annual
+Ku-Ring-Gai,2019-04-01,unit,930000,163,published,false,,936000,annual
+Ku-Ring-Gai,2019-07-01,house,2020000,283,published,false,,2035000,annual
+Ku-Ring-Gai,2019-07-01,unit,900000,186,published,false,,900000,annual
+Ku-Ring-Gai,2019-10-01,house,2208000,308,published,false,,2210000,annual
+Ku-Ring-Gai,2019-10-01,unit,980000,227,published,false,,980000,annual
+Ku-Ring-Gai,2020-01-01,house,2300000,235,published,false,0.20418848167539272,2300000,annual
+Ku-Ring-Gai,2020-01-01,unit,934000,166,published,false,0.06136363636363629,950000,annual
+Ku-Ring-Gai,2020-04-01,house,2203000,222,published,false,0.16314677930306232,2240000,annual
+Ku-Ring-Gai,2020-04-01,unit,900000,109,published,false,-0.032258064516129004,912000,annual
+Ku-Ring-Gai,2020-07-01,house,2370000,338,published,false,0.1732673267326732,2370000,annual
+Ku-Ring-Gai,2020-07-01,unit,922000,159,published,false,0.02444444444444449,940000,annual
+Ku-Ring-Gai,2020-10-01,house,2500000,396,published,false,0.13224637681159424,2500000,annual
+Ku-Ring-Gai,2020-10-01,unit,950000,197,published,false,-0.030612244897959218,950000,annual
+Ku-Ring-Gai,2021-01-01,house,2783000,312,published,false,0.20999999999999996,2830000,annual
+Ku-Ring-Gai,2021-01-01,unit,990000,186,published,false,0.05995717344753748,991000,annual
+Ku-Ring-Gai,2021-04-01,house,2928000,398,published,false,0.32909668633681344,2978000,annual
+Ku-Ring-Gai,2021-04-01,unit,1060000,272,published,false,0.1777777777777778,1090000,annual
+Ku-Ring-Gai,2021-07-01,house,3055000,356,published,false,0.2890295358649788,3100000,annual
+Ku-Ring-Gai,2021-07-01,unit,1085000,225,published,false,0.17678958785249455,1102000,annual
+Ku-Ring-Gai,2021-10-01,house,3280000,369,published,false,0.31200000000000006,3300000,annual
+Ku-Ring-Gai,2021-10-01,unit,1019000,245,published,false,0.07263157894736838,1044000,annual
+Ku-Ring-Gai,2022-01-01,house,3230000,249,published,false,0.16061803808839392,3260000,annual
+Ku-Ring-Gai,2022-01-01,unit,1036000,196,published,false,0.04646464646464654,1088000,annual
+Ku-Ring-Gai,2022-04-01,house,3005000,302,published,false,0.026297814207650205,3010000,annual
+Ku-Ring-Gai,2022-04-01,unit,1075000,174,published,false,0.014150943396226356,1100000,annual
+Ku-Ring-Gai,2022-07-01,house,2890000,288,published,false,-0.054009819967266726,3000000,annual
+Ku-Ring-Gai,2022-07-01,unit,1050000,173,published,false,-0.032258064516129004,1066000,annual
+Ku-Ring-Gai,2022-10-01,house,2921000,288,published,false,-0.10945121951219516,2950000,annual
+Ku-Ring-Gai,2022-10-01,unit,975000,156,published,false,-0.04317958783120701,998000,annual
+Ku-Ring-Gai,2023-01-01,house,3150000,236,published,false,-0.024767801857585092,3161000,annual
+Ku-Ring-Gai,2023-01-01,unit,1050000,163,published,false,0.013513513513513598,1071000,annual
+Ku-Ring-Gai,2023-04-01,house,3080000,323,published,false,0.024958402662229595,3100000,annual
+Ku-Ring-Gai,2023-04-01,unit,1020000,210,published,false,-0.051162790697674376,1020000,annual
+Ku-Ring-Gai,2023-07-01,house,3360000,307,published,false,0.16262975778546718,3395000,annual
+Ku-Ring-Gai,2023-07-01,unit,1080000,229,published,false,0.02857142857142847,1083000,annual
+Ku-Ring-Gai,2023-10-01,house,3200000,288,published,false,0.09551523450872978,3200000,annual
+Ku-Ring-Gai,2023-10-01,unit,975000,207,published,false,0.0,992000,annual
+Ku-Ring-Gai,2024-01-01,house,3268000,240,published,false,0.037460317460317416,3300000,annual
+Ku-Ring-Gai,2024-01-01,unit,1008000,194,published,false,-0.040000000000000036,1026000,annual
+Ku-Ring-Gai,2024-04-01,house,3403000,282,published,false,0.10487012987012978,3417000,annual
+Ku-Ring-Gai,2024-04-01,unit,970000,234,published,false,-0.0490196078431373,970000,annual
+Ku-Ring-Gai,2024-07-01,house,3255000,288,published,false,-0.03125,3330000,annual
+Ku-Ring-Gai,2024-07-01,unit,1052000,239,published,false,-0.025925925925925908,1067000,annual
+Ku-Ring-Gai,2024-10-01,house,3355000,320,published,false,0.04843749999999991,3385000,annual
+Ku-Ring-Gai,2024-10-01,unit,1000000,205,published,false,0.02564102564102555,1030000,annual
+Ku-Ring-Gai,2025-01-01,house,3266000,234,published,false,-0.000611995104039198,3360000,annual
+Ku-Ring-Gai,2025-01-01,unit,1000000,175,published,false,-0.007936507936507908,1045000,annual
+Ku-Ring-Gai,2025-04-01,house,3550000,304,published,false,0.0431971789597414,3573000,quarterly
+Ku-Ring-Gai,2025-04-01,unit,1090000,226,published,false,0.12371134020618557,1103000,quarterly
+Ku-Ring-Gai,2025-07-01,house,3512000,316,published,false,0.07895545314900154,3555000,quarterly
+Ku-Ring-Gai,2025-07-01,unit,1055000,262,published,false,0.002851711026615966,1060000,quarterly
+Ku-Ring-Gai,2025-10-01,house,3450000,342,published,false,0.028315946348733245,3450000,quarterly
+Ku-Ring-Gai,2025-10-01,unit,1028000,250,published,false,0.028000000000000025,1040000,quarterly
+Ku-Ring-Gai,2026-01-01,house,3300000,222,published,false,0.010410287813839458,3300000,first_published
+Ku-Ring-Gai,2026-01-01,unit,1170000,182,published,false,0.16999999999999993,1170000,first_published
+Lane Cove,2019-01-01,house,2000000,38,published,false,,2050000,annual
+Lane Cove,2019-01-01,unit,777000,86,published,false,,797000,annual
+Lane Cove,2019-04-01,house,2138000,56,published,false,,2370000,annual
+Lane Cove,2019-04-01,unit,724000,116,published,false,,732000,annual
+Lane Cove,2019-07-01,house,2550000,45,published,false,,2600000,annual
+Lane Cove,2019-07-01,unit,795000,154,published,false,,800000,annual
+Lane Cove,2019-10-01,house,2478000,72,published,false,,2505000,annual
+Lane Cove,2019-10-01,unit,920000,146,published,false,,920000,annual
+Lane Cove,2020-01-01,house,2470000,37,published,false,0.2350000000000001,2486000,annual
+Lane Cove,2020-01-01,unit,878000,138,published,false,0.12998712998713002,878000,annual
+Lane Cove,2020-04-01,house,2375000,47,published,false,0.11085126286248825,2400000,annual
+Lane Cove,2020-04-01,unit,785000,70,published,false,0.08425414364640882,790000,annual
+Lane Cove,2020-07-01,house,2590000,47,published,false,0.015686274509803866,2620000,annual
+Lane Cove,2020-07-01,unit,745000,115,published,false,-0.06289308176100628,755000,annual
+Lane Cove,2020-10-01,house,2470000,74,published,false,-0.0032284100080710587,2500000,annual
+Lane Cove,2020-10-01,unit,772000,149,published,false,-0.16086956521739126,772000,annual
+Lane Cove,2021-01-01,house,2950000,55,published,false,0.19433198380566807,3166000,annual
+Lane Cove,2021-01-01,unit,773000,144,published,false,-0.11958997722095677,796000,annual
+Lane Cove,2021-04-01,house,3200000,77,published,false,0.34736842105263155,3213000,annual
+Lane Cove,2021-04-01,unit,850000,174,published,false,0.08280254777070062,935000,annual
+Lane Cove,2021-07-01,house,3220000,65,published,false,0.2432432432432432,3333000,annual
+Lane Cove,2021-07-01,unit,890000,199,published,false,0.19463087248322153,917000,annual
+Lane Cove,2021-10-01,house,3685000,80,published,false,0.4919028340080971,3805000,annual
+Lane Cove,2021-10-01,unit,900000,234,published,false,0.16580310880829008,1112000,annual
+Lane Cove,2022-01-01,house,3750000,41,published,false,0.27118644067796605,3800000,annual
+Lane Cove,2022-01-01,unit,857000,149,published,false,0.10866752910737376,910000,annual
+Lane Cove,2022-04-01,house,4000000,82,published,false,0.25,4000000,annual
+Lane Cove,2022-04-01,unit,873000,166,published,false,0.027058823529411802,942000,annual
+Lane Cove,2022-07-01,house,4575000,78,published,false,0.420807453416149,4575000,annual
+Lane Cove,2022-07-01,unit,903000,140,published,false,0.014606741573033766,955000,annual
+Lane Cove,2022-10-01,house,2875000,57,published,false,-0.2198100407055631,2900000,annual
+Lane Cove,2022-10-01,unit,980000,157,published,false,0.0888888888888888,980000,annual
+Lane Cove,2023-01-01,house,3250000,37,published,false,-0.1333333333333333,3463000,annual
+Lane Cove,2023-01-01,unit,943000,173,published,false,0.10035005834305721,957000,annual
+Lane Cove,2023-04-01,house,3520000,36,published,false,-0.12,3710000,annual
+Lane Cove,2023-04-01,unit,966000,179,published,false,0.10652920962199319,965000,annual
+Lane Cove,2023-07-01,house,3675000,52,published,false,-0.19672131147540983,3777000,annual
+Lane Cove,2023-07-01,unit,890000,195,published,false,-0.01439645625692132,930000,annual
+Lane Cove,2023-10-01,house,3710000,56,published,false,0.2904347826086957,3800000,annual
+Lane Cove,2023-10-01,unit,850000,207,published,false,-0.13265306122448983,855000,annual
+Lane Cove,2024-01-01,house,4088000,68,published,false,0.25784615384615384,4067000,annual
+Lane Cove,2024-01-01,unit,887000,178,published,false,-0.05938494167550368,896000,annual
+Lane Cove,2024-04-01,house,3900000,45,published,false,0.10795454545454541,3900000,annual
+Lane Cove,2024-04-01,unit,930000,197,published,false,-0.037267080745341574,960000,annual
+Lane Cove,2024-07-01,house,3773000,58,published,false,0.026666666666666616,3809000,annual
+Lane Cove,2024-07-01,unit,920000,174,published,false,0.03370786516853941,937000,annual
+Lane Cove,2024-10-01,house,3600000,41,published,false,-0.029649595687331498,3660000,annual
+Lane Cove,2024-10-01,unit,958000,164,published,false,0.12705882352941167,960000,annual
+Lane Cove,2025-01-01,house,3725000,41,published,false,-0.08879647749510766,3801000,annual
+Lane Cove,2025-01-01,unit,980000,166,published,false,0.10484780157835405,980000,annual
+Lane Cove,2025-04-01,house,3410000,54,published,false,-0.12564102564102564,3427000,quarterly
+Lane Cove,2025-04-01,unit,940000,184,published,false,0.010752688172043001,940000,quarterly
+Lane Cove,2025-07-01,house,3579000,52,published,false,-0.051417969785316764,3550000,quarterly
+Lane Cove,2025-07-01,unit,985000,229,published,false,0.07065217391304346,980000,quarterly
+Lane Cove,2025-10-01,house,3805000,49,published,false,0.056944444444444464,4361000,quarterly
+Lane Cove,2025-10-01,unit,1036000,197,published,false,0.08141962421711901,1036000,quarterly
+Lane Cove,2026-01-01,house,3663000,48,published,false,-0.01664429530201339,3663000,first_published
+Lane Cove,2026-01-01,unit,950000,170,published,false,-0.030612244897959218,950000,first_published
+Liverpool,2019-01-01,house,750000,232,published,false,,760000,annual
+Liverpool,2019-01-01,unit,522000,58,published,false,,526000,annual
+Liverpool,2019-04-01,house,728000,348,published,false,,730000,annual
+Liverpool,2019-04-01,unit,480000,107,published,false,,482000,annual
+Liverpool,2019-07-01,house,760000,345,published,false,,760000,annual
+Liverpool,2019-07-01,unit,485000,162,published,false,,500000,annual
+Liverpool,2019-10-01,house,800000,408,published,false,,800000,annual
+Liverpool,2019-10-01,unit,480000,172,published,false,,480000,annual
+Liverpool,2020-01-01,house,780000,298,published,false,0.040000000000000036,780000,annual
+Liverpool,2020-01-01,unit,485000,133,published,false,-0.07088122605363989,510000,annual
+Liverpool,2020-04-01,house,766000,286,published,false,0.052197802197802234,770000,annual
+Liverpool,2020-04-01,unit,510000,108,published,false,0.0625,515000,annual
+Liverpool,2020-07-01,house,769000,452,published,false,0.011842105263157876,758000,annual
+Liverpool,2020-07-01,unit,500000,166,published,false,0.030927835051546282,515000,annual
+Liverpool,2020-10-01,house,795000,515,published,false,-0.006249999999999978,790000,annual
+Liverpool,2020-10-01,unit,500000,205,published,false,0.04166666666666674,525000,annual
+Liverpool,2021-01-01,house,830000,443,published,false,0.0641025641025641,820000,annual
+Liverpool,2021-01-01,unit,520000,198,published,false,0.07216494845360821,536000,annual
+Liverpool,2021-04-01,house,900000,579,published,false,0.17493472584856407,887000,annual
+Liverpool,2021-04-01,unit,524000,282,published,false,0.027450980392156765,568000,annual
+Liverpool,2021-07-01,house,970000,484,published,false,0.2613784135240571,965000,annual
+Liverpool,2021-07-01,unit,530000,225,published,false,0.06000000000000005,550000,annual
+Liverpool,2021-10-01,house,1011000,622,published,false,0.2716981132075471,1014000,annual
+Liverpool,2021-10-01,unit,534000,254,published,false,0.06800000000000006,565000,annual
+Liverpool,2022-01-01,house,1002000,434,published,false,0.20722891566265056,1022000,annual
+Liverpool,2022-01-01,unit,542000,211,published,false,0.04230769230769238,550000,annual
+Liverpool,2022-04-01,house,1048000,478,published,false,0.1644444444444444,1048000,annual
+Liverpool,2022-04-01,unit,528000,236,published,false,0.007633587786259444,535000,annual
+Liverpool,2022-07-01,house,995000,429,published,false,0.025773195876288568,1000000,annual
+Liverpool,2022-07-01,unit,520000,261,published,false,-0.018867924528301883,524000,annual
+Liverpool,2022-10-01,house,970000,381,published,false,-0.04055390702274975,990000,annual
+Liverpool,2022-10-01,unit,500000,222,published,false,-0.06367041198501877,500000,annual
+Liverpool,2023-01-01,house,990000,340,published,false,-0.0119760479041916,1000000,annual
+Liverpool,2023-01-01,unit,528000,214,published,false,-0.02583025830258301,530000,annual
+Liverpool,2023-04-01,house,1005000,461,published,false,-0.04103053435114501,1003000,annual
+Liverpool,2023-04-01,unit,530000,275,published,false,0.0037878787878788955,535000,annual
+Liverpool,2023-07-01,house,1000000,489,published,false,0.005025125628140614,1005000,annual
+Liverpool,2023-07-01,unit,565000,273,published,false,0.08653846153846145,573000,annual
+Liverpool,2023-10-01,house,1060000,488,published,false,0.09278350515463907,1070000,annual
+Liverpool,2023-10-01,unit,531000,230,published,false,0.062000000000000055,550000,annual
+Liverpool,2024-01-01,house,1050000,441,published,false,0.06060606060606055,1050000,annual
+Liverpool,2024-01-01,unit,535000,273,published,false,0.01325757575757569,540000,annual
+Liverpool,2024-04-01,house,1084000,574,published,false,0.07860696517412946,1085000,annual
+Liverpool,2024-04-01,unit,547000,312,published,false,0.03207547169811331,550000,annual
+Liverpool,2024-07-01,house,1111000,594,published,false,0.11099999999999999,1120000,annual
+Liverpool,2024-07-01,unit,540000,365,published,false,-0.04424778761061943,540000,annual
+Liverpool,2024-10-01,house,1120000,545,published,false,0.05660377358490565,1121000,annual
+Liverpool,2024-10-01,unit,550000,278,published,false,0.03578154425612046,550000,annual
+Liverpool,2025-01-01,house,1118000,450,published,false,0.0647619047619048,1130000,annual
+Liverpool,2025-01-01,unit,575000,272,published,false,0.07476635514018692,579000,annual
+Liverpool,2025-04-01,house,1190000,541,published,false,0.0977859778597785,1200000,quarterly
+Liverpool,2025-04-01,unit,538000,288,published,false,-0.01645338208409508,540000,quarterly
+Liverpool,2025-07-01,house,1240000,649,published,false,0.11611161116111601,1234000,quarterly
+Liverpool,2025-07-01,unit,550000,310,published,false,0.0185185185185186,544000,quarterly
+Liverpool,2025-10-01,house,1252000,564,published,false,0.11785714285714288,1255000,quarterly
+Liverpool,2025-10-01,unit,579000,309,published,false,0.052727272727272734,579000,quarterly
+Liverpool,2026-01-01,house,1300000,391,published,false,0.16279069767441867,1300000,first_published
+Liverpool,2026-01-01,unit,585000,270,published,false,0.017391304347825987,585000,first_published
+Middle Ring,2019-01-01,house,1083000,1405,published,false,,1110000,annual
+Middle Ring,2019-01-01,unit,660000,1693,published,false,,670000,annual
+Middle Ring,2019-04-01,house,1110000,2157,published,false,,1130000,annual
+Middle Ring,2019-04-01,unit,665000,2860,published,false,,670000,annual
+Middle Ring,2019-07-01,house,1205000,2236,published,false,,1215000,annual
+Middle Ring,2019-07-01,unit,679000,3191,published,false,,686000,annual
+Middle Ring,2019-10-01,house,1300000,2593,published,false,,1305000,annual
+Middle Ring,2019-10-01,unit,700000,3402,published,false,,700000,annual
+Middle Ring,2020-01-01,house,1305000,1889,published,false,0.20498614958448758,1350000,annual
+Middle Ring,2020-01-01,unit,685000,2851,published,false,0.037878787878787845,689000,annual
+Middle Ring,2020-04-01,house,1280000,1758,published,false,0.15315315315315314,1300000,annual
+Middle Ring,2020-04-01,unit,675000,1826,published,false,0.015037593984962516,685000,annual
+Middle Ring,2020-07-01,house,1310000,2474,published,false,0.08713692946058083,1329000,annual
+Middle Ring,2020-07-01,unit,689000,3048,published,false,0.014727540500736325,700000,annual
+Middle Ring,2020-10-01,house,1400000,3161,published,false,0.07692307692307687,1400000,annual
+Middle Ring,2020-10-01,unit,705000,3934,published,false,0.0071428571428571175,711000,annual
+Middle Ring,2021-01-01,house,1445000,2647,published,false,0.10727969348659006,1480000,annual
+Middle Ring,2021-01-01,unit,710000,4103,published,false,0.03649635036496357,718000,annual
+Middle Ring,2021-04-01,house,1560000,3578,published,false,0.21875,1600000,annual
+Middle Ring,2021-04-01,unit,730000,4789,published,false,0.08148148148148149,740000,annual
+Middle Ring,2021-07-01,house,1673000,2844,published,false,0.27709923664122127,1701000,annual
+Middle Ring,2021-07-01,unit,735000,3926,published,false,0.06676342525399126,745000,annual
+Middle Ring,2021-10-01,house,1720000,3640,published,false,0.22857142857142865,1755000,annual
+Middle Ring,2021-10-01,unit,740000,4483,published,false,0.049645390070921946,742000,annual
+Middle Ring,2022-01-01,house,1700000,2375,published,false,0.17647058823529416,1729000,annual
+Middle Ring,2022-01-01,unit,715000,3467,published,false,0.007042253521126751,725000,annual
+Middle Ring,2022-04-01,house,1700000,2725,published,false,0.08974358974358965,1705000,annual
+Middle Ring,2022-04-01,unit,730000,3863,published,false,0.0,733000,annual
+Middle Ring,2022-07-01,house,1642000,2433,published,false,-0.018529587567244432,1660000,annual
+Middle Ring,2022-07-01,unit,695000,3488,published,false,-0.05442176870748294,700000,annual
+Middle Ring,2022-10-01,house,1600000,2322,published,false,-0.06976744186046513,1647000,annual
+Middle Ring,2022-10-01,unit,715000,3214,published,false,-0.03378378378378377,720000,annual
+Middle Ring,2023-01-01,house,1600000,1846,published,false,-0.05882352941176472,1640000,annual
+Middle Ring,2023-01-01,unit,705000,3347,published,false,-0.013986013986013957,710000,annual
+Middle Ring,2023-04-01,house,1723000,2688,published,false,0.01352941176470579,1750000,annual
+Middle Ring,2023-04-01,unit,715000,4293,published,false,-0.020547945205479423,730000,annual
+Middle Ring,2023-07-01,house,1720000,2910,published,false,0.047503045066991545,1750000,annual
+Middle Ring,2023-07-01,unit,740000,4958,published,false,0.06474820143884896,740000,annual
+Middle Ring,2023-10-01,house,1800000,2766,published,false,0.125,1828000,annual
+Middle Ring,2023-10-01,unit,725000,4450,published,false,0.013986013986013957,735000,annual
+Middle Ring,2024-01-01,house,1833000,2360,published,false,0.1456249999999999,1851000,annual
+Middle Ring,2024-01-01,unit,705000,4474,published,false,0.0,715000,annual
+Middle Ring,2024-04-01,house,1900000,2816,published,false,0.10272780034822993,1905000,annual
+Middle Ring,2024-04-01,unit,739000,5221,published,false,0.03356643356643363,745000,annual
+Middle Ring,2024-07-01,house,1860000,2773,published,false,0.08139534883720922,1904000,annual
+Middle Ring,2024-07-01,unit,750000,4971,published,false,0.013513513513513598,750000,annual
+Middle Ring,2024-10-01,house,1888000,2797,published,false,0.04888888888888898,1920000,annual
+Middle Ring,2024-10-01,unit,750000,4493,published,false,0.034482758620689724,755000,annual
+Middle Ring,2025-01-01,house,1900000,2124,published,false,0.03655210038188761,1989000,annual
+Middle Ring,2025-01-01,unit,745000,3858,published,false,0.05673758865248235,755000,annual
+Middle Ring,2025-04-01,house,2000000,2955,published,false,0.05263157894736836,2038000,quarterly
+Middle Ring,2025-04-01,unit,755000,4593,published,false,0.021650879566982306,760000,quarterly
+Middle Ring,2025-07-01,house,1985000,3097,published,false,0.06720430107526876,2000000,quarterly
+Middle Ring,2025-07-01,unit,780000,5269,published,false,0.040000000000000036,785000,quarterly
+Middle Ring,2025-10-01,house,2048000,3016,published,false,0.0847457627118644,2060000,quarterly
+Middle Ring,2025-10-01,unit,780000,4843,published,false,0.040000000000000036,785000,quarterly
+Middle Ring,2026-01-01,house,2038000,2031,published,false,0.07263157894736838,2038000,first_published
+Middle Ring,2026-01-01,unit,782000,3815,published,false,0.04966442953020134,782000,first_published
+Mosman,2019-01-01,house,3603000,,published,true,,3605000,annual
+Mosman,2019-01-01,unit,963000,50,published,false,,980000,annual
+Mosman,2019-04-01,house,3450000,48,published,false,,3523000,annual
+Mosman,2019-04-01,unit,950000,65,published,false,,950000,annual
+Mosman,2019-07-01,house,3240000,36,published,false,,3321000,annual
+Mosman,2019-07-01,unit,940000,82,published,false,,950000,annual
+Mosman,2019-10-01,house,3900000,67,published,false,,3926000,annual
+Mosman,2019-10-01,unit,1158000,90,published,false,,1157000,annual
+Mosman,2020-01-01,house,4050000,44,published,false,0.12406328059950034,4050000,annual
+Mosman,2020-01-01,unit,993000,76,published,false,0.031152647975077885,1000000,annual
+Mosman,2020-04-01,house,3730000,41,published,false,0.08115942028985512,4080000,annual
+Mosman,2020-04-01,unit,950000,65,published,false,0.0,950000,annual
+Mosman,2020-07-01,house,4340000,48,published,false,0.3395061728395061,4380000,annual
+Mosman,2020-07-01,unit,1023000,110,published,false,0.08829787234042552,1025000,annual
+Mosman,2020-10-01,house,4368000,72,published,false,0.1200000000000001,4425000,annual
+Mosman,2020-10-01,unit,1085000,85,published,false,-0.06303972366148536,1078000,annual
+Mosman,2021-01-01,house,4750000,60,published,false,0.1728395061728396,4750000,annual
+Mosman,2021-01-01,unit,1120000,85,published,false,0.12789526686807662,1120000,annual
+Mosman,2021-04-01,house,4890000,77,published,false,0.3109919571045576,4915000,annual
+Mosman,2021-04-01,unit,1255000,104,published,false,0.3210526315789475,1255000,annual
+Mosman,2021-07-01,house,5363000,59,published,false,0.23571428571428577,5710000,annual
+Mosman,2021-07-01,unit,1300000,99,published,false,0.270772238514174,1305000,annual
+Mosman,2021-10-01,house,5300000,55,published,false,0.21336996336996328,6250000,annual
+Mosman,2021-10-01,unit,1600000,125,published,false,0.4746543778801844,1615000,annual
+Mosman,2022-01-01,house,4900000,47,published,false,0.03157894736842115,5050000,annual
+Mosman,2022-01-01,unit,1200000,80,published,false,0.0714285714285714,1250000,annual
+Mosman,2022-04-01,house,4575000,35,published,false,-0.06441717791411039,4575000,annual
+Mosman,2022-04-01,unit,1600000,95,published,false,0.2749003984063745,1600000,annual
+Mosman,2022-07-01,house,4718000,53,published,false,-0.1202685064329666,4950000,annual
+Mosman,2022-07-01,unit,1325000,87,published,false,0.019230769230769162,1373000,annual
+Mosman,2022-10-01,house,4775000,48,published,false,-0.09905660377358494,4976000,annual
+Mosman,2022-10-01,unit,955000,75,published,false,-0.40312499999999996,995000,annual
+Mosman,2023-01-01,house,5350000,38,published,false,0.09183673469387754,5562000,annual
+Mosman,2023-01-01,unit,1180000,69,published,false,-0.01666666666666672,1190000,annual
+Mosman,2023-04-01,house,4300000,39,published,false,-0.060109289617486295,5400000,annual
+Mosman,2023-04-01,unit,1430000,82,published,false,-0.10624999999999996,1435000,annual
+Mosman,2023-07-01,house,5210000,59,published,false,0.10428147520135655,5210000,annual
+Mosman,2023-07-01,unit,1353000,104,published,false,0.021132075471698153,1373000,annual
+Mosman,2023-10-01,house,5488000,42,published,false,0.14931937172774878,5744000,annual
+Mosman,2023-10-01,unit,1260000,126,published,false,0.31937172774869116,1300000,annual
+Mosman,2024-01-01,house,5815000,56,published,false,0.08691588785046722,6060000,annual
+Mosman,2024-01-01,unit,1400000,79,published,false,0.18644067796610164,1425000,annual
+Mosman,2024-04-01,house,6750000,43,published,false,0.569767441860465,6751000,annual
+Mosman,2024-04-01,unit,1400000,112,published,false,-0.020979020979020935,1443000,annual
+Mosman,2024-07-01,house,4550000,40,published,false,-0.12667946257197693,5050000,annual
+Mosman,2024-07-01,unit,1326000,90,published,false,-0.019955654101995512,1541000,annual
+Mosman,2024-10-01,house,5800000,47,published,false,0.05685131195335269,5900000,annual
+Mosman,2024-10-01,unit,1235000,89,published,false,-0.019841269841269882,1401000,annual
+Mosman,2025-01-01,house,6375000,36,published,false,0.09630266552020639,6485000,annual
+Mosman,2025-01-01,unit,1350000,80,published,false,-0.0357142857142857,1493000,annual
+Mosman,2025-04-01,house,5388000,48,published,false,-0.20177777777777772,5905000,quarterly
+Mosman,2025-04-01,unit,1240000,86,published,false,-0.11428571428571432,1350000,quarterly
+Mosman,2025-07-01,house,5107000,48,published,false,0.12241758241758238,5088000,quarterly
+Mosman,2025-07-01,unit,1280000,82,published,false,-0.03469079939668174,1275000,quarterly
+Mosman,2025-10-01,house,5820000,43,published,false,0.0034482758620688614,6275000,quarterly
+Mosman,2025-10-01,unit,1333000,112,published,false,0.07935222672064768,1376000,quarterly
+Mosman,2026-01-01,house,5730000,36,published,false,-0.10117647058823531,5730000,first_published
+Mosman,2026-01-01,unit,1250000,94,published,false,-0.07407407407407407,1250000,first_published
+North Sydney,2019-01-01,house,2278000,44,published,false,,2380000,annual
+North Sydney,2019-01-01,unit,1043000,188,published,false,,1059000,annual
+North Sydney,2019-04-01,house,2650000,49,published,false,,2702000,annual
+North Sydney,2019-04-01,unit,978000,266,published,false,,986000,annual
+North Sydney,2019-07-01,house,2505000,54,published,false,,2491000,annual
+North Sydney,2019-07-01,unit,980000,325,published,false,,1010000,annual
+North Sydney,2019-10-01,house,2536000,76,published,false,,2565000,annual
+North Sydney,2019-10-01,unit,1030000,321,published,false,,1030000,annual
+North Sydney,2020-01-01,house,2673000,44,published,false,0.1733977172958736,2700000,annual
+North Sydney,2020-01-01,unit,1170000,297,published,false,0.12176414189837015,1170000,annual
+North Sydney,2020-04-01,house,2350000,49,published,false,-0.1132075471698113,2550000,annual
+North Sydney,2020-04-01,unit,1100000,234,published,false,0.12474437627811863,1110000,annual
+North Sydney,2020-07-01,house,2838000,51,published,false,0.1329341317365269,2901000,annual
+North Sydney,2020-07-01,unit,1075000,294,published,false,0.09693877551020402,1080000,annual
+North Sydney,2020-10-01,house,2950000,69,published,false,0.16324921135646697,3000000,annual
+North Sydney,2020-10-01,unit,1160000,395,published,false,0.12621359223300965,1180000,annual
+North Sydney,2021-01-01,house,3300000,71,published,false,0.23456790123456783,3370000,annual
+North Sydney,2021-01-01,unit,1180000,323,published,false,0.008547008547008517,1185000,annual
+North Sydney,2021-04-01,house,3483000,98,published,false,0.4821276595744681,3482000,annual
+North Sydney,2021-04-01,unit,1200000,447,published,false,0.09090909090909083,1206000,annual
+North Sydney,2021-07-01,house,3185000,70,published,false,0.12226920366455252,3171000,annual
+North Sydney,2021-07-01,unit,1315000,417,published,false,0.22325581395348837,1335000,annual
+North Sydney,2021-10-01,house,3600000,77,published,false,0.22033898305084754,3600000,annual
+North Sydney,2021-10-01,unit,1368000,442,published,false,0.17931034482758612,1400000,annual
+North Sydney,2022-01-01,house,3600000,51,published,false,0.09090909090909083,3647000,annual
+North Sydney,2022-01-01,unit,1274000,301,published,false,0.07966101694915251,1295000,annual
+North Sydney,2022-04-01,house,3225000,51,published,false,-0.07407407407407407,3245000,annual
+North Sydney,2022-04-01,unit,1240000,373,published,false,0.03333333333333344,1240000,annual
+North Sydney,2022-07-01,house,3363000,48,published,false,0.055886970172684514,3375000,annual
+North Sydney,2022-07-01,unit,1225000,313,published,false,-0.0684410646387833,1282000,annual
+North Sydney,2022-10-01,house,2985000,36,published,false,-0.17083333333333328,3093000,annual
+North Sydney,2022-10-01,unit,1130000,291,published,false,-0.17397660818713445,1240000,annual
+North Sydney,2023-01-01,house,3100000,36,published,false,-0.13888888888888884,3100000,annual
+North Sydney,2023-01-01,unit,1155000,278,published,false,-0.09340659340659341,1170000,annual
+North Sydney,2023-04-01,house,3375000,52,published,false,0.04651162790697683,3375000,annual
+North Sydney,2023-04-01,unit,1200000,379,published,false,-0.032258064516129004,1250000,annual
+North Sydney,2023-07-01,house,3075000,68,published,false,-0.08563782337198933,3075000,annual
+North Sydney,2023-07-01,unit,1325000,386,published,false,0.08163265306122458,1350000,annual
+North Sydney,2023-10-01,house,3460000,67,published,false,0.1591289782244556,3675000,annual
+North Sydney,2023-10-01,unit,1250000,360,published,false,0.10619469026548667,1260000,annual
+North Sydney,2024-01-01,house,3250000,55,published,false,0.048387096774193505,3316000,annual
+North Sydney,2024-01-01,unit,1325000,313,published,false,0.1471861471861471,1373000,annual
+North Sydney,2024-04-01,house,3200000,59,published,false,-0.051851851851851816,3250000,annual
+North Sydney,2024-04-01,unit,1353000,444,published,false,0.12749999999999995,1391000,annual
+North Sydney,2024-07-01,house,3930000,55,published,false,0.2780487804878049,4200000,annual
+North Sydney,2024-07-01,unit,1300000,452,published,false,-0.018867924528301883,1348000,annual
+North Sydney,2024-10-01,house,3300000,55,published,false,-0.046242774566473965,3350000,annual
+North Sydney,2024-10-01,unit,1325000,352,published,false,0.06000000000000005,1340000,annual
+North Sydney,2025-01-01,house,3843000,58,published,false,0.18246153846153845,3825000,annual
+North Sydney,2025-01-01,unit,1338000,362,published,false,0.009811320754717023,1415000,annual
+North Sydney,2025-04-01,house,3788000,70,published,false,0.18375000000000008,3892000,quarterly
+North Sydney,2025-04-01,unit,1271000,372,published,false,-0.06060606060606055,1273000,quarterly
+North Sydney,2025-07-01,house,3530000,55,published,false,-0.10178117048346058,3520000,quarterly
+North Sydney,2025-07-01,unit,1300000,421,published,false,0.0,1300000,quarterly
+North Sydney,2025-10-01,house,3650000,63,published,false,0.10606060606060597,3710000,quarterly
+North Sydney,2025-10-01,unit,1310000,429,published,false,-0.01132075471698113,1310000,quarterly
+North Sydney,2026-01-01,house,3875000,61,published,false,0.00832682799895923,3875000,first_published
+North Sydney,2026-01-01,unit,1300000,331,published,false,-0.02840059790732441,1300000,first_published
+Northern Beaches,2019-01-01,house,1600000,373,published,false,,1650000,annual
+Northern Beaches,2019-01-01,unit,800000,358,published,false,,805000,annual
+Northern Beaches,2019-04-01,house,1673000,478,published,false,,1690000,annual
+Northern Beaches,2019-04-01,unit,815000,455,published,false,,820000,annual
+Northern Beaches,2019-07-01,house,1720000,488,published,false,,1742000,annual
+Northern Beaches,2019-07-01,unit,905000,446,published,false,,903000,annual
+Northern Beaches,2019-10-01,house,1880000,601,published,false,,1900000,annual
+Northern Beaches,2019-10-01,unit,985000,552,published,false,,985000,annual
+Northern Beaches,2020-01-01,house,1925000,465,published,false,0.203125,1930000,annual
+Northern Beaches,2020-01-01,unit,958000,439,published,false,0.1975,968000,annual
+Northern Beaches,2020-04-01,house,1850000,461,published,false,0.10579796772265393,1900000,annual
+Northern Beaches,2020-04-01,unit,915000,367,published,false,0.12269938650306744,920000,annual
+Northern Beaches,2020-07-01,house,1915000,635,published,false,0.1133720930232558,1931000,annual
+Northern Beaches,2020-07-01,unit,950000,530,published,false,0.04972375690607733,958000,annual
+Northern Beaches,2020-10-01,house,2084000,732,published,false,0.10851063829787244,2100000,annual
+Northern Beaches,2020-10-01,unit,970000,618,published,false,-0.015228426395939132,973000,annual
+Northern Beaches,2021-01-01,house,2350000,546,published,false,0.22077922077922074,2420000,annual
+Northern Beaches,2021-01-01,unit,1060000,541,published,false,0.10647181628392488,1065000,annual
+Northern Beaches,2021-04-01,house,2610000,725,published,false,0.41081081081081083,2650000,annual
+Northern Beaches,2021-04-01,unit,1188000,630,published,false,0.298360655737705,1200000,annual
+Northern Beaches,2021-07-01,house,2786000,635,published,false,0.4548302872062664,2825000,annual
+Northern Beaches,2021-07-01,unit,1285000,659,published,false,0.3526315789473684,1298000,annual
+Northern Beaches,2021-10-01,house,2810000,700,published,false,0.34836852207293667,2850000,annual
+Northern Beaches,2021-10-01,unit,1274000,650,published,false,0.3134020618556701,1280000,annual
+Northern Beaches,2022-01-01,house,2851000,452,published,false,0.21319148936170218,2850000,annual
+Northern Beaches,2022-01-01,unit,1200000,429,published,false,0.13207547169811318,1213000,annual
+Northern Beaches,2022-04-01,house,2620000,485,published,false,0.003831417624521105,2627000,annual
+Northern Beaches,2022-04-01,unit,1150000,448,published,false,-0.03198653198653201,1150000,annual
+Northern Beaches,2022-07-01,house,2300000,442,published,false,-0.17444364680545588,2300000,annual
+Northern Beaches,2022-07-01,unit,1105000,433,published,false,-0.1400778210116731,1105000,annual
+Northern Beaches,2022-10-01,house,2300000,461,published,false,-0.18149466192170816,2335000,annual
+Northern Beaches,2022-10-01,unit,1050000,412,published,false,-0.17582417582417587,1050000,annual
+Northern Beaches,2023-01-01,house,2420000,381,published,false,-0.1511750263065591,2500000,annual
+Northern Beaches,2023-01-01,unit,1105000,360,published,false,-0.07916666666666672,1120000,annual
+Northern Beaches,2023-04-01,house,2525000,451,published,false,-0.0362595419847328,2575000,annual
+Northern Beaches,2023-04-01,unit,1150000,484,published,false,0.0,1151000,annual
+Northern Beaches,2023-07-01,house,2530000,528,published,false,0.10000000000000009,2570000,annual
+Northern Beaches,2023-07-01,unit,1125000,499,published,false,0.018099547511312153,1150000,annual
+Northern Beaches,2023-10-01,house,2610000,502,published,false,0.13478260869565228,2661000,annual
+Northern Beaches,2023-10-01,unit,1118000,514,published,false,0.0647619047619048,1121000,annual
+Northern Beaches,2024-01-01,house,2650000,421,published,false,0.0950413223140496,2700000,annual
+Northern Beaches,2024-01-01,unit,1200000,478,published,false,0.08597285067873295,1210000,annual
+Northern Beaches,2024-04-01,house,2570000,491,published,false,0.017821782178217838,2625000,annual
+Northern Beaches,2024-04-01,unit,1196000,504,published,false,0.040000000000000036,1220000,annual
+Northern Beaches,2024-07-01,house,2650000,491,published,false,0.04743083003952564,2700000,annual
+Northern Beaches,2024-07-01,unit,1200000,523,published,false,0.06666666666666665,1206000,annual
+Northern Beaches,2024-10-01,house,2663000,530,published,false,0.02030651340996159,2776000,annual
+Northern Beaches,2024-10-01,unit,1215000,557,published,false,0.08676207513416823,1232000,annual
+Northern Beaches,2025-01-01,house,2623000,439,published,false,-0.010188679245282994,2725000,annual
+Northern Beaches,2025-01-01,unit,1175000,490,published,false,-0.02083333333333337,1200000,annual
+Northern Beaches,2025-04-01,house,2730000,495,published,false,0.0622568093385214,2775000,quarterly
+Northern Beaches,2025-04-01,unit,1256000,557,published,false,0.050167224080267525,1275000,quarterly
+Northern Beaches,2025-07-01,house,2765000,543,published,false,0.04339622641509444,2800000,quarterly
+Northern Beaches,2025-07-01,unit,1320000,530,published,false,0.10000000000000009,1340000,quarterly
+Northern Beaches,2025-10-01,house,2800000,579,published,false,0.051445737889598275,2900000,quarterly
+Northern Beaches,2025-10-01,unit,1295000,613,published,false,0.06584362139917688,1300000,quarterly
+Northern Beaches,2026-01-01,house,2850000,429,published,false,0.08654212733511257,2850000,first_published
+Northern Beaches,2026-01-01,unit,1309000,440,published,false,0.11404255319148926,1309000,first_published
+Outer Ring,2019-01-01,house,735000,4256,published,false,,745000,annual
+Outer Ring,2019-01-01,unit,600000,1491,published,false,,600000,annual
+Outer Ring,2019-04-01,house,750000,5520,published,false,,750000,annual
+Outer Ring,2019-04-01,unit,600000,2000,published,false,,600000,annual
+Outer Ring,2019-07-01,house,765000,6136,published,false,,769000,annual
+Outer Ring,2019-07-01,unit,610000,2538,published,false,,613000,annual
+Outer Ring,2019-10-01,house,808000,6419,published,false,,812000,annual
+Outer Ring,2019-10-01,unit,630000,2482,published,false,,630000,annual
+Outer Ring,2020-01-01,house,795000,5352,published,false,0.08163265306122458,800000,annual
+Outer Ring,2020-01-01,unit,640000,2286,published,false,0.06666666666666665,640000,annual
+Outer Ring,2020-04-01,house,800000,5132,published,false,0.06666666666666665,805000,annual
+Outer Ring,2020-04-01,unit,636000,1594,published,false,0.06000000000000005,639000,annual
+Outer Ring,2020-07-01,house,815000,7541,published,false,0.065359477124183,813000,annual
+Outer Ring,2020-07-01,unit,635000,2610,published,false,0.040983606557376984,635000,annual
+Outer Ring,2020-10-01,house,850000,8773,published,false,0.051980198019802026,850000,annual
+Outer Ring,2020-10-01,unit,645000,3225,published,false,0.023809523809523725,640000,annual
+Outer Ring,2021-01-01,house,890000,7746,published,false,0.11949685534591192,890000,annual
+Outer Ring,2021-01-01,unit,655000,3397,published,false,0.0234375,655000,annual
+Outer Ring,2021-04-01,house,970000,8967,published,false,0.2124999999999999,970000,annual
+Outer Ring,2021-04-01,unit,665000,3853,published,false,0.045597484276729494,663000,annual
+Outer Ring,2021-07-01,house,1047000,8097,published,false,0.2846625766871165,1051000,annual
+Outer Ring,2021-07-01,unit,710000,3415,published,false,0.11811023622047245,700000,annual
+Outer Ring,2021-10-01,house,1125000,9051,published,false,0.32352941176470584,1140000,annual
+Outer Ring,2021-10-01,unit,715000,3692,published,false,0.10852713178294571,700000,annual
+Outer Ring,2022-01-01,house,1124000,6593,published,false,0.2629213483146067,1140000,annual
+Outer Ring,2022-01-01,unit,700000,2821,published,false,0.06870229007633588,685000,annual
+Outer Ring,2022-04-01,house,1150000,6517,published,false,0.18556701030927836,1150000,annual
+Outer Ring,2022-04-01,unit,691000,2880,published,false,0.03909774436090219,695000,annual
+Outer Ring,2022-07-01,house,1067000,6194,published,false,0.019102196752626588,1080000,annual
+Outer Ring,2022-07-01,unit,675000,2695,published,false,-0.04929577464788737,680000,annual
+Outer Ring,2022-10-01,house,1080000,5780,published,false,-0.040000000000000036,1100000,annual
+Outer Ring,2022-10-01,unit,680000,2422,published,false,-0.04895104895104896,684000,annual
+Outer Ring,2023-01-01,house,1040000,5388,published,false,-0.07473309608540923,1055000,annual
+Outer Ring,2023-01-01,unit,675000,2389,published,false,-0.0357142857142857,675000,annual
+Outer Ring,2023-04-01,house,1115000,6517,published,false,-0.0304347826086957,1130000,annual
+Outer Ring,2023-04-01,unit,695000,3027,published,false,0.005788712011577379,700000,annual
+Outer Ring,2023-07-01,house,1100000,7095,published,false,0.030927835051546282,1115000,annual
+Outer Ring,2023-07-01,unit,715000,3306,published,false,0.059259259259259345,720000,annual
+Outer Ring,2023-10-01,house,1150000,6758,published,false,0.06481481481481488,1160000,annual
+Outer Ring,2023-10-01,unit,720000,3087,published,false,0.05882352941176472,735000,annual
+Outer Ring,2024-01-01,house,1150000,6298,published,false,0.10576923076923084,1158000,annual
+Outer Ring,2024-01-01,unit,720000,3242,published,false,0.06666666666666665,725000,annual
+Outer Ring,2024-04-01,house,1181000,7141,published,false,0.05919282511210766,1200000,annual
+Outer Ring,2024-04-01,unit,724000,3653,published,false,0.04172661870503602,735000,annual
+Outer Ring,2024-07-01,house,1170000,7338,published,false,0.06363636363636371,1180000,annual
+Outer Ring,2024-07-01,unit,730000,3839,published,false,0.020979020979021046,736000,annual
+Outer Ring,2024-10-01,house,1200000,7152,published,false,0.04347826086956519,1216000,annual
+Outer Ring,2024-10-01,unit,760000,3263,published,false,0.05555555555555558,770000,annual
+Outer Ring,2025-01-01,house,1200000,6326,published,false,0.04347826086956519,1245000,annual
+Outer Ring,2025-01-01,unit,755000,3080,published,false,0.04861111111111116,765000,annual
+Outer Ring,2025-04-01,house,1240000,7185,published,false,0.04995766299745985,1250000,quarterly
+Outer Ring,2025-04-01,unit,790000,3516,published,false,0.09116022099447507,790000,quarterly
+Outer Ring,2025-07-01,house,1270000,8152,published,false,0.08547008547008539,1270000,quarterly
+Outer Ring,2025-07-01,unit,780000,3658,published,false,0.06849315068493156,780000,quarterly
+Outer Ring,2025-10-01,house,1310000,7878,published,false,0.09166666666666656,1320000,quarterly
+Outer Ring,2025-10-01,unit,810000,3576,published,false,0.06578947368421062,810000,quarterly
+Outer Ring,2026-01-01,house,1301000,6042,published,false,0.08416666666666672,1301000,first_published
+Outer Ring,2026-01-01,unit,800000,3179,published,false,0.0596026490066226,800000,first_published
+Parramatta,2019-01-01,house,1010000,191,published,false,,1043000,annual
+Parramatta,2019-01-01,unit,647000,279,published,false,,650000,annual
+Parramatta,2019-04-01,house,1006000,292,published,false,,1025000,annual
+Parramatta,2019-04-01,unit,668000,516,published,false,,680000,annual
+Parramatta,2019-07-01,house,1130000,306,published,false,,1130000,annual
+Parramatta,2019-07-01,unit,650000,589,published,false,,657000,annual
+Parramatta,2019-10-01,house,1251000,342,published,false,,1269000,annual
+Parramatta,2019-10-01,unit,671000,599,published,false,,680000,annual
+Parramatta,2020-01-01,house,1250000,260,published,false,0.2376237623762376,1250000,annual
+Parramatta,2020-01-01,unit,650000,504,published,false,0.004636785162287493,658000,annual
+Parramatta,2020-04-01,house,1205000,231,published,false,0.19781312127236572,1225000,annual
+Parramatta,2020-04-01,unit,630000,325,published,false,-0.05688622754491013,647000,annual
+Parramatta,2020-07-01,house,1250000,340,published,false,0.10619469026548667,1252000,annual
+Parramatta,2020-07-01,unit,650000,590,published,false,0.0,663000,annual
+Parramatta,2020-10-01,house,1290000,444,published,false,0.031175059952038398,1290000,annual
+Parramatta,2020-10-01,unit,675000,769,published,false,0.005961251862891315,680000,annual
+Parramatta,2021-01-01,house,1360000,375,published,false,0.08800000000000008,1390000,annual
+Parramatta,2021-01-01,unit,690000,810,published,false,0.06153846153846154,704000,annual
+Parramatta,2021-04-01,house,1499000,464,published,false,0.24398340248962658,1511000,annual
+Parramatta,2021-04-01,unit,710000,976,published,false,0.12698412698412698,730000,annual
+Parramatta,2021-07-01,house,1566000,394,published,false,0.2527999999999999,1586000,annual
+Parramatta,2021-07-01,unit,705000,866,published,false,0.08461538461538454,710000,annual
+Parramatta,2021-10-01,house,1685000,471,published,false,0.306201550387597,1701000,annual
+Parramatta,2021-10-01,unit,720000,1015,published,false,0.06666666666666665,730000,annual
+Parramatta,2022-01-01,house,1730000,317,published,false,0.2720588235294117,1740000,annual
+Parramatta,2022-01-01,unit,686000,753,published,false,-0.005797101449275366,691000,annual
+Parramatta,2022-04-01,house,1611000,353,published,false,0.07471647765176792,1610000,annual
+Parramatta,2022-04-01,unit,680000,845,published,false,-0.04225352112676062,686000,annual
+Parramatta,2022-07-01,house,1528000,324,published,false,-0.024265644955300147,1535000,annual
+Parramatta,2022-07-01,unit,650000,765,published,false,-0.07801418439716312,656000,annual
+Parramatta,2022-10-01,house,1549000,314,published,false,-0.08071216617210686,1578000,annual
+Parramatta,2022-10-01,unit,685000,711,published,false,-0.04861111111111116,695000,annual
+Parramatta,2023-01-01,house,1556000,241,published,false,-0.10057803468208093,1611000,annual
+Parramatta,2023-01-01,unit,663000,739,published,false,-0.03352769679300294,667000,annual
+Parramatta,2023-04-01,house,1709000,342,published,false,0.06083178150217261,1728000,annual
+Parramatta,2023-04-01,unit,687000,982,published,false,0.010294117647058787,700000,annual
+Parramatta,2023-07-01,house,1735000,364,published,false,0.13547120418848158,1751000,annual
+Parramatta,2023-07-01,unit,700000,1083,published,false,0.07692307692307687,705000,annual
+Parramatta,2023-10-01,house,1820000,381,published,false,0.17495158166559066,1830000,annual
+Parramatta,2023-10-01,unit,690000,887,published,false,0.007299270072992803,715000,annual
+Parramatta,2024-01-01,house,1801000,345,published,false,0.1574550128534704,1810000,annual
+Parramatta,2024-01-01,unit,670000,996,published,false,0.010558069381598756,685000,annual
+Parramatta,2024-04-01,house,1855000,348,published,false,0.08543007606787589,1870000,annual
+Parramatta,2024-04-01,unit,680000,1103,published,false,-0.010189228529839833,685000,annual
+Parramatta,2024-07-01,house,1869000,341,published,false,0.0772334293948127,1878000,annual
+Parramatta,2024-07-01,unit,700000,1061,published,false,0.0,700000,annual
+Parramatta,2024-10-01,house,1825000,360,published,false,0.0027472527472527375,1831000,annual
+Parramatta,2024-10-01,unit,690000,908,published,false,0.0,692000,annual
+Parramatta,2025-01-01,house,1788000,282,published,false,-0.0072182121043864456,1825000,annual
+Parramatta,2025-01-01,unit,685000,828,published,false,0.02238805970149249,695000,annual
+Parramatta,2025-04-01,house,1905000,396,published,false,0.02695417789757415,1913000,quarterly
+Parramatta,2025-04-01,unit,685000,925,published,false,0.007352941176470562,690000,quarterly
+Parramatta,2025-07-01,house,1934000,438,published,false,0.03477795612627066,1931000,quarterly
+Parramatta,2025-07-01,unit,690000,1189,published,false,-0.014285714285714235,688000,quarterly
+Parramatta,2025-10-01,house,1908000,396,published,false,0.045479452054794534,1925000,quarterly
+Parramatta,2025-10-01,unit,705000,1062,published,false,0.021739130434782705,708000,quarterly
+Parramatta,2026-01-01,house,1860000,266,published,false,0.04026845637583887,1860000,first_published
+Parramatta,2026-01-01,unit,710000,835,published,false,0.03649635036496357,710000,first_published
+Penrith,2019-01-01,house,643000,364,published,false,,645000,annual
+Penrith,2019-01-01,unit,460000,114,published,false,,461000,annual
+Penrith,2019-04-01,house,645000,460,published,false,,648000,annual
+Penrith,2019-04-01,unit,450000,166,published,false,,450000,annual
+Penrith,2019-07-01,house,650000,468,published,false,,651000,annual
+Penrith,2019-07-01,unit,475000,243,published,false,,475000,annual
+Penrith,2019-10-01,house,682000,476,published,false,,685000,annual
+Penrith,2019-10-01,unit,490000,217,published,false,,495000,annual
+Penrith,2020-01-01,house,705000,422,published,false,0.0964230171073095,710000,annual
+Penrith,2020-01-01,unit,490000,237,published,false,0.0652173913043479,499000,annual
+Penrith,2020-04-01,house,685000,408,published,false,0.0620155038759691,686000,annual
+Penrith,2020-04-01,unit,473000,120,published,false,0.05111111111111111,485000,annual
+Penrith,2020-07-01,house,705000,579,published,false,0.08461538461538454,705000,annual
+Penrith,2020-07-01,unit,500000,243,published,false,0.05263157894736836,502000,annual
+Penrith,2020-10-01,house,726000,604,published,false,0.06451612903225801,726000,annual
+Penrith,2020-10-01,unit,518000,298,published,false,0.05714285714285716,520000,annual
+Penrith,2021-01-01,house,780000,576,published,false,0.1063829787234043,785000,annual
+Penrith,2021-01-01,unit,522000,369,published,false,0.06530612244897949,527000,annual
+Penrith,2021-04-01,house,808000,723,published,false,0.17956204379562046,811000,annual
+Penrith,2021-04-01,unit,521000,346,published,false,0.10147991543340384,531000,annual
+Penrith,2021-07-01,house,842000,648,published,false,0.19432624113475172,846000,annual
+Penrith,2021-07-01,unit,540000,310,published,false,0.08000000000000007,540000,annual
+Penrith,2021-10-01,house,920000,686,published,false,0.2672176308539944,925000,annual
+Penrith,2021-10-01,unit,561000,342,published,false,0.08301158301158296,565000,annual
+Penrith,2022-01-01,house,920000,536,published,false,0.17948717948717952,922000,annual
+Penrith,2022-01-01,unit,600000,273,published,false,0.14942528735632177,600000,annual
+Penrith,2022-04-01,house,915000,522,published,false,0.13242574257425743,915000,annual
+Penrith,2022-04-01,unit,572000,251,published,false,0.09788867562380044,574000,annual
+Penrith,2022-07-01,house,868000,517,published,false,0.030878859857482288,870000,annual
+Penrith,2022-07-01,unit,580000,251,published,false,0.07407407407407418,580000,annual
+Penrith,2022-10-01,house,870000,426,published,false,-0.05434782608695654,880000,annual
+Penrith,2022-10-01,unit,595000,207,published,false,0.06060606060606055,595000,annual
+Penrith,2023-01-01,house,867000,436,published,false,-0.05760869565217386,870000,annual
+Penrith,2023-01-01,unit,575000,230,published,false,-0.04166666666666663,592000,annual
+Penrith,2023-04-01,house,895000,464,published,false,-0.021857923497267784,900000,annual
+Penrith,2023-04-01,unit,575000,236,published,false,0.005244755244755206,600000,annual
+Penrith,2023-07-01,house,910000,559,published,false,0.048387096774193505,910000,annual
+Penrith,2023-07-01,unit,565000,271,published,false,-0.025862068965517238,580000,annual
+Penrith,2023-10-01,house,920000,517,published,false,0.05747126436781613,935000,annual
+Penrith,2023-10-01,unit,600000,287,published,false,0.008403361344537785,610000,annual
+Penrith,2024-01-01,house,963000,487,published,false,0.11072664359861584,960000,annual
+Penrith,2024-01-01,unit,605000,323,published,false,0.05217391304347818,618000,annual
+Penrith,2024-04-01,house,970000,575,published,false,0.08379888268156432,970000,annual
+Penrith,2024-04-01,unit,635000,344,published,false,0.10434782608695659,636000,annual
+Penrith,2024-07-01,house,1005000,587,published,false,0.10439560439560447,1010000,annual
+Penrith,2024-07-01,unit,640000,356,published,false,0.1327433628318584,646000,annual
+Penrith,2024-10-01,house,1000000,538,published,false,0.08695652173913038,1000000,annual
+Penrith,2024-10-01,unit,655000,305,published,false,0.09166666666666656,655000,annual
+Penrith,2025-01-01,house,1050000,506,published,false,0.09034267912772576,1050000,annual
+Penrith,2025-01-01,unit,675000,324,published,false,0.11570247933884303,673000,annual
+Penrith,2025-04-01,house,1050000,530,published,false,0.08247422680412364,1050000,quarterly
+Penrith,2025-04-01,unit,660000,298,published,false,0.03937007874015741,660000,quarterly
+Penrith,2025-07-01,house,1130000,636,published,false,0.12437810945273631,1130000,quarterly
+Penrith,2025-07-01,unit,666000,355,published,false,0.04062499999999991,675000,quarterly
+Penrith,2025-10-01,house,1200000,543,published,false,0.19999999999999996,1200000,quarterly
+Penrith,2025-10-01,unit,690000,292,published,false,0.05343511450381677,690000,quarterly
+Penrith,2026-01-01,house,1221000,429,published,false,0.1628571428571428,1221000,first_published
+Penrith,2026-01-01,unit,747000,324,published,false,0.10666666666666669,747000,first_published
+Randwick,2019-01-01,house,1960000,89,published,false,,2030000,annual
+Randwick,2019-01-01,unit,860000,173,published,false,,865000,annual
+Randwick,2019-04-01,house,1925000,137,published,false,,1930000,annual
+Randwick,2019-04-01,unit,875000,214,published,false,,880000,annual
+Randwick,2019-07-01,house,1950000,136,published,false,,1945000,annual
+Randwick,2019-07-01,unit,941000,245,published,false,,955000,annual
+Randwick,2019-10-01,house,2300000,160,published,false,,2287000,annual
+Randwick,2019-10-01,unit,1009000,289,published,false,,1012000,annual
+Randwick,2020-01-01,house,2331000,126,published,false,0.18928571428571428,2348000,annual
+Randwick,2020-01-01,unit,1000000,227,published,false,0.16279069767441867,1100000,annual
+Randwick,2020-04-01,house,2170000,135,published,false,0.1272727272727272,2180000,annual
+Randwick,2020-04-01,unit,975000,203,published,false,0.11428571428571432,979000,annual
+Randwick,2020-07-01,house,2213000,176,published,false,0.1348717948717948,2250000,annual
+Randwick,2020-07-01,unit,995000,298,published,false,0.057385759829968075,995000,annual
+Randwick,2020-10-01,house,2300000,211,published,false,0.0,2300000,annual
+Randwick,2020-10-01,unit,950000,361,published,false,-0.05847373637264619,961000,annual
+Randwick,2021-01-01,house,2700000,193,published,false,0.1583011583011582,2750000,annual
+Randwick,2021-01-01,unit,989000,354,published,false,-0.01100000000000001,1000000,annual
+Randwick,2021-04-01,house,2925000,227,published,false,0.3479262672811061,3000000,annual
+Randwick,2021-04-01,unit,1125000,409,published,false,0.15384615384615374,1139000,annual
+Randwick,2021-07-01,house,3110000,203,published,false,0.40533212833258014,3212000,annual
+Randwick,2021-07-01,unit,1160000,387,published,false,0.16582914572864316,1172000,annual
+Randwick,2021-10-01,house,3181000,208,published,false,0.3830434782608696,3200000,annual
+Randwick,2021-10-01,unit,1162000,421,published,false,0.223157894736842,1175000,annual
+Randwick,2022-01-01,house,2938000,152,published,false,0.08814814814814809,3015000,annual
+Randwick,2022-01-01,unit,1173000,324,published,false,0.18604651162790709,1190000,annual
+Randwick,2022-04-01,house,3025000,157,published,false,0.03418803418803429,3066000,annual
+Randwick,2022-04-01,unit,1098000,282,published,false,-0.02400000000000002,1098000,annual
+Randwick,2022-07-01,house,2800000,139,published,false,-0.09967845659163987,2800000,annual
+Randwick,2022-07-01,unit,1060000,271,published,false,-0.08620689655172409,1060000,annual
+Randwick,2022-10-01,house,2800000,159,published,false,-0.11977365608299273,2800000,annual
+Randwick,2022-10-01,unit,1000000,258,published,false,-0.13941480206540446,1020000,annual
+Randwick,2023-01-01,house,2900000,120,published,false,-0.01293396868618113,3100000,annual
+Randwick,2023-01-01,unit,960000,267,published,false,-0.18158567774936063,972000,annual
+Randwick,2023-04-01,house,2870000,160,published,false,-0.05123966942148761,2961000,annual
+Randwick,2023-04-01,unit,1050000,316,published,false,-0.04371584699453557,1060000,annual
+Randwick,2023-07-01,house,2873000,148,published,false,0.026071428571428523,2901000,annual
+Randwick,2023-07-01,unit,1099000,377,published,false,0.036792452830188616,1099000,annual
+Randwick,2023-10-01,house,3023000,180,published,false,0.07964285714285713,3065000,annual
+Randwick,2023-10-01,unit,1150000,304,published,false,0.1499999999999999,1160000,annual
+Randwick,2024-01-01,house,3030000,161,published,false,0.04482758620689653,3225000,annual
+Randwick,2024-01-01,unit,1207000,337,published,false,0.2572916666666667,1220000,annual
+Randwick,2024-04-01,house,3208000,186,published,false,0.11777003484320558,3300000,annual
+Randwick,2024-04-01,unit,1150000,351,published,false,0.09523809523809534,1150000,annual
+Randwick,2024-07-01,house,3123000,178,published,false,0.0870170553428471,3200000,annual
+Randwick,2024-07-01,unit,1203000,390,published,false,0.09463148316651493,1205000,annual
+Randwick,2024-10-01,house,3052000,154,published,false,0.009593119417796947,3125000,annual
+Randwick,2024-10-01,unit,1170000,339,published,false,0.017391304347825987,1203000,annual
+Randwick,2025-01-01,house,3200000,153,published,false,0.05610561056105601,3378000,annual
+Randwick,2025-01-01,unit,1180000,314,published,false,-0.02236951118475561,1200000,annual
+Randwick,2025-04-01,house,3050000,191,published,false,-0.04925187032418954,3200000,quarterly
+Randwick,2025-04-01,unit,1200000,326,published,false,0.04347826086956519,1200000,quarterly
+Randwick,2025-07-01,house,3205000,198,published,false,0.026256804354787056,3291000,quarterly
+Randwick,2025-07-01,unit,1350000,383,published,false,0.12219451371571077,1340000,quarterly
+Randwick,2025-10-01,house,3100000,197,published,false,0.01572739187418093,3185000,quarterly
+Randwick,2025-10-01,unit,1290000,396,published,false,0.10256410256410264,1300000,quarterly
+Randwick,2026-01-01,house,3200000,147,published,false,0.0,3200000,first_published
+Randwick,2026-01-01,unit,1590000,466,published,false,0.34745762711864403,1590000,first_published
+Ryde,2019-01-01,house,1335000,117,published,false,,1380000,annual
+Ryde,2019-01-01,unit,685000,195,published,false,,700000,annual
+Ryde,2019-04-01,house,1400000,147,published,false,,1430000,annual
+Ryde,2019-04-01,unit,670000,355,published,false,,678000,annual
+Ryde,2019-07-01,house,1520000,149,published,false,,1535000,annual
+Ryde,2019-07-01,unit,780000,420,published,false,,791000,annual
+Ryde,2019-10-01,house,1690000,169,published,false,,1692000,annual
+Ryde,2019-10-01,unit,810000,454,published,false,,815000,annual
+Ryde,2020-01-01,house,1718000,117,published,false,0.28689138576779016,1751000,annual
+Ryde,2020-01-01,unit,745000,338,published,false,0.0875912408759123,757000,annual
+Ryde,2020-04-01,house,1670000,109,published,false,0.19285714285714284,1705000,annual
+Ryde,2020-04-01,unit,730000,212,published,false,0.08955223880597019,770000,annual
+Ryde,2020-07-01,house,1681000,164,published,false,0.10592105263157903,1687000,annual
+Ryde,2020-07-01,unit,773000,344,published,false,-0.008974358974358942,781000,annual
+Ryde,2020-10-01,house,1750000,232,published,false,0.035502958579881616,1760000,annual
+Ryde,2020-10-01,unit,760000,396,published,false,-0.06172839506172845,771000,annual
+Ryde,2021-01-01,house,1973000,158,published,false,0.1484284051222351,1983000,annual
+Ryde,2021-01-01,unit,800000,453,published,false,0.0738255033557047,823000,annual
+Ryde,2021-04-01,house,2161000,268,published,false,0.2940119760479043,2158000,annual
+Ryde,2021-04-01,unit,860000,593,published,false,0.17808219178082196,861000,annual
+Ryde,2021-07-01,house,2350000,203,published,false,0.39797739440809043,2350000,annual
+Ryde,2021-07-01,unit,830000,454,published,false,0.07373868046571808,839000,annual
+Ryde,2021-10-01,house,2500000,256,published,false,0.4285714285714286,2500000,annual
+Ryde,2021-10-01,unit,811000,444,published,false,0.06710526315789478,820000,annual
+Ryde,2022-01-01,house,2435000,144,published,false,0.23416117587430318,2440000,annual
+Ryde,2022-01-01,unit,785000,377,published,false,-0.018750000000000044,800000,annual
+Ryde,2022-04-01,house,2398000,188,published,false,0.10967144840351684,2398000,annual
+Ryde,2022-04-01,unit,838000,360,published,false,-0.025581395348837188,841000,annual
+Ryde,2022-07-01,house,2225000,164,published,false,-0.05319148936170215,2232000,annual
+Ryde,2022-07-01,unit,760000,366,published,false,-0.08433734939759041,776000,annual
+Ryde,2022-10-01,house,2200000,168,published,false,-0.12,2230000,annual
+Ryde,2022-10-01,unit,797000,348,published,false,-0.01726263871763256,825000,annual
+Ryde,2023-01-01,house,2250000,142,published,false,-0.07597535934291577,2250000,annual
+Ryde,2023-01-01,unit,785000,357,published,false,0.0,800000,annual
+Ryde,2023-04-01,house,2433000,216,published,false,0.014595496246872397,2420000,annual
+Ryde,2023-04-01,unit,800000,487,published,false,-0.04534606205250602,815000,annual
+Ryde,2023-07-01,house,2402000,233,published,false,0.07955056179775277,2402000,annual
+Ryde,2023-07-01,unit,850000,605,published,false,0.11842105263157898,854000,annual
+Ryde,2023-10-01,house,2525000,213,published,false,0.1477272727272727,2550000,annual
+Ryde,2023-10-01,unit,820000,503,published,false,0.028858218318695172,820000,annual
+Ryde,2024-01-01,house,2480000,182,published,false,0.10222222222222221,2500000,annual
+Ryde,2024-01-01,unit,790000,413,published,false,0.006369426751592355,790000,annual
+Ryde,2024-04-01,house,2500000,242,published,false,0.0275380189066996,2550000,annual
+Ryde,2024-04-01,unit,836000,543,published,false,0.04499999999999993,840000,annual
+Ryde,2024-07-01,house,2580000,216,published,false,0.0741049125728559,2601000,annual
+Ryde,2024-07-01,unit,818000,462,published,false,-0.03764705882352937,829000,annual
+Ryde,2024-10-01,house,2600000,229,published,false,0.02970297029702973,2622000,annual
+Ryde,2024-10-01,unit,795000,461,published,false,-0.030487804878048808,801000,annual
+Ryde,2025-01-01,house,2700000,159,published,false,0.08870967741935476,2701000,annual
+Ryde,2025-01-01,unit,780000,431,published,false,-0.012658227848101222,800000,annual
+Ryde,2025-04-01,house,2635000,250,published,false,0.05400000000000005,2675000,quarterly
+Ryde,2025-04-01,unit,789000,496,published,false,-0.05622009569377995,790000,quarterly
+Ryde,2025-07-01,house,2643000,260,published,false,0.024418604651162745,2630000,quarterly
+Ryde,2025-07-01,unit,835000,564,published,false,0.020782396088019572,815000,quarterly
+Ryde,2025-10-01,house,2710000,235,published,false,0.04230769230769238,2720000,quarterly
+Ryde,2025-10-01,unit,773000,461,published,false,-0.02767295597484276,777000,quarterly
+Ryde,2026-01-01,house,2689000,162,published,false,-0.004074074074074119,2689000,first_published
+Ryde,2026-01-01,unit,811000,378,published,false,0.039743589743589824,811000,first_published
+Strathfield,2019-01-01,house,2250000,,published,true,,2140000,annual
+Strathfield,2019-01-01,unit,633000,52,published,false,,625000,annual
+Strathfield,2019-04-01,house,2100000,36,published,false,,2100000,annual
+Strathfield,2019-04-01,unit,650000,122,published,false,,653000,annual
+Strathfield,2019-07-01,house,2243000,36,published,false,,2275000,annual
+Strathfield,2019-07-01,unit,625000,108,published,false,,645000,annual
+Strathfield,2019-10-01,house,2070000,42,published,false,,2150000,annual
+Strathfield,2019-10-01,unit,650000,126,published,false,,650000,annual
+Strathfield,2020-01-01,house,2078000,37,published,false,-0.07644444444444443,2078000,annual
+Strathfield,2020-01-01,unit,650000,125,published,false,0.026856240126382325,650000,annual
+Strathfield,2020-04-01,house,2305000,,published,true,0.09761904761904772,2250000,annual
+Strathfield,2020-04-01,unit,630000,71,published,false,-0.03076923076923077,630000,annual
+Strathfield,2020-07-01,house,2194000,36,published,false,-0.021845742309407057,2380000,annual
+Strathfield,2020-07-01,unit,660000,112,published,false,0.05600000000000005,660000,annual
+Strathfield,2020-10-01,house,2620000,59,published,false,0.2657004830917875,2565000,annual
+Strathfield,2020-10-01,unit,656000,194,published,false,0.009230769230769154,671000,annual
+Strathfield,2021-01-01,house,2873000,42,published,false,0.38257940327237727,2888000,annual
+Strathfield,2021-01-01,unit,635000,167,published,false,-0.023076923076923106,641000,annual
+Strathfield,2021-04-01,house,2944000,62,published,false,0.2772234273318872,2900000,annual
+Strathfield,2021-04-01,unit,650000,183,published,false,0.031746031746031855,655000,annual
+Strathfield,2021-07-01,house,3200000,45,published,false,0.4585232452142205,3300000,annual
+Strathfield,2021-07-01,unit,640000,145,published,false,-0.030303030303030276,645000,annual
+Strathfield,2021-10-01,house,2900000,71,published,false,0.10687022900763354,2997000,annual
+Strathfield,2021-10-01,unit,665000,180,published,false,0.013719512195121908,665000,annual
+Strathfield,2022-01-01,house,3450000,36,published,false,0.2008353637312914,3430000,annual
+Strathfield,2022-01-01,unit,651000,126,published,false,0.025196850393700787,661000,annual
+Strathfield,2022-04-01,house,2720000,41,published,false,-0.07608695652173914,2720000,annual
+Strathfield,2022-04-01,unit,655000,141,published,false,0.007692307692307665,655000,annual
+Strathfield,2022-07-01,house,2940000,44,published,false,-0.08125000000000004,2911000,annual
+Strathfield,2022-07-01,unit,650000,147,published,false,0.015625,650000,annual
+Strathfield,2022-10-01,house,2615000,34,published,false,-0.09827586206896555,2650000,annual
+Strathfield,2022-10-01,unit,610000,115,published,false,-0.08270676691729328,610000,annual
+Strathfield,2023-01-01,house,3325000,,published,true,-0.036231884057971064,3325000,annual
+Strathfield,2023-01-01,unit,630000,126,published,false,-0.032258064516129004,629000,annual
+Strathfield,2023-04-01,house,3100000,45,published,false,0.13970588235294112,3235000,annual
+Strathfield,2023-04-01,unit,630000,154,published,false,-0.03816793893129766,625000,annual
+Strathfield,2023-07-01,house,2958000,64,published,false,0.00612244897959191,2960000,annual
+Strathfield,2023-07-01,unit,657000,172,published,false,0.010769230769230864,660000,annual
+Strathfield,2023-10-01,house,2500000,43,published,false,-0.04397705544933084,2955000,annual
+Strathfield,2023-10-01,unit,657000,162,published,false,0.07704918032786878,660000,annual
+Strathfield,2024-01-01,house,2610000,37,published,false,-0.21503759398496236,3125000,annual
+Strathfield,2024-01-01,unit,660000,155,published,false,0.04761904761904767,660000,annual
+Strathfield,2024-04-01,house,3250000,53,published,false,0.048387096774193505,3340000,annual
+Strathfield,2024-04-01,unit,700000,211,published,false,0.11111111111111116,700000,annual
+Strathfield,2024-07-01,house,3250000,39,published,false,0.09871534820824879,3762000,annual
+Strathfield,2024-07-01,unit,697000,203,published,false,0.060882800608828,698000,annual
+Strathfield,2024-10-01,house,3198000,54,published,false,0.2791999999999999,3577000,annual
+Strathfield,2024-10-01,unit,670000,178,published,false,0.019786910197869156,669000,annual
+Strathfield,2025-01-01,house,3650000,33,published,false,0.3984674329501916,4100000,annual
+Strathfield,2025-01-01,unit,661000,154,published,false,0.0015151515151514694,663000,annual
+Strathfield,2025-04-01,house,3530000,51,published,false,0.08615384615384625,3750000,quarterly
+Strathfield,2025-04-01,unit,679000,189,published,false,-0.030000000000000027,678000,quarterly
+Strathfield,2025-07-01,house,3175000,41,published,false,-0.023076923076923106,3285000,quarterly
+Strathfield,2025-07-01,unit,670000,192,published,false,-0.038737446197991354,675000,quarterly
+Strathfield,2025-10-01,house,3930000,47,published,false,0.22889305816135086,3715000,quarterly
+Strathfield,2025-10-01,unit,681000,164,published,false,0.016417910447761086,680000,quarterly
+Strathfield,2026-01-01,house,2825000,,published,true,-0.226027397260274,2825000,first_published
+Strathfield,2026-01-01,unit,671000,168,published,false,0.015128593040847127,671000,first_published
+Sutherland Shire,2019-01-01,house,1050000,303,published,false,,1080000,annual
+Sutherland Shire,2019-01-01,unit,700000,270,published,false,,710000,annual
+Sutherland Shire,2019-04-01,house,1100000,442,published,false,,1115000,annual
+Sutherland Shire,2019-04-01,unit,720000,397,published,false,,735000,annual
+Sutherland Shire,2019-07-01,house,1158000,432,published,false,,1185000,annual
+Sutherland Shire,2019-07-01,unit,730000,471,published,false,,731000,annual
+Sutherland Shire,2019-10-01,house,1252000,451,published,false,,1252000,annual
+Sutherland Shire,2019-10-01,unit,742000,441,published,false,,743000,annual
+Sutherland Shire,2020-01-01,house,1300000,391,published,false,0.23809523809523814,1300000,annual
+Sutherland Shire,2020-01-01,unit,745000,423,published,false,0.06428571428571428,745000,annual
+Sutherland Shire,2020-04-01,house,1200000,374,published,false,0.09090909090909083,1210000,annual
+Sutherland Shire,2020-04-01,unit,733000,281,published,false,0.01805555555555549,738000,annual
+Sutherland Shire,2020-07-01,house,1242000,524,published,false,0.07253886010362698,1250000,annual
+Sutherland Shire,2020-07-01,unit,740000,435,published,false,0.013698630136986356,744000,annual
+Sutherland Shire,2020-10-01,house,1324000,628,published,false,0.057507987220447365,1335000,annual
+Sutherland Shire,2020-10-01,unit,770000,563,published,false,0.037735849056603765,805000,annual
+Sutherland Shire,2021-01-01,house,1465000,511,published,false,0.12692307692307692,1490000,annual
+Sutherland Shire,2021-01-01,unit,813000,655,published,false,0.09127516778523481,813000,annual
+Sutherland Shire,2021-04-01,house,1600000,608,published,false,0.33333333333333326,1615000,annual
+Sutherland Shire,2021-04-01,unit,800000,736,published,false,0.09140518417462484,810000,annual
+Sutherland Shire,2021-07-01,house,1661000,576,published,false,0.3373590982286634,1700000,annual
+Sutherland Shire,2021-07-01,unit,844000,688,published,false,0.14054054054054044,860000,annual
+Sutherland Shire,2021-10-01,house,1799000,656,published,false,0.35876132930513593,1815000,annual
+Sutherland Shire,2021-10-01,unit,898000,640,published,false,0.1662337662337663,905000,annual
+Sutherland Shire,2022-01-01,house,1745000,419,published,false,0.19112627986348119,1768000,annual
+Sutherland Shire,2022-01-01,unit,920000,495,published,false,0.13161131611316113,936000,annual
+Sutherland Shire,2022-04-01,house,1700000,465,published,false,0.0625,1705000,annual
+Sutherland Shire,2022-04-01,unit,867000,449,published,false,0.08374999999999999,875000,annual
+Sutherland Shire,2022-07-01,house,1640000,421,published,false,-0.012642986152919922,1650000,annual
+Sutherland Shire,2022-07-01,unit,875000,395,published,false,0.03672985781990512,875000,annual
+Sutherland Shire,2022-10-01,house,1550000,381,published,false,-0.13841022790439128,1575000,annual
+Sutherland Shire,2022-10-01,unit,850000,398,published,false,-0.053452115812917644,858000,annual
+Sutherland Shire,2023-01-01,house,1571000,352,published,false,-0.09971346704871065,1600000,annual
+Sutherland Shire,2023-01-01,unit,838000,354,published,false,-0.08913043478260874,850000,annual
+Sutherland Shire,2023-04-01,house,1686000,464,published,false,-0.008235294117647007,1700000,annual
+Sutherland Shire,2023-04-01,unit,860000,460,published,false,-0.008073817762399127,872000,annual
+Sutherland Shire,2023-07-01,house,1685000,473,published,false,0.027439024390243816,1700000,annual
+Sutherland Shire,2023-07-01,unit,850000,514,published,false,-0.02857142857142858,853000,annual
+Sutherland Shire,2023-10-01,house,1680000,512,published,false,0.08387096774193559,1710000,annual
+Sutherland Shire,2023-10-01,unit,880000,493,published,false,0.03529411764705892,880000,annual
+Sutherland Shire,2024-01-01,house,1730000,414,published,false,0.10120942075111383,1788000,annual
+Sutherland Shire,2024-01-01,unit,862000,501,published,false,0.02863961813842475,875000,annual
+Sutherland Shire,2024-04-01,house,1790000,483,published,false,0.06168446026097274,1820000,annual
+Sutherland Shire,2024-04-01,unit,890000,555,published,false,0.03488372093023262,900000,annual
+Sutherland Shire,2024-07-01,house,1800000,450,published,false,0.06824925816023741,1822000,annual
+Sutherland Shire,2024-07-01,unit,918000,590,published,false,0.08000000000000007,933000,annual
+Sutherland Shire,2024-10-01,house,1750000,492,published,false,0.04166666666666674,1795000,annual
+Sutherland Shire,2024-10-01,unit,935000,509,published,false,0.0625,943000,annual
+Sutherland Shire,2025-01-01,house,1818000,416,published,false,0.05086705202312136,1875000,annual
+Sutherland Shire,2025-01-01,unit,950000,479,published,false,0.10208816705336421,950000,annual
+Sutherland Shire,2025-04-01,house,1855000,490,published,false,0.036312849162011274,1889000,quarterly
+Sutherland Shire,2025-04-01,unit,960000,599,published,false,0.0786516853932584,970000,quarterly
+Sutherland Shire,2025-07-01,house,1880000,503,published,false,0.04444444444444451,1894000,quarterly
+Sutherland Shire,2025-07-01,unit,955000,573,published,false,0.04030501089324612,955000,quarterly
+Sutherland Shire,2025-10-01,house,2000000,558,published,false,0.1428571428571428,2000000,quarterly
+Sutherland Shire,2025-10-01,unit,1043000,578,published,false,0.1155080213903743,1033000,quarterly
+Sutherland Shire,2026-01-01,house,1955000,386,published,false,0.0753575357535754,1955000,first_published
+Sutherland Shire,2026-01-01,unit,1008000,479,published,false,0.06105263157894747,1008000,first_published
+Sydney,2019-01-01,house,1500000,108,published,false,,1500000,annual
+Sydney,2019-01-01,unit,840000,541,published,false,,860000,annual
+Sydney,2019-04-01,house,1429000,130,published,false,,1465000,annual
+Sydney,2019-04-01,unit,885000,765,published,false,,900000,annual
+Sydney,2019-07-01,house,1551000,166,published,false,,1551000,annual
+Sydney,2019-07-01,unit,964000,918,published,false,,920000,annual
+Sydney,2019-10-01,house,1673000,180,published,false,,1688000,annual
+Sydney,2019-10-01,unit,937000,954,published,false,,943000,annual
+Sydney,2020-01-01,house,1691000,135,published,false,0.1273333333333333,1696000,annual
+Sydney,2020-01-01,unit,935000,743,published,false,0.11309523809523814,940000,annual
+Sydney,2020-04-01,house,1650000,151,published,false,0.15465360391882443,1690000,annual
+Sydney,2020-04-01,unit,885000,558,published,false,0.0,895000,annual
+Sydney,2020-07-01,house,1625000,190,published,false,0.047711154094132846,1637000,annual
+Sydney,2020-07-01,unit,900000,825,published,false,-0.06639004149377592,906000,annual
+Sydney,2020-10-01,house,1790000,244,published,false,0.06993424985056773,1801000,annual
+Sydney,2020-10-01,unit,890000,1008,published,false,-0.050160085378868735,960000,annual
+Sydney,2021-01-01,house,1750000,222,published,false,0.03489059727971622,1800000,annual
+Sydney,2021-01-01,unit,918000,1078,published,false,-0.018181818181818188,928000,annual
+Sydney,2021-04-01,house,2000000,211,published,false,0.21212121212121215,2000000,annual
+Sydney,2021-04-01,unit,980000,1333,published,false,0.10734463276836159,1005000,annual
+Sydney,2021-07-01,house,2030000,256,published,false,0.24923076923076914,2055000,annual
+Sydney,2021-07-01,unit,986000,1189,published,false,0.09555555555555562,1001000,annual
+Sydney,2021-10-01,house,2190000,259,published,false,0.22346368715083798,2200000,annual
+Sydney,2021-10-01,unit,986000,1354,published,false,0.10786516853932593,991000,annual
+Sydney,2022-01-01,house,2000000,176,published,false,0.1428571428571428,2082000,annual
+Sydney,2022-01-01,unit,955000,948,published,false,0.04030501089324612,975000,annual
+Sydney,2022-04-01,house,1933000,200,published,false,-0.033499999999999974,1933000,annual
+Sydney,2022-04-01,unit,965000,1008,published,false,-0.015306122448979553,966000,annual
+Sydney,2022-07-01,house,1745000,182,published,false,-0.14039408866995073,1750000,annual
+Sydney,2022-07-01,unit,923000,972,published,false,-0.06389452332657197,932000,annual
+Sydney,2022-10-01,house,1900000,180,published,false,-0.13242009132420096,1958000,annual
+Sydney,2022-10-01,unit,878000,898,published,false,-0.1095334685598377,906000,annual
+Sydney,2023-01-01,house,2025000,117,published,false,0.012499999999999956,2044000,annual
+Sydney,2023-01-01,unit,950000,922,published,false,-0.005235602094240788,965000,annual
+Sydney,2023-04-01,house,1885000,176,published,false,-0.024831867563372967,1910000,annual
+Sydney,2023-04-01,unit,970000,1156,published,false,0.005181347150259086,995000,annual
+Sydney,2023-07-01,house,2080000,168,published,false,0.1919770773638969,2100000,annual
+Sydney,2023-07-01,unit,950000,1180,published,false,0.02925243770314201,960000,annual
+Sydney,2023-10-01,house,2020000,195,published,false,0.06315789473684208,2038000,annual
+Sydney,2023-10-01,unit,941000,1158,published,false,0.07175398633257402,955000,annual
+Sydney,2024-01-01,house,2263000,158,published,false,0.11753086419753078,2275000,annual
+Sydney,2024-01-01,unit,975000,1085,published,false,0.026315789473684292,1000000,annual
+Sydney,2024-04-01,house,2110000,201,published,false,0.11936339522546424,2150000,annual
+Sydney,2024-04-01,unit,994000,1256,published,false,0.024742268041237025,1020000,annual
+Sydney,2024-07-01,house,2050000,185,published,false,-0.014423076923076872,2052000,annual
+Sydney,2024-07-01,unit,990000,1312,published,false,0.042105263157894646,1000000,annual
+Sydney,2024-10-01,house,2163000,180,published,false,0.07079207920792085,2175000,annual
+Sydney,2024-10-01,unit,950000,1204,published,false,0.009564293304994642,950000,annual
+Sydney,2025-01-01,house,2200000,143,published,false,-0.027839151568714082,2290000,annual
+Sydney,2025-01-01,unit,980000,1023,published,false,0.00512820512820511,989000,annual
+Sydney,2025-04-01,house,2250000,189,published,false,0.06635071090047395,2275000,quarterly
+Sydney,2025-04-01,unit,954000,1212,published,false,-0.04024144869215296,955000,quarterly
+Sydney,2025-07-01,house,2308000,215,published,false,0.12585365853658526,2288000,quarterly
+Sydney,2025-07-01,unit,975000,1280,published,false,-0.015151515151515138,980000,quarterly
+Sydney,2025-10-01,house,2450000,215,published,false,0.1326860841423949,2450000,quarterly
+Sydney,2025-10-01,unit,980000,1265,published,false,0.03157894736842115,980000,quarterly
+Sydney,2026-01-01,house,2300000,160,published,false,0.045454545454545414,2300000,first_published
+Sydney,2026-01-01,unit,967000,1004,published,false,-0.013265306122449028,967000,first_published
+The Hills Shire,2019-01-01,house,1128000,251,published,false,,1158000,annual
+The Hills Shire,2019-01-01,unit,721000,66,published,false,,720000,annual
+The Hills Shire,2019-04-01,house,1155000,379,published,false,,1170000,annual
+The Hills Shire,2019-04-01,unit,720000,92,published,false,,720000,annual
+The Hills Shire,2019-07-01,house,1255000,487,published,false,,1250000,annual
+The Hills Shire,2019-07-01,unit,780000,122,published,false,,765000,annual
+The Hills Shire,2019-10-01,house,1300000,512,published,false,,1300000,annual
+The Hills Shire,2019-10-01,unit,800000,121,published,false,,800000,annual
+The Hills Shire,2020-01-01,house,1300000,391,published,false,0.15248226950354615,1300000,annual
+The Hills Shire,2020-01-01,unit,795000,137,published,false,0.10263522884882104,795000,annual
+The Hills Shire,2020-04-01,house,1320000,357,published,false,0.1428571428571428,1315000,annual
+The Hills Shire,2020-04-01,unit,784000,72,published,false,0.0888888888888888,799000,annual
+The Hills Shire,2020-07-01,house,1300000,553,published,false,0.03585657370517925,1300000,annual
+The Hills Shire,2020-07-01,unit,795000,156,published,false,0.019230769230769162,800000,annual
+The Hills Shire,2020-10-01,house,1326000,702,published,false,0.020000000000000018,1318000,annual
+The Hills Shire,2020-10-01,unit,830000,213,published,false,0.03750000000000009,817000,annual
+The Hills Shire,2021-01-01,house,1500000,590,published,false,0.15384615384615374,1473000,annual
+The Hills Shire,2021-01-01,unit,819000,198,published,false,0.030188679245283012,852000,annual
+The Hills Shire,2021-04-01,house,1676000,635,published,false,0.26969696969696977,1650000,annual
+The Hills Shire,2021-04-01,unit,818000,206,published,false,0.04336734693877542,810000,annual
+The Hills Shire,2021-07-01,house,1700000,614,published,false,0.3076923076923077,1700000,annual
+The Hills Shire,2021-07-01,unit,870000,195,published,false,0.09433962264150941,846000,annual
+The Hills Shire,2021-10-01,house,1873000,612,published,false,0.4125188536953244,1838000,annual
+The Hills Shire,2021-10-01,unit,932000,239,published,false,0.12289156626506026,890000,annual
+The Hills Shire,2022-01-01,house,1880000,402,published,false,0.2533333333333334,1880000,annual
+The Hills Shire,2022-01-01,unit,935000,126,published,false,0.14163614163614158,810000,annual
+The Hills Shire,2022-04-01,house,1825000,467,published,false,0.08890214797136031,1822000,annual
+The Hills Shire,2022-04-01,unit,800000,180,published,false,-0.022004889975550168,790000,annual
+The Hills Shire,2022-07-01,house,1700000,457,published,false,0.0,1725000,annual
+The Hills Shire,2022-07-01,unit,791000,164,published,false,-0.09080459770114946,780000,annual
+The Hills Shire,2022-10-01,house,1746000,424,published,false,-0.06780565936999461,1746000,annual
+The Hills Shire,2022-10-01,unit,803000,177,published,false,-0.13841201716738194,790000,annual
+The Hills Shire,2023-01-01,house,1751000,394,published,false,-0.06861702127659575,1755000,annual
+The Hills Shire,2023-01-01,unit,791000,164,published,false,-0.1540106951871658,810000,annual
+The Hills Shire,2023-04-01,house,1811000,540,published,false,-0.007671232876712342,1815000,annual
+The Hills Shire,2023-04-01,unit,780000,207,published,false,-0.025000000000000022,830000,annual
+The Hills Shire,2023-07-01,house,1860000,568,published,false,0.09411764705882364,1850000,annual
+The Hills Shire,2023-07-01,unit,882000,214,published,false,0.11504424778761058,868000,annual
+The Hills Shire,2023-10-01,house,1900000,530,published,false,0.0882016036655211,1885000,annual
+The Hills Shire,2023-10-01,unit,931000,224,published,false,0.1594022415940224,951000,annual
+The Hills Shire,2024-01-01,house,1912000,486,published,false,0.09194745859508857,1910000,annual
+The Hills Shire,2024-01-01,unit,895000,252,published,false,0.1314791403286979,898000,annual
+The Hills Shire,2024-04-01,house,1901000,530,published,false,0.049696300386526726,1906000,annual
+The Hills Shire,2024-04-01,unit,875000,335,published,false,0.1217948717948718,885000,annual
+The Hills Shire,2024-07-01,house,1920000,513,published,false,0.032258064516129004,1925000,annual
+The Hills Shire,2024-07-01,unit,863000,294,published,false,-0.02154195011337867,878000,annual
+The Hills Shire,2024-10-01,house,1870000,507,published,false,-0.015789473684210575,1860000,annual
+The Hills Shire,2024-10-01,unit,898000,244,published,false,-0.03544575725026855,929000,annual
+The Hills Shire,2025-01-01,house,1907000,470,published,false,-0.0026150627615062483,1965000,annual
+The Hills Shire,2025-01-01,unit,910000,205,published,false,0.016759776536312776,920000,annual
+The Hills Shire,2025-04-01,house,1901000,550,published,false,0.0,1911000,quarterly
+The Hills Shire,2025-04-01,unit,932000,261,published,false,0.06514285714285717,931000,quarterly
+The Hills Shire,2025-07-01,house,2000000,664,published,false,0.04166666666666674,2000000,quarterly
+The Hills Shire,2025-07-01,unit,940000,291,published,false,0.0892236384704519,935000,quarterly
+The Hills Shire,2025-10-01,house,2050000,586,published,false,0.09625668449197855,2060000,quarterly
+The Hills Shire,2025-10-01,unit,962000,251,published,false,0.07126948775055686,960000,quarterly
+The Hills Shire,2026-01-01,house,1965000,419,published,false,0.030414263240692296,1965000,first_published
+The Hills Shire,2026-01-01,unit,930000,227,published,false,0.0219780219780219,930000,first_published
+Waverley,2019-01-01,house,2620000,59,published,false,,2813000,annual
+Waverley,2019-01-01,unit,1100000,123,published,false,,1100000,annual
+Waverley,2019-04-01,house,2635000,90,published,false,,2745000,annual
+Waverley,2019-04-01,unit,1065000,176,published,false,,1080000,annual
+Waverley,2019-07-01,house,2790000,83,published,false,,2813000,annual
+Waverley,2019-07-01,unit,1200000,240,published,false,,1200000,annual
+Waverley,2019-10-01,house,2838000,98,published,false,,2850000,annual
+Waverley,2019-10-01,unit,1160000,241,published,false,,1182000,annual
+Waverley,2020-01-01,house,3008000,88,published,false,0.14809160305343516,3030000,annual
+Waverley,2020-01-01,unit,1300000,207,published,false,0.18181818181818188,1315000,annual
+Waverley,2020-04-01,house,2901000,89,published,false,0.10094876660341545,3000000,annual
+Waverley,2020-04-01,unit,1140000,178,published,false,0.07042253521126751,1140000,annual
+Waverley,2020-07-01,house,3050000,122,published,false,0.09318996415770608,3138000,annual
+Waverley,2020-07-01,unit,1120000,239,published,false,-0.06666666666666665,1120000,annual
+Waverley,2020-10-01,house,3351000,121,published,false,0.18076109936575047,3400000,annual
+Waverley,2020-10-01,unit,1221000,270,published,false,0.05258620689655169,1240000,annual
+Waverley,2021-01-01,house,3560000,103,published,false,0.1835106382978724,3800000,annual
+Waverley,2021-01-01,unit,1365000,268,published,false,0.050000000000000044,1400000,annual
+Waverley,2021-04-01,house,4003000,126,published,false,0.37986901068597034,4031000,annual
+Waverley,2021-04-01,unit,1395000,360,published,false,0.2236842105263157,1403000,annual
+Waverley,2021-07-01,house,4068000,112,published,false,0.33377049180327867,4325000,annual
+Waverley,2021-07-01,unit,1400000,273,published,false,0.25,1420000,annual
+Waverley,2021-10-01,house,4200000,127,published,false,0.25335720680393914,4350000,annual
+Waverley,2021-10-01,unit,1570000,331,published,false,0.2858312858312859,1595000,annual
+Waverley,2022-01-01,house,4275000,67,published,false,0.2008426966292134,5030000,annual
+Waverley,2022-01-01,unit,1640000,273,published,false,0.20146520146520142,1650000,annual
+Waverley,2022-04-01,house,4010000,98,published,false,0.0017486884836372951,4010000,annual
+Waverley,2022-04-01,unit,1403000,216,published,false,0.005734767025089571,1410000,annual
+Waverley,2022-07-01,house,3920000,73,published,false,-0.036381514257620484,4068000,annual
+Waverley,2022-07-01,unit,1350000,195,published,false,-0.0357142857142857,1358000,annual
+Waverley,2022-10-01,house,4028000,84,published,false,-0.04095238095238096,4000000,annual
+Waverley,2022-10-01,unit,1300000,194,published,false,-0.1719745222929936,1373000,annual
+Waverley,2023-01-01,house,3850000,85,published,false,-0.09941520467836262,4000000,annual
+Waverley,2023-01-01,unit,1300000,182,published,false,-0.20731707317073167,1308000,annual
+Waverley,2023-04-01,house,4075000,72,published,false,0.016209476309226867,4264000,annual
+Waverley,2023-04-01,unit,1455000,250,published,false,0.03706343549536717,1460000,annual
+Waverley,2023-07-01,house,4190000,110,published,false,0.06887755102040827,4310000,annual
+Waverley,2023-07-01,unit,1359000,268,published,false,0.006666666666666599,1377000,annual
+Waverley,2023-10-01,house,4100000,99,published,false,0.01787487586891756,4300000,annual
+Waverley,2023-10-01,unit,1550000,241,published,false,0.1923076923076923,1615000,annual
+Waverley,2024-01-01,house,4335000,86,published,false,0.12597402597402607,4727000,annual
+Waverley,2024-01-01,unit,1495000,252,published,false,0.1499999999999999,1500000,annual
+Waverley,2024-04-01,house,4000000,78,published,false,-0.018404907975460127,4150000,annual
+Waverley,2024-04-01,unit,1443000,250,published,false,-0.008247422680412342,1463000,annual
+Waverley,2024-07-01,house,4400000,89,published,false,0.05011933174224348,4710000,annual
+Waverley,2024-07-01,unit,1402000,227,published,false,0.03164091243561451,1420000,annual
+Waverley,2024-10-01,house,4948000,74,published,false,0.2068292682926829,5043000,annual
+Waverley,2024-10-01,unit,1478000,236,published,false,-0.04645161290322586,1500000,annual
+Waverley,2025-01-01,house,4700000,83,published,false,0.08419838523644763,5000000,annual
+Waverley,2025-01-01,unit,1460000,218,published,false,-0.02341137123745818,1500000,annual
+Waverley,2025-04-01,house,4250000,99,published,false,0.0625,4450000,quarterly
+Waverley,2025-04-01,unit,1531000,214,published,false,0.06098406098406106,1551000,quarterly
+Waverley,2025-07-01,house,4390000,87,published,false,-0.002272727272727315,4440000,quarterly
+Waverley,2025-07-01,unit,1500000,237,published,false,0.06990014265335232,1518000,quarterly
+Waverley,2025-10-01,house,4463000,98,published,false,-0.09801940177849633,4462000,quarterly
+Waverley,2025-10-01,unit,1530000,267,published,false,0.03518267929634633,1528000,quarterly
+Waverley,2026-01-01,house,5130000,89,published,false,0.09148936170212774,5130000,first_published
+Waverley,2026-01-01,unit,1555000,191,published,false,0.06506849315068486,1555000,first_published
+Willoughby,2019-01-01,house,2105000,62,published,false,,2250000,annual
+Willoughby,2019-01-01,unit,883000,86,published,false,,888000,annual
+Willoughby,2019-04-01,house,2215000,124,published,false,,2230000,annual
+Willoughby,2019-04-01,unit,930000,126,published,false,,938000,annual
+Willoughby,2019-07-01,house,2386000,103,published,false,,2421000,annual
+Willoughby,2019-07-01,unit,990000,107,published,false,,982000,annual
+Willoughby,2019-10-01,house,2480000,126,published,false,,2520000,annual
+Willoughby,2019-10-01,unit,1010000,122,published,false,,1010000,annual
+Willoughby,2020-01-01,house,2600000,90,published,false,0.2351543942992873,2610000,annual
+Willoughby,2020-01-01,unit,1060000,107,published,false,0.20045300113250275,1060000,annual
+Willoughby,2020-04-01,house,2515000,89,published,false,0.13544018058690743,2620000,annual
+Willoughby,2020-04-01,unit,952000,80,published,false,0.023655913978494647,953000,annual
+Willoughby,2020-07-01,house,2522000,116,published,false,0.05699916177703268,2669000,annual
+Willoughby,2020-07-01,unit,975000,127,published,false,-0.015151515151515138,982000,annual
+Willoughby,2020-10-01,house,2639000,163,published,false,0.06411290322580654,2650000,annual
+Willoughby,2020-10-01,unit,951000,134,published,false,-0.05841584158415847,952000,annual
+Willoughby,2021-01-01,house,2970000,125,published,false,0.14230769230769225,2926000,annual
+Willoughby,2021-01-01,unit,1015000,138,published,false,-0.04245283018867929,1022000,annual
+Willoughby,2021-04-01,house,3301000,165,published,false,0.3125248508946321,3301000,annual
+Willoughby,2021-04-01,unit,1055000,161,published,false,0.10819327731092443,1088000,annual
+Willoughby,2021-07-01,house,3350000,124,published,false,0.32831086439333856,3350000,annual
+Willoughby,2021-07-01,unit,1060000,143,published,false,0.08717948717948709,1058000,annual
+Willoughby,2021-10-01,house,3560000,166,published,false,0.34899583175445237,3600000,annual
+Willoughby,2021-10-01,unit,1070000,153,published,false,0.12513144058885395,1077000,annual
+Willoughby,2022-01-01,house,3299000,122,published,false,0.11077441077441086,3300000,annual
+Willoughby,2022-01-01,unit,1100000,128,published,false,0.08374384236453203,1103000,annual
+Willoughby,2022-04-01,house,3318000,126,published,false,0.005149954559224401,3310000,annual
+Willoughby,2022-04-01,unit,1620000,205,published,false,0.5355450236966826,1580000,annual
+Willoughby,2022-07-01,house,3025000,114,published,false,-0.09701492537313428,3066000,annual
+Willoughby,2022-07-01,unit,1160000,151,published,false,0.09433962264150941,1160000,annual
+Willoughby,2022-10-01,house,3305000,124,published,false,-0.0716292134831461,3343000,annual
+Willoughby,2022-10-01,unit,1000000,141,published,false,-0.06542056074766356,1040000,annual
+Willoughby,2023-01-01,house,3376000,78,published,false,0.02334040618369193,3406000,annual
+Willoughby,2023-01-01,unit,970000,123,published,false,-0.11818181818181817,983000,annual
+Willoughby,2023-04-01,house,3320000,107,published,false,0.0006027727546715766,3350000,annual
+Willoughby,2023-04-01,unit,1160000,181,published,false,-0.28395061728395066,1255000,annual
+Willoughby,2023-07-01,house,3600000,144,published,false,0.1900826446280992,3625000,annual
+Willoughby,2023-07-01,unit,1243000,231,published,false,0.0715517241379311,1250000,annual
+Willoughby,2023-10-01,house,3510000,135,published,false,0.062027231467473465,3550000,annual
+Willoughby,2023-10-01,unit,1122000,173,published,false,0.12200000000000011,1139000,annual
+Willoughby,2024-01-01,house,3338000,102,published,false,-0.01125592417061616,3450000,annual
+Willoughby,2024-01-01,unit,1186000,156,published,false,0.22268041237113412,1230000,annual
+Willoughby,2024-04-01,house,3690000,113,published,false,0.11144578313253017,3820000,annual
+Willoughby,2024-04-01,unit,1153000,180,published,false,-0.0060344827586207295,1155000,annual
+Willoughby,2024-07-01,house,3550000,133,published,false,-0.01388888888888884,3624000,annual
+Willoughby,2024-07-01,unit,1150000,181,published,false,-0.07481898632341111,1169000,annual
+Willoughby,2024-10-01,house,3750000,127,published,false,0.06837606837606836,3763000,annual
+Willoughby,2024-10-01,unit,1256000,149,published,false,0.11942959001782527,1345000,annual
+Willoughby,2025-01-01,house,3618000,100,published,false,0.08388256440982622,3800000,annual
+Willoughby,2025-01-01,unit,1080000,159,published,false,-0.08937605396290049,1106000,annual
+Willoughby,2025-04-01,house,3575000,168,published,false,-0.031165311653116534,3611000,quarterly
+Willoughby,2025-04-01,unit,1165000,185,published,false,0.010407632263659927,1160000,quarterly
+Willoughby,2025-07-01,house,3700000,122,published,false,0.04225352112676051,3700000,quarterly
+Willoughby,2025-07-01,unit,1100000,190,published,false,-0.04347826086956519,1100000,quarterly
+Willoughby,2025-10-01,house,3880000,143,published,false,0.03466666666666662,3850000,quarterly
+Willoughby,2025-10-01,unit,1340000,257,published,false,0.06687898089171984,1339000,quarterly
+Willoughby,2026-01-01,house,3600000,108,published,false,-0.00497512437810943,3600000,first_published
+Willoughby,2026-01-01,unit,1180000,152,published,false,0.09259259259259256,1180000,first_published
+Wollondilly,2019-01-01,house,670000,121,published,false,,680000,annual
+Wollondilly,2019-01-01,unit,,,suppressed,true,,,
+Wollondilly,2019-04-01,house,663000,116,published,false,,671000,annual
+Wollondilly,2019-04-01,unit,,,not_in_source,true,,,
+Wollondilly,2019-07-01,house,850000,146,published,false,,851000,annual
+Wollondilly,2019-07-01,unit,,,suppressed,true,,,
+Wollondilly,2019-10-01,house,755000,146,published,false,,750000,annual
+Wollondilly,2019-10-01,unit,,,suppressed,true,,,
+Wollondilly,2020-01-01,house,780000,126,published,false,0.16417910447761197,769000,annual
+Wollondilly,2020-01-01,unit,,,suppressed,true,,,
+Wollondilly,2020-04-01,house,745000,141,published,false,0.12368024132730016,750000,annual
+Wollondilly,2020-04-01,unit,,,suppressed,true,,400000,annual
+Wollondilly,2020-07-01,house,743000,216,published,false,-0.12588235294117645,740000,annual
+Wollondilly,2020-07-01,unit,,,suppressed,true,,439000,annual
+Wollondilly,2020-10-01,house,767000,224,published,false,0.015894039735099286,763000,annual
+Wollondilly,2020-10-01,unit,,,suppressed,true,,,
+Wollondilly,2021-01-01,house,830000,193,published,false,0.0641025641025641,832000,annual
+Wollondilly,2021-01-01,unit,,,suppressed,true,,425000,quarterly
+Wollondilly,2021-04-01,house,895000,227,published,false,0.20134228187919456,890000,annual
+Wollondilly,2021-04-01,unit,492000,,published,true,,493000,annual
+Wollondilly,2021-07-01,house,925000,226,published,false,0.24495289367429351,950000,annual
+Wollondilly,2021-07-01,unit,517000,,published,true,,517000,first_published
+Wollondilly,2021-10-01,house,1005000,221,published,false,0.3102998696219035,1001000,annual
+Wollondilly,2021-10-01,unit,,,suppressed,true,,608000,annual
+Wollondilly,2022-01-01,house,1125000,170,published,false,0.35542168674698793,1100000,annual
+Wollondilly,2022-01-01,unit,,,suppressed,true,,653000,quarterly
+Wollondilly,2022-04-01,house,1000000,180,published,false,0.11731843575418988,1000000,annual
+Wollondilly,2022-04-01,unit,558000,,published,true,0.13414634146341453,558000,annual
+Wollondilly,2022-07-01,house,980000,173,published,false,0.05945945945945952,1020000,annual
+Wollondilly,2022-07-01,unit,,,suppressed,true,,666000,quarterly
+Wollondilly,2022-10-01,house,988000,120,published,false,-0.01691542288557213,1018000,annual
+Wollondilly,2022-10-01,unit,514000,,published,true,,514000,first_published
+Wollondilly,2023-01-01,house,950000,147,published,false,-0.15555555555555556,968000,annual
+Wollondilly,2023-01-01,unit,,,suppressed,true,,586000,quarterly
+Wollondilly,2023-04-01,house,1070000,170,published,false,0.07000000000000006,1080000,annual
+Wollondilly,2023-04-01,unit,558000,,published,true,0.0,520000,annual
+Wollondilly,2023-07-01,house,969000,161,published,false,-0.011224489795918391,983000,annual
+Wollondilly,2023-07-01,unit,,,suppressed,true,,625000,annual
+Wollondilly,2023-10-01,house,1000000,165,published,false,0.012145748987854255,1018000,annual
+Wollondilly,2023-10-01,unit,,,suppressed,true,,523000,annual
+Wollondilly,2024-01-01,house,1060000,184,published,false,0.11578947368421044,1089000,annual
+Wollondilly,2024-01-01,unit,,,suppressed,true,,670000,annual
+Wollondilly,2024-04-01,house,1060000,202,published,false,-0.009345794392523366,1067000,annual
+Wollondilly,2024-04-01,unit,565000,,published,true,0.012544802867383575,565000,annual
+Wollondilly,2024-07-01,house,1028000,194,published,false,0.06088751289989691,1030000,annual
+Wollondilly,2024-07-01,unit,481000,,published,true,,481000,annual
+Wollondilly,2024-10-01,house,1050000,224,published,false,0.050000000000000044,1060000,annual
+Wollondilly,2024-10-01,unit,679000,,published,true,,679000,annual
+Wollondilly,2025-01-01,house,1100000,196,published,false,0.037735849056603765,1110000,annual
+Wollondilly,2025-01-01,unit,700000,,published,true,,730000,annual
+Wollondilly,2025-04-01,house,1070000,235,published,false,0.009433962264151052,1100000,quarterly
+Wollondilly,2025-04-01,unit,695000,,published,true,0.23008849557522115,695000,quarterly
+Wollondilly,2025-07-01,house,1105000,273,published,false,0.07490272373540852,1100000,quarterly
+Wollondilly,2025-07-01,unit,675000,,published,true,0.40332640332640324,650000,quarterly
+Wollondilly,2025-10-01,house,1059000,274,published,false,0.008571428571428674,1080000,quarterly
+Wollondilly,2025-10-01,unit,768000,,published,true,0.13107511045655373,767000,quarterly
+Wollondilly,2026-01-01,house,1175000,239,published,false,0.06818181818181812,1175000,first_published
+Wollondilly,2026-01-01,unit,636000,,published,true,-0.09142857142857141,636000,first_published
+Woollahra,2019-01-01,house,3960000,68,published,false,,3600000,annual
+Woollahra,2019-01-01,unit,1310000,120,published,false,,1375000,annual
+Woollahra,2019-04-01,house,3500000,105,published,false,,3675000,annual
+Woollahra,2019-04-01,unit,1400000,135,published,false,,1440000,annual
+Woollahra,2019-07-01,house,3050000,92,published,false,,3150000,annual
+Woollahra,2019-07-01,unit,1450000,163,published,false,,1561000,annual
+Woollahra,2019-10-01,house,3200000,119,published,false,,3700000,annual
+Woollahra,2019-10-01,unit,1275000,196,published,false,,1323000,annual
+Woollahra,2020-01-01,house,3710000,94,published,false,-0.06313131313131315,3850000,annual
+Woollahra,2020-01-01,unit,1410000,132,published,false,0.07633587786259532,1450000,annual
+Woollahra,2020-04-01,house,3360000,100,published,false,-0.040000000000000036,3800000,annual
+Woollahra,2020-04-01,unit,1608000,130,published,false,0.14857142857142858,1610000,annual
+Woollahra,2020-07-01,house,3825000,128,published,false,0.25409836065573765,4160000,annual
+Woollahra,2020-07-01,unit,1363000,168,published,false,-0.06000000000000005,1400000,annual
+Woollahra,2020-10-01,house,3874000,131,published,false,0.21062500000000006,4050000,annual
+Woollahra,2020-10-01,unit,1528000,216,published,false,0.19843137254901966,1625000,annual
+Woollahra,2021-01-01,house,4287000,107,published,false,0.1555256064690027,4625000,annual
+Woollahra,2021-01-01,unit,1640000,199,published,false,0.16312056737588643,1724000,annual
+Woollahra,2021-04-01,house,4550000,142,published,false,0.35416666666666674,5455000,annual
+Woollahra,2021-04-01,unit,1670000,319,published,false,0.03855721393034828,1780000,annual
+Woollahra,2021-07-01,house,4500000,112,published,false,0.17647058823529416,5335000,annual
+Woollahra,2021-07-01,unit,1506000,210,published,false,0.10491562729273651,1634000,annual
+Woollahra,2021-10-01,house,4250000,142,published,false,0.09705730511099642,5400000,annual
+Woollahra,2021-10-01,unit,1750000,257,published,false,0.14528795811518314,1907000,annual
+Woollahra,2022-01-01,house,4200000,75,published,false,-0.020293911826452016,4780000,annual
+Woollahra,2022-01-01,unit,1903000,159,published,false,0.16036585365853662,2175000,annual
+Woollahra,2022-04-01,house,5165000,110,published,false,0.13516483516483513,5230000,annual
+Woollahra,2022-04-01,unit,1675000,157,published,false,0.0029940119760478723,1677000,annual
+Woollahra,2022-07-01,house,4625000,90,published,false,0.02777777777777768,5050000,annual
+Woollahra,2022-07-01,unit,1800000,151,published,false,0.19521912350597614,1870000,annual
+Woollahra,2022-10-01,house,4175000,83,published,false,-0.01764705882352946,5500000,annual
+Woollahra,2022-10-01,unit,1655000,150,published,false,-0.05428571428571427,1738000,annual
+Woollahra,2023-01-01,house,4425000,77,published,false,0.0535714285714286,5350000,annual
+Woollahra,2023-01-01,unit,1500000,127,published,false,-0.21177088807146616,1500000,annual
+Woollahra,2023-04-01,house,4240000,88,published,false,-0.1790900290416263,6150000,annual
+Woollahra,2023-04-01,unit,1580000,179,published,false,-0.05671641791044779,1730000,annual
+Woollahra,2023-07-01,house,4900000,108,published,false,0.05945945945945952,5276000,annual
+Woollahra,2023-07-01,unit,1710000,194,published,false,-0.050000000000000044,1820000,annual
+Woollahra,2023-10-01,house,6750000,105,published,false,0.6167664670658684,7200000,annual
+Woollahra,2023-10-01,unit,1560000,181,published,false,-0.05740181268882172,1665000,annual
+Woollahra,2024-01-01,house,4100000,95,published,false,-0.07344632768361581,4800000,annual
+Woollahra,2024-01-01,unit,1578000,166,published,false,0.052000000000000046,1815000,annual
+Woollahra,2024-04-01,house,4600000,103,published,false,0.08490566037735858,5451000,annual
+Woollahra,2024-04-01,unit,1675000,179,published,false,0.06012658227848111,1750000,annual
+Woollahra,2024-07-01,house,4000000,88,published,false,-0.18367346938775508,4690000,annual
+Woollahra,2024-07-01,unit,1813000,194,published,false,0.06023391812865486,2177000,annual
+Woollahra,2024-10-01,house,5150000,92,published,false,-0.23703703703703705,5563000,annual
+Woollahra,2024-10-01,unit,1835000,197,published,false,0.17628205128205132,1950000,annual
+Woollahra,2025-01-01,house,4700000,95,published,false,0.14634146341463405,5500000,annual
+Woollahra,2025-01-01,unit,1810000,167,published,false,0.14702154626108999,1905000,annual
+Woollahra,2025-04-01,house,4958000,90,published,false,0.07782608695652171,6900000,quarterly
+Woollahra,2025-04-01,unit,1560000,175,published,false,-0.06865671641791049,1625000,quarterly
+Woollahra,2025-07-01,house,5250000,108,published,false,0.3125,6275000,quarterly
+Woollahra,2025-07-01,unit,1900000,185,published,false,0.04798676227247656,2000000,quarterly
+Woollahra,2025-10-01,house,4800000,100,published,false,-0.06796116504854366,5500000,quarterly
+Woollahra,2025-10-01,unit,2225000,223,published,false,0.21253405994550412,2452000,quarterly
+Woollahra,2026-01-01,house,4600000,96,published,false,-0.021276595744680882,4600000,first_published
+Woollahra,2026-01-01,unit,1830000,152,published,false,0.011049723756906049,1830000,first_published

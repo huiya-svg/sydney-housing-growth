@@ -1,0 +1,39 @@
+lga,geo_level,region,lga_code_2025,distance_km,pop_growth_2016_19,income_2016_weekly,rent_2019_house_weekly,rent_2019_unit_weekly,sort_order
+Greater Sydney,greater_sydney,,,,,,,,1
+Inner Ring,ring,Inner Ring,,,,,,,2
+Middle Ring,ring,Middle Ring,,,,,,,3
+Outer Ring,ring,Outer Ring,,,,,,,4
+Bayside,lga,Middle Ring,10500,9.81,0.057,,647.0,570.0,5
+Blacktown,lga,Outer Ring,10750,34.79,0.0924,1711,460.0,370.0,6
+Blue Mountains,lga,Outer Ring,10900,76.16,0.0031,1468,442.5,305.0,7
+Burwood,lga,Middle Ring,11300,9.83,0.0466,1569,667.5,548.75,8
+Camden,lga,Outer Ring,11450,47.36,0.3045,2047,500.75,344.5,9
+Campbelltown,lga,Outer Ring,11500,41.11,0.0664,1459,422.5,353.25,10
+Canada Bay,lga,Middle Ring,11520,8.74,0.0008,2061,745.0,585.0,11
+Canterbury-Bankstown,lga,Middle Ring,11570,16.93,0.0372,1298,550.0,411.25,12
+Central Coast,lga,Outer Ring,11650,62.52,0.027,1258,442.5,351.25,13
+Cumberland,lga,Middle Ring,12380,20.67,0.0638,1379,497.5,427.5,14
+Fairfield,lga,Outer Ring,12850,28.9,0.0348,1222,470.0,338.75,15
+Georges River,lga,Middle Ring,12930,16.03,0.0219,1654,588.75,486.25,16
+Hawkesbury,lga,Outer Ring,13800,71.57,0.0135,1668,450.0,322.5,17
+Hornsby,lga,Outer Ring,14000,33.35,0.0396,2121,667.5,471.25,18
+Hunters Hill,lga,Middle Ring,14100,6.94,-0.0156,2467,990.0,511.25,19
+Inner West,lga,Inner Ring,14170,5.54,0.004,2048,768.75,492.5,20
+Ku-Ring-Gai,lga,Middle Ring,14500,15.68,0.0318,2640,977.0,590.0,21
+Lane Cove,lga,Inner Ring,14700,6.51,0.0556,2376,897.0,550.0,22
+Liverpool,lga,Outer Ring,14900,36.18,0.0717,1550,500.0,377.5,23
+Mosman,lga,Inner Ring,15350,5.49,-0.0079,2522,1543.75,572.0,24
+North Sydney,lga,Inner Ring,15950,3.88,0.0048,2360,917.5,602.5,25
+Northern Beaches,lga,Outer Ring,15990,20.08,0.0131,2178,964.25,597.5,26
+Parramatta,lga,Middle Ring,16260,18.17,0.0982,1759,540.0,483.75,27
+Penrith,lga,Outer Ring,16350,46.73,0.0592,1658,432.5,356.25,28
+Randwick,lga,Inner Ring,16550,8.89,-0.0244,1916,928.75,595.0,29
+Ryde,lga,Middle Ring,16700,11.78,0.0698,1786,645.0,480.0,30
+Strathfield,lga,Middle Ring,17100,12.23,0.082,1781,667.5,501.25,31
+Sutherland Shire,lga,Outer Ring,17150,27.18,0.0122,1979,679.5,468.75,32
+Sydney,lga,Inner Ring,17200,2.45,0.0309,1926,785.75,647.5,33
+The Hills Shire,lga,Outer Ring,17420,38.48,0.1051,2363,633.75,496.25,34
+Waverley,lga,Inner Ring,18050,6.0,0.0066,2308,1180.75,686.25,35
+Willoughby,lga,Middle Ring,18250,7.47,0.0121,2271,951.25,591.25,36
+Wollondilly,lga,Outer Ring,18400,75.22,0.0596,1871,463.75,318.25,37
+Woollahra,lga,Inner Ring,18500,4.62,-0.0148,2687,1289.5,680.0,38
