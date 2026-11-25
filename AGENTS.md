@@ -28,6 +28,8 @@ do the data work; Power BI (browser) does the model and report; GitHub publishes
 4. **Raw data is read-only.** Files in `data/raw/` are saved exactly as downloaded, with their original
    filenames, and never edited. Record each in `data/raw/MANIFEST.csv`
    (`filename, source_url, downloaded_on, sha256, bytes, licence`).
+   Archives or files over 25 MB go in `data/raw/_archives/` (gitignored, still in the manifest); the
+   specific member files we use are extracted byte-for-byte next to them under `data/raw/<source>/`.
 5. **Missing stays missing.** Blank or suppressed values become `NaN`/`NULL`, never `0`.
 6. **Never mix houses and units.** Every price figure is per dwelling type
    (`house` = non-strata, `unit` = strata).

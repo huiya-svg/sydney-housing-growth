@@ -13,6 +13,9 @@ scratch/
 # Address-level data must never be committed (see AGENTS.md rule 3)
 data/raw/private/
 
+# Large original archives (>25 MB) stay local; their manifest rows are committed (AGENTS.md rule 4)
+data/raw/_archives/
+
 # OS / editor
 .DS_Store
 .vscode/
