@@ -23,9 +23,9 @@ codex -c sandbox_workspace_write.network_access=true
 | P0 | Power BI account (before T05), GitHub account + repo ✅, LinkedIn URL ✅ | 0 | Kang | Power BI pending |
 | T01 | Python environment + core DCJ sales data: download and first look | 0–1 | Codex | Accepted 2026-11-25 |
 | T02 | Candidate "why" factors: find, download, screen (rent, population, income, distance, supply, CPI) | 1 | Codex | Accepted 2026-11-25 |
-| T03 | Greater Sydney LGA lookup + regions; reshape and clean core sales to long format; measure revisions | 2 | Codex | Ready |
-| T04 | Clean the factors that passed screening; build `dim_lga` | 2 | Codex | — |
-| T05 | `sql/transform.sql` (joins, CTE, window functions), `dim_date`, validation, export 4 CSVs | 2 | Codex | — |
+| T03 | Greater Sydney LGA lookup + regions; reshape and clean core sales to long format; measure revisions | 2 | Codex | Accepted 2026-11-25 |
+| T04 | Clean the D07 factors into `lga_factors.csv`; distance as SQL; add change columns to sales | 2 | Codex | Ready |
+| T05 | `sql/transform.sql` (joins, CTE, window functions incl. revised-estimate series), `dim_lga`, `dim_date`, validation, export 4 CSVs | 2 | Codex | — |
 | T06 | `docs/data_dictionary.md` for every column | 2 | Codex | — |
 | T07 | Growth measurement: nominal + real, ranking, annualised rate (Phase 3A) | 3 | Codex | — |
 | T08 | Factor tests: scatter, Spearman, correlation matrix, optional regression; draft findings | 3 | Codex + Kang | — |
