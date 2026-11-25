@@ -122,19 +122,30 @@ numbered_quarters AS (
            ROW_NUMBER() OVER (ORDER BY quarter_date) AS q_index,
            ROW_NUMBER() OVER (ORDER BY quarter_date DESC) AS reverse_q_index
     FROM quarters
+),
+sydney_cpi AS (
+    -- Read the quarter-start Sydney CPI series prepared by the cleaning notebook.
+    SELECT quarter_date, cpi_sydney
+    FROM read_csv('data/interim/cpi_sydney.csv', header = true, columns = {
+        'quarter_date': 'DATE', 'cpi_sydney': 'DOUBLE'
+    })
 )
 SELECT quarter_date, year, CONCAT(year, ' Q', quarter_number) AS quarter_label, q_index,
        year = 2019 AS is_baseline_2019,
-       reverse_q_index <= 4 AS is_latest_4q
-FROM numbered_quarters;
+       reverse_q_index <= 4 AS is_latest_4q,
+       c.cpi_sydney
+FROM numbered_quarters
+LEFT JOIN sydney_cpi AS c USING (quarter_date);
 
 -- Compare complete four-quarter windows for each geography and dwelling type.
 CREATE OR REPLACE TABLE lga_growth AS
-WITH window_years AS (
-    -- Each index step is a quarter, so the two mean indexes locate the window midpoints.
+WITH window_parameters AS (
+    -- Use the quarter indexes for elapsed time and the same two windows for inflation.
     SELECT (
         AVG(q_index) FILTER (WHERE is_latest_4q) - AVG(q_index) FILTER (WHERE is_baseline_2019)
-    ) / 4.0 AS years
+    ) / 4.0 AS years,
+    AVG(cpi_sydney) FILTER (WHERE is_latest_4q)
+        / AVG(cpi_sydney) FILTER (WHERE is_baseline_2019) AS cpi_ratio
     FROM dim_date
 ),
 window_prices AS (
@@ -162,6 +173,22 @@ window_growth AS (
            price_latest / price_2019 - 1 AS growth_pct,
            price_latest_rev / price_2019_rev - 1 AS growth_pct_rev
     FROM window_prices
+),
+nominal_ranks AS (
+    -- Rank only LGAs with a first-published growth figure within each dwelling type.
+    SELECT w.lga, w.dwelling_type,
+           RANK() OVER (PARTITION BY w.dwelling_type ORDER BY w.growth_pct DESC) AS growth_rank
+    FROM window_growth AS w
+    JOIN dim_lga AS g USING (lga)
+    WHERE g.geo_level = 'lga' AND w.growth_pct IS NOT NULL
+),
+revised_ranks AS (
+    -- Apply the same ranking rule to the available revised estimates.
+    SELECT w.lga, w.dwelling_type,
+           RANK() OVER (PARTITION BY w.dwelling_type ORDER BY w.growth_pct_rev DESC) AS growth_rank_rev
+    FROM window_growth AS w
+    JOIN dim_lga AS g USING (lga)
+    WHERE g.geo_level = 'lga' AND w.growth_pct_rev IS NOT NULL
 )
 SELECT w.lga, g.geo_level, g.region, w.dwelling_type, w.baseline_quarters, w.latest_quarters,
        w.baseline_low_sales_quarters, w.latest_low_sales_quarters, w.price_2019, w.price_latest,
@@ -170,7 +197,14 @@ SELECT w.lga, g.geo_level, g.region, w.dwelling_type, w.baseline_quarters, w.lat
        NULLIF(CONCAT_WS(' / ',
            CASE WHEN w.baseline_quarters < 4 THEN CONCAT('baseline: ', w.baseline_quarters, ' of 4 quarters published') END,
            CASE WHEN w.latest_quarters < 4 THEN CONCAT('latest: ', w.latest_quarters, ' of 4 quarters published') END
-       ), '') AS growth_note
+       ), '') AS growth_note,
+       t.cpi_ratio,
+       (1 + w.growth_pct) / t.cpi_ratio - 1 AS growth_pct_real,
+       n.growth_rank,
+       r.growth_rank_rev,
+       r.growth_rank_rev - n.growth_rank AS rank_change_rev
 FROM window_growth AS w
 JOIN dim_lga AS g USING (lga)
-CROSS JOIN window_years AS t;
+CROSS JOIN window_parameters AS t
+LEFT JOIN nominal_ranks AS n USING (lga, dwelling_type)
+LEFT JOIN revised_ranks AS r USING (lga, dwelling_type);
