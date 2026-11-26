@@ -154,19 +154,30 @@ Stay in Power Query: **Home → New Source → Text/CSV**, choose the next file,
 **Why:** both fact tables have `dwelling_type`. A slicer on `dim_dwelling` filters **both** at once, and it shows
 the nicer labels "Houses / Units".
 
-### 1.7 Optional (stretch): make the file portable with a `RepoPath` parameter
+### 1.7 Required: remove the fixed column count (and make the file portable)
 
-Right now each query has your Windows folder hard-coded, so the `.pbix` won't refresh on another computer.
-Do this only once everything else works.
+Each CSV query's first step was written with a **fixed column count**, e.g. `Columns=10`. If a CSV later gains
+columns (T08 will add some), Power BI would **silently ignore** them. Remove that count. While you're in the
+same line, also swap the hard-coded Windows folder for a parameter, so the file refreshes on any computer.
 
-1. **Home → Transform data** (opens Power Query) → **Home → Manage Parameters → New Parameter**.
-   Name `RepoPath`, Type **Text**, Current value = your clone folder **ending with a backslash**, e.g.
+1. Open Power Query: go to **Report view** (left bar, first icon) → **Home → Transform data**. If you can't see
+   the button, widen the window or click the **<** arrow at the left end of the ribbon.
+2. **Create the parameter:** in Power Query, **Home → Manage Parameters → New Parameter**. Name `RepoPath`,
+   Type **Text**, Current value = your clone folder **ending with a backslash**, e.g.
    `C:\Users\<you>\Documents\GitHub\sydney-housing-growth\` → **OK**.
-2. Select `fact_sales` → **Home → Advanced Editor**. Find the first line, which looks like
-   `Source = Csv.Document(File.Contents("C:\...\data\processed\fact_sales.csv"), ...`.
-   Replace the quoted path with `RepoPath & "data\processed\fact_sales.csv"` (no quotes around `RepoPath`).
-   Click **Done**.
-3. Repeat for the other three queries → **Close & Apply**.
+3. **Edit one query:** in the **Queries** list on the left, **right-click `fact_sales` → Advanced Editor**.
+   A window with code opens. The `Source = ...` line looks like this:
+   ```text
+   Source = Csv.Document(File.Contents("C:\Users\...\data\processed\fact_sales.csv"),[Delimiter=",", Columns=10, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+   ```
+   Change it to:
+   ```text
+   Source = Csv.Document(File.Contents(RepoPath & "data\processed\fact_sales.csv"),[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.None]),
+   ```
+   That's two edits: the path becomes `RepoPath & "data\processed\fact_sales.csv"`, and `Columns=10, ` is
+   deleted. Click **Done**. If a yellow error bar appears, check the quotes and commas.
+4. Do the same for `dim_lga`, `dim_date` and `lga_growth`. Each has its own file name and its own `Columns=` number.
+5. **Home → Close & Apply.** Check that the row counts are unchanged (2,204 / 38 / 29 / 76).
 
 ---
 
@@ -175,9 +186,9 @@ Do this only once everything else works.
 ### 2.1 Open Model view
 
 On the left bar, the icons are **Report**, **Table**, **Model** (three linked boxes) and sometimes **DAX query**.
-Click **Model**. You'll see five table cards. Drag them into a star layout:
-- `fact_sales` in the centre, with `dim_lga` on the left, `dim_date` at the top and `dim_dwelling` at the bottom;
-- `lga_growth` on the far right, next to `dim_lga` and `dim_dwelling`.
+Click **Model**. You'll see five table cards. Drag them into a star layout: `fact_sales` in the centre, with
+`dim_lga` on the left, `dim_date` at the top and `dim_dwelling` at the bottom. Put `lga_growth` anywhere it sits
+close to both `dim_lga` and `dim_dwelling`, e.g. below `dim_lga`. The exact layout doesn't matter; readable lines do.
 
 Because you turned off autodetect, there should be **no lines yet**. If you see any, click the line → **Delete**.
 
@@ -241,7 +252,7 @@ Leave `fact_sales[sales_count]` as **Sum**, because summing sales counts is mean
 
 ### 2.5 Hide technical columns
 
-In **Model view**, right-click each column → **Hide in report view**. Hidden columns show greyed out. They still
+In **Model view**, right-click **each** column listed below → **Hide in report view** (all of them, both groups). Hidden columns show greyed out. They still
 work in relationships and DAX; report users just don't see them.
 - Fact-side keys: `fact_sales[lga]`, `fact_sales[quarter_date]`, `fact_sales[dwelling_type]`, `lga_growth[lga]`,
   `lga_growth[dwelling_type]`. Users should slice by the dimension tables.
@@ -250,7 +261,10 @@ work in relationships and DAX; report users just don't see them.
 
 ### 2.6 Number formats
 
-Select a column → **Column tools → Format**:
+Go to **Table view** (left bar, second icon). The **Column tools** ribbon only appears there, after you click
+a column. Select a column → **Column tools → Format**:
+- **Dates:** `dim_date[quarter_date]` → Format → **Custom**, `yyyy-mm-dd`. If your Windows language is Chinese,
+  dates otherwise show as `2019年1月1日`, and recruiters would see that in the report.
 - **Percentage, 1 decimal:** `yoy_change`, `growth_pct`, `growth_annualised`, `growth_pct_rev`,
   `growth_pct_real`, `pop_growth_2016_19`.
 - **Currency, 0 decimals** ($ English (Australia)): `median_price`, `median_price_revised_est`, `price_2019`,
@@ -335,32 +349,85 @@ RETURN DIVIDE ( cur - prev, prev )
 ```
 
 ```DAX
-Price Index (2019 = 100) = DIVIDE ( [Median Price], [Price 2019] ) * 100
+Price Index = DIVIDE ( [Median Price], [Price 2019] ) * 100
 ```
+*Name:* a measure name can't contain `=`. The formula bar treats the first `=` as the end of the name. Put
+"2019 = 100" in the chart's axis title instead.
 
 Format: select each measure → **Measure tools → Format**. `Growth Since 2019`, `Greater Sydney Growth` and
 `YoY Change` → Percentage (1 dp). Prices → Currency (0 dp). Price Index → Decimal (1 dp).
 
 ---
 
-## Part 4 — Cross-check against Python (the rigour step, ≈ 15 min)
+## Part 4 — Cross-check against Python (the rigour step, ≈ 20 min)
 
-1. **Report view** → new page (the **+** at the bottom) → insert a **Table** visual. Add `dim_lga[lga]`,
-   `[Growth Since 2019]` and `lga_growth[growth_pct]`.
-2. **Filters** pane:
-   - `dim_lga[geo_level]` → tick `lga` and `greater_sydney`;
-   - `dim_dwelling[dwelling_label]` → tick **Houses** only.
-3. Check these three. All must match `lga_growth.csv` to the decimal:
+**Goal:** one table showing, for every LGA, the growth **Power BI calculates** (`[Growth Since 2019]`) next to
+the growth **Python/SQL calculated** (`lga_growth[growth_pct]`). If the two columns are equal, your DAX is proven
+correct.
 
-| Row | Expected growth |
+**Two things to know first**
+- **Filters don't need to be in the visual.** You can filter a table by `geo_level` or dwelling type without showing
+  those columns. You drag them into the **Filters pane** instead.
+- **The panes on the right** (Report view): **Filters**, **Visualizations** and **Data**. If one is collapsed to a
+  thin strip, click its name or the `<<` arrow to open it. If one is missing, open the **View** tab and click it on.
+
+### 4.1 Make a page and a table
+1. **Report view** (left bar, first icon, the bar chart).
+2. At the bottom, click **+** to add a page. Double-click its tab and rename it `Cross-check`.
+3. Click on an **empty** part of the white canvas, so no visual is selected.
+4. **Visualizations** pane → **Build visual** tab → click the **Table** icon (a small grid; hover over the icons and
+   the tooltip says "Table"). An empty table frame appears on the canvas.
+   *Shortcut:* with nothing selected, tick a **text** column in the Data pane and Power BI makes a table by itself.
+5. Drag the frame's corner to make it large (most of the page).
+
+### 4.2 Put three fields in the table
+
+First make a measure for the Python/SQL value: right-click `_Measures` → **New measure**:
+```DAX
+Growth (Python) = MAX ( lga_growth[growth_pct] )
+```
+*Why a measure and not the raw `growth_pct` column:* the table groups rows by `dim_lga[lga]`. A raw column from
+another table (`lga_growth[growth_pct]`) becomes a **second grouping column**, and Power BI then pairs every LGA with
+every growth value it finds (many rows per LGA). As a measure, it's calculated **inside** each LGA's row, after
+the relationships have filtered `lga_growth` to that LGA and dwelling type, which leaves exactly one row, so MAX
+returns it. Rule of thumb: **put dimension columns in rows and measures in values.**
+
+With the table selected (it has a border), tick these in the **Data** pane:
+1. `dim_lga` → `lga`
+2. `_Measures` → `Growth Since 2019`
+3. `_Measures` → `Growth (Python)`
+
+### 4.3 Add the two filters (Filters pane)
+1. Open the **Filters** pane. It has sections **Filters on this visual**, **Filters on this page** and
+   **Filters on all pages**.
+2. Drag `dim_lga` → `geo_level` from the Data pane into **Filters on this visual** ("Add data fields here").
+   The filter card opens: choose **Basic filtering** and tick **lga** and **greater_sydney**. Rings drop out.
+3. Drag `dim_dwelling` → `dwelling_label` into **Filters on this visual**. Tick **Houses** only.
+
+You should now see 35 rows: 34 LGAs and Greater Sydney. Greater Sydney sorts first because of the `sort_order`
+you set in Part 2.3.
+
+### 4.4 Show two decimals and remove the total row
+1. In the Data pane click the measure `Growth Since 2019` → ribbon **Measure tools** → click the **%** button
+   (so it shows 67.47%, not 0.67) → decimal places **2**.
+2. Do the same for the measure `Growth (Python)`.
+3. Select the table → Visualizations pane → **Format visual** (paintbrush) → **Visual** → **Totals** → **Off**.
+   The total row would show a growth "averaged" over all LGAs' medians, which is exactly the meaningless number
+   pitfall #1 warns about.
+
+### 4.5 Check
+| Row | Expected growth (both columns) |
 |---|---|
-| Blacktown, houses | 72.66% (set the format to 2 decimals to see it) |
+| Blacktown, houses | 72.66% |
 | Greater Sydney, houses | 67.47% |
-| Sydney, units (switch the filter to **Units**) | 6.89% |
+| Sydney, units (in the filter card, untick Houses and tick **Units**) | 6.89% |
 
-4. Scan the whole table: the two growth columns should be equal on **every** row. Wollondilly units are blank in
-   both.
-5. Screenshot the table → `<repo>\powerbi\crosscheck.png`. The README will mention this check.
+Scan the whole table. The two growth columns must be equal on **every** row. In Units, Wollondilly is blank in
+both columns, which is correct (D05).
+
+### 4.6 Screenshot
+Set the filter back to **Houses**, press **Win + Shift + S**, select the table, then click the notification →
+**Save** as `<repo>\powerbi\crosscheck.png`. **Ctrl + S** to save the report.
 
 If a number differs, don't change the data. Note the LGA and both numbers and send them to Claude.
 
