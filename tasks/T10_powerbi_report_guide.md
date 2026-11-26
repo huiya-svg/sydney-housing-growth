@@ -16,12 +16,22 @@ Four pages, one question each (project plan, Phase 4). Design rules for every pa
 ## Part 0 — Set-up (≈ 15 min)
 
 ### 0.1 Theme colours (the same as the Python charts)
-**View → Themes → Customize current theme → Name and colors → Theme colors:**
+The colours are saved in a small theme file in the repo, `powerbi/sydney_theme.json`:
 - Color 1 = `#23578A` (blue, highlight);
 - Color 2 = `#A54B16` (orange, benchmark or "bottom");
 - Color 3 = `#BFC5CC` (grey, everyone else).
 
-Click **Apply**.
+Load it:
+1. Open the ribbon tab that shows the theme thumbnails. That's **View** in older versions and **Design** in newer ones.
+2. Find the small **▾ arrow** at the right edge of the thumbnail row, and click it to open the full theme menu.
+3. Click **Browse for themes**, pick `<repo>\powerbi\sydney_theme.json` and click **Open**. Power BI says
+   "Theme imported successfully".
+
+Check it worked: open **Customize current theme** in the same ▾ menu, or the colour picker of any visual. The first
+three theme colours should be blue, orange and grey.
+
+*Why a file:* it's reproducible and version-controlled, like the rest of the repo. Anyone who clones the repo gets
+the same colours.
 
 ### 0.2 Load the factor-test results (for page 3)
 **Home → Get data → Text/CSV → `data\processed\factor_tests.csv` → Transform Data.** Set the types: `n` Whole Number;
