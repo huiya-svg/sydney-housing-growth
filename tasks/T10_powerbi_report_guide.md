@@ -22,13 +22,14 @@ The colours are saved in a small theme file in the repo, `powerbi/sydney_theme.j
 - Color 3 = `#BFC5CC` (grey, everyone else).
 
 Load it:
-1. Open the ribbon tab that shows the theme thumbnails. That's **View** in older versions and **Design** in newer ones.
-2. Find the small **▾ arrow** at the right edge of the thumbnail row, and click it to open the full theme menu.
-3. Click **Browse for themes**, pick `<repo>\powerbi\sydney_theme.json` and click **Open**. Power BI says
-   "Theme imported successfully".
+- **Newer Power BI (Design tab):** **Design → Import theme**, then pick `<repo>\powerbi\sydney_theme.json` and click **Open**.
+- **Older Power BI (View tab):** **View → Themes ▾ → Browse for themes**, then pick the same file.
 
-Check it worked: open **Customize current theme** in the same ▾ menu, or the colour picker of any visual. The first
-three theme colours should be blue, orange and grey.
+Check it worked: select any visual, open the colour picker, and look at the top row. It should start with blue,
+orange, grey.
+
+**Fallback if the colours don't change:** go to **Design → Customize theme** (or **View → Themes ▾ → Customize
+current theme**) → **Name and colors** → set Color 1, 2 and 3 to the hex codes above → **Apply**.
 
 *Why a file:* it's reproducible and version-controlled, like the rest of the repo. Anyone who clones the repo gets
 the same colours.
