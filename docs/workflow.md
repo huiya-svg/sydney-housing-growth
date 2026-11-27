@@ -30,6 +30,6 @@ codex -c sandbox_workspace_write.network_access=true
 | T07 | Growth analysis: CPI real growth, rankings, D08 sensitivity, first charts (Phase 3A) | 3 | Codex | Accepted 2026-11-26 (after Revision 1) |
 | T08 | Factor tests: scatter, Spearman, correlation matrix, optional regression; draft findings | 3 | Codex + Kang | Accepted 2026-11-26 (Kang: D09, findings) |
 | T09 | Power BI Desktop (Windows): model, star schema, DAX measures, cross-check vs Python — guide in `tasks/T09_powerbi_model_guide.md` | 4 | **Kang** (Claude guides) | Done 2026-11-26 (checkpoints A + B passed) |
-| T10 | Power BI report pages 1–4, screenshots, PDF export | 4 | **Kang** (Claude reviews) | In progress (guide `tasks/T10_powerbi_report_guide.md`) |
-| T11 | README write-up, limitations, reproduce steps, final checklist | 5 | Kang + Codex | — |
+| T10 | Power BI report pages 1–4, screenshots, PDF export | 4 | **Kang** (Claude reviews) | Accepted 2026-11-27 after polish (saved `.pbix` still to be committed) |
+| T11 | README write-up, limitations, reproduce steps, final checklist | 5 | Kang + Codex | Spec written 2026-11-27 (`tasks/T11_readme_and_final_checks.md`); decisions confirmed; ready for Codex |
 | T12 | LinkedIn post draft | 5 | Kang | — |
