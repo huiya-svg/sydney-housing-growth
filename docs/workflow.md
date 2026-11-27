@@ -26,10 +26,10 @@ codex -c sandbox_workspace_write.network_access=true
 | T03 | Greater Sydney LGA lookup + regions; reshape and clean core sales to long format; measure revisions | 2 | Codex | Accepted 2026-11-25 |
 | T04 | Clean the D07 factors into `lga_factors.csv`; distance as SQL; add change columns to sales | 2 | Codex | Accepted 2026-11-25 |
 | T05 | `sql/transform.sql` (joins, CTE, window functions incl. revised-estimate series), `dim_lga`, `dim_date`, `lga_growth`, validation, export 4 CSVs | 2 | Codex | Accepted 2026-11-26 |
-| T06 | `docs/data_dictionary.md` for every column (moved: runs after T08 so it documents final columns) | 2 | Codex | Ready (spec `tasks/T06_data_dictionary.md`) |
+| T06 | `docs/data_dictionary.md` for every column (moved: runs after T08 so it documents final columns) | 2 | Codex | Accepted 2026-11-26 |
 | T07 | Growth analysis: CPI real growth, rankings, D08 sensitivity, first charts (Phase 3A) | 3 | Codex | Accepted 2026-11-26 (after Revision 1) |
 | T08 | Factor tests: scatter, Spearman, correlation matrix, optional regression; draft findings | 3 | Codex + Kang | Accepted 2026-11-26 (Kang: D09, findings) |
 | T09 | Power BI Desktop (Windows): model, star schema, DAX measures, cross-check vs Python — guide in `tasks/T09_powerbi_model_guide.md` | 4 | **Kang** (Claude guides) | Done 2026-11-26 (checkpoints A + B passed) |
-| T10 | Power BI report pages 1–4, screenshots, PDF export | 4 | **Kang** (Claude reviews) | Ready (guide `tasks/T10_powerbi_report_guide.md`) |
+| T10 | Power BI report pages 1–4, screenshots, PDF export | 4 | **Kang** (Claude reviews) | In progress (guide `tasks/T10_powerbi_report_guide.md`) |
 | T11 | README write-up, limitations, reproduce steps, final checklist | 5 | Kang + Codex | — |
 | T12 | LinkedIn post draft | 5 | Kang | — |
