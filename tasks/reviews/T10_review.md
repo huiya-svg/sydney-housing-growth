@@ -91,7 +91,7 @@ have these fixes yet.
 | 7 Trends subtitle | Done (off). The title still renders as "(2019 average =100)", with no space after "=" (nit). |
 | PDF | 4 pages, the same content as the new PNGs, no Cross-check page. |
 | 8 Layout | Not changed. Optional. |
-| 9 `RepoPath` | Still waiting for Kang's answer. |
+| 9 `RepoPath` | Resolved: Kang checked on 2026-11-27 that the value has no Windows user name. No change needed. |
 
 The nits are optional. If you fix them, do it in the same save as the `.pbix` commit below.
 
