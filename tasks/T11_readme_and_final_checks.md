@@ -27,7 +27,8 @@ starts, Codex stops and asks.
       price rose 18.1%, which is a 4.8% fall after inflation.
    2. Seven of the 10 fastest-growing house LGAs are in DCJ's Middle Ring (about 7–21 km from the CBD). Fairfield led
       houses at 83.0%, and Hawkesbury led units at 58.8%.
-   3. Fast-growing house LGAs were the cheaper, lower-income areas in 2019. Price, income and rent move together, so
+   3. Fast-growing house LGAs were the cheaper areas in 2019 and had lower household incomes at the 2016 Census.
+      _(Income year corrected after review, 2026-11-27; it was "cheaper, lower-income areas in 2019".)_ Price, income and rent move together, so
       the tests can't say which one matters. For units, none of the five factors showed a clear link.
 
 ## Scope

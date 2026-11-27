@@ -74,7 +74,7 @@ Goal: four tidy CSVs, one row per thing, that Power BI loads with no further cle
 | File | One row per | Key columns |
 |---|---|---|
 | fact_sales.csv | LGA × quarter × dwelling type | lga, quarter_date, dwelling_type, median_price, sales_count |
-| dim_lga.csv | LGA | lga, region, distance_km, pop_growth_pct, median_income |
+| dim_lga.csv | LGA | lga, region, distance_km, pop_growth_2016_19, income_2016_weekly |
 | dim_date.csv | quarter | quarter_date, year, quarter_label, q_index, is_baseline_2019, is_latest_4q |
 | lga_growth.csv | LGA × dwelling type | lga, dwelling_type, price_2019, price_latest, growth_pct |
 
