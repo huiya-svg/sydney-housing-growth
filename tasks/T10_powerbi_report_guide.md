@@ -359,7 +359,8 @@ can answer.
 
 ### 5.4 Make the links clickable
 Select the link text inside the text box → toolbar **link** icon (chain) → paste the full URL (`https://…`) → Enter.
-Links stay clickable in the exported PDF.
+Links work in Power BI Desktop. **They do not work in the exported PDF:** Power BI Desktop saves each page as an
+image, so the PDF has no live text or links. Write the link text as the readable repo name, and put the real links in the README.
 
 ### 5.5 Page title
 Same style as the other pages (copy the title text box from page 3 and change the text): **"Notes: data, method and
